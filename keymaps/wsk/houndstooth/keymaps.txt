@@ -1,0 +1,1 @@
+default:keyboards/wsk/houndstooth/keymaps/default

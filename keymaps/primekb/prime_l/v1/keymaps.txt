@@ -1,0 +1,1 @@
+default:keyboards/primekb/prime_l/keymaps/default via:keyboards/primekb/prime_l/keymaps/via

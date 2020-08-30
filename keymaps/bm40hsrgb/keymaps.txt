@@ -1,0 +1,1 @@
+default:keyboards/bm40hsrgb/keymaps/default guidoism:layouts/community/planck_mit/guidoism

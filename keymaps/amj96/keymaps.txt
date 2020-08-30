@@ -1,0 +1,1 @@
+default:keyboards/amj96/keymaps/default

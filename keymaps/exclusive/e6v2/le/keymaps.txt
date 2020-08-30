@@ -1,0 +1,1 @@
+default:keyboards/exclusive/e6v2/le/keymaps/default eric:keyboards/exclusive/e6v2/le/keymaps/eric johu:keyboards/exclusive/e6v2/le/keymaps/johu mechmerlin-ansi:layouts/community/60_ansi/mechmerlin-ansi stanrc85-ansi:layouts/community/60_ansi/stanrc85-ansi talljoe-ansi:layouts/community/60_ansi/talljoe-ansi xyverz:layouts/community/60_ansi/xyverz

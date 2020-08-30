@@ -1,0 +1,1 @@
+default:keyboards/eniigmakeyboards/ek87/keymaps/default via:keyboards/eniigmakeyboards/ek87/keymaps/via

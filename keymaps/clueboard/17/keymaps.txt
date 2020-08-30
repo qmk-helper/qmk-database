@@ -1,0 +1,1 @@
+default:keyboards/clueboard/17/keymaps/default

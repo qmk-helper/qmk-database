@@ -1,0 +1,1 @@
+default:keyboards/10bleoledhub/keymaps/default via:keyboards/10bleoledhub/keymaps/via

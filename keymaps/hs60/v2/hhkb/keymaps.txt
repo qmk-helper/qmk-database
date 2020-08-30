@@ -1,0 +1,1 @@
+default:keyboards/hs60/v2/hhkb/keymaps/default goatmaster:keyboards/hs60/v2/hhkb/keymaps/goatmaster via:keyboards/hs60/v2/hhkb/keymaps/via

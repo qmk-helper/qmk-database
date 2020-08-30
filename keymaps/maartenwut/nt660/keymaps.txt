@@ -1,0 +1,1 @@
+default:keyboards/maartenwut/nt660/keymaps/default maartenwut:keyboards/maartenwut/nt660/keymaps/maartenwut mechmerlin:layouts/community/66_ansi/mechmerlin skully:layouts/community/66_ansi/skully via:keyboards/maartenwut/nt660/keymaps/via xyverz:layouts/community/66_ansi/xyverz

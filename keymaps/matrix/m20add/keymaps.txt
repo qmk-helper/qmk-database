@@ -1,0 +1,1 @@
+default:keyboards/matrix/m20add/keymaps/default iso:keyboards/matrix/m20add/keymaps/iso

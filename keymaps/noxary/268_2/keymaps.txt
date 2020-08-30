@@ -1,0 +1,1 @@
+default:keyboards/noxary/268_2/keymaps/default mechmerlin:layouts/community/65_ansi_blocker/mechmerlin via:keyboards/noxary/268_2/keymaps/via

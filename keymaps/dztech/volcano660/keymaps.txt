@@ -1,0 +1,1 @@
+default:keyboards/dztech/volcano660/keymaps/default via:keyboards/dztech/volcano660/keymaps/via

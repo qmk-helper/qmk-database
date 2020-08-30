@@ -1,0 +1,1 @@
+crd:keyboards/cheshire/curiosity/keymaps/crd default:keyboards/cheshire/curiosity/keymaps/default madhatter:keyboards/cheshire/curiosity/keymaps/madhatter

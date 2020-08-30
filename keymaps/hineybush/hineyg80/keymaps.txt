@@ -1,0 +1,1 @@
+default:keyboards/hineybush/hineyg80/keymaps/default wkl:keyboards/hineybush/hineyg80/keymaps/wkl

@@ -1,0 +1,1 @@
+default:keyboards/handwired/not_so_minidox/keymaps/default mtdjr:keyboards/handwired/not_so_minidox/keymaps/mtdjr

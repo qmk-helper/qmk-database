@@ -1,0 +1,1 @@
+default:keyboards/latinpad/keymaps/default via:keyboards/latinpad/keymaps/via

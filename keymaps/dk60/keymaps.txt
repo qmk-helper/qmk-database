@@ -1,0 +1,1 @@
+default:keyboards/dk60/keymaps/default

@@ -1,0 +1,1 @@
+boardy:keyboards/org60/keymaps/boardy default:keyboards/org60/keymaps/default jarred:keyboards/org60/keymaps/jarred mechmerlin-ansi:layouts/community/60_ansi/mechmerlin-ansi stanrc85-ansi:layouts/community/60_ansi/stanrc85-ansi talljoe-ansi:layouts/community/60_ansi/talljoe-ansi xyverz:layouts/community/60_ansi/xyverz

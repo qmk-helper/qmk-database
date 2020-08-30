@@ -1,0 +1,1 @@
+default:keyboards/reversestudio/decadepad/keymaps/default via:keyboards/reversestudio/decadepad/keymaps/via

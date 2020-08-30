@@ -1,0 +1,1 @@
+bcat:layouts/community/60_tsangan_hhkb/bcat default:keyboards/handwired/fruity60/keymaps/default dohmain:layouts/community/60_tsangan_hhkb/dohmain yanfali:layouts/community/60_tsangan_hhkb/yanfali yanfali_wkl:layouts/community/60_tsangan_hhkb/yanfali_wkl

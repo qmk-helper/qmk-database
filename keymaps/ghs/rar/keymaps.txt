@@ -1,0 +1,1 @@
+default:keyboards/ghs/rar/keymaps/default iso:keyboards/ghs/rar/keymaps/iso via:keyboards/ghs/rar/keymaps/via

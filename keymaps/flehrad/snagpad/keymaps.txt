@@ -1,0 +1,1 @@
+default:keyboards/flehrad/snagpad/keymaps/default via:keyboards/flehrad/snagpad/keymaps/via

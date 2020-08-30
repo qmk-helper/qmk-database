@@ -1,0 +1,1 @@
+default:keyboards/40percentclub/ut47/keymaps/default non-us:keyboards/40percentclub/ut47/keymaps/non-us nordic:keyboards/40percentclub/ut47/keymaps/nordic rgb:keyboards/40percentclub/ut47/keymaps/rgb

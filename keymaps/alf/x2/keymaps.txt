@@ -1,0 +1,1 @@
+default:keyboards/alf/x2/keymaps/default hhkb_60:keyboards/alf/x2/keymaps/hhkb_60

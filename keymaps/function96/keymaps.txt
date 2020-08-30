@@ -1,0 +1,1 @@
+default:keyboards/function96/keymaps/default

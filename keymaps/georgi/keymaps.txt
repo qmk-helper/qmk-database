@@ -1,0 +1,1 @@
+colemak-dh:keyboards/georgi/keymaps/colemak-dh default-flipped:keyboards/georgi/keymaps/default-flipped default:keyboards/georgi/keymaps/default dennytom:keyboards/georgi/keymaps/dennytom minimal:keyboards/georgi/keymaps/minimal norman:keyboards/georgi/keymaps/norman

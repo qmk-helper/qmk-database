@@ -1,0 +1,1 @@
+default:keyboards/keebio/chocopad/keymaps/default jotix:layouts/community/ortho_4x4/jotix khord:keyboards/keebio/chocopad/keymaps/khord

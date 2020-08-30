@@ -1,0 +1,1 @@
+default:keyboards/keebwerk/nano_slider/keymaps/default

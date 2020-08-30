@@ -1,0 +1,1 @@
+default:keyboards/al1/keymaps/default splitbs:keyboards/al1/keymaps/splitbs

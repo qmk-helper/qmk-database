@@ -1,0 +1,1 @@
+default:keyboards/botanicalkeyboards/fm2u/keymaps/default via:keyboards/botanicalkeyboards/fm2u/keymaps/via

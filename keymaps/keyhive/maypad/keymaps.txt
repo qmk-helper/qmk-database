@@ -1,0 +1,1 @@
+default:keyboards/keyhive/maypad/keymaps/default via:keyboards/keyhive/maypad/keymaps/via

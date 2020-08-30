@@ -1,0 +1,1 @@
+{"keyboard": "keebio/bdn9/rev1", "layout": "LAYOUT", "layers": [["KC_MUTE", "KC_UP", "TD(LAY)", "KC_LEFT", "KC_DOWN", "KC_RGHT", "KC_NO", "KC_NO", "KC_NO"], ["KC_TRNS", "KC_SPC", "TG(_MACRO)", "M801", "M802", "M803", "MAIL_C", "KC_NO", "EX_ARR"], ["KC_TRNS", "BL_STEP", "TG(_MOD)", "KC_NO", "RGB_MOD", "KC_NO", "KC_NO", "KC_NO", "KC_NO"]]}

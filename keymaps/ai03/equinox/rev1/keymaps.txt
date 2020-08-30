@@ -1,0 +1,1 @@
+crd:keyboards/ai03/equinox/keymaps/crd default:keyboards/ai03/equinox/keymaps/default via:keyboards/ai03/equinox/keymaps/via

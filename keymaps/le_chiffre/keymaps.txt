@@ -1,0 +1,1 @@
+default:keyboards/le_chiffre/keymaps/default

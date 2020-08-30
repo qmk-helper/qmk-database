@@ -1,0 +1,1 @@
+default:keyboards/jm60/keymaps/default poker3:keyboards/jm60/keymaps/poker3

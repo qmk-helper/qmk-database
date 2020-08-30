@@ -1,0 +1,1 @@
+default:keyboards/claw44/keymaps/default yfuku:keyboards/claw44/keymaps/yfuku

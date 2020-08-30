@@ -1,0 +1,1 @@
+default:keyboards/arch_36/keymaps/default obosob:keyboards/arch_36/keymaps/obosob

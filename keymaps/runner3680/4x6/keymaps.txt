@@ -1,0 +1,1 @@
+default:keyboards/runner3680/4x6/keymaps/default

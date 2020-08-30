@@ -1,0 +1,1 @@
+default:keyboards/wilba_tech/wt60_c/keymaps/default via:keyboards/wilba_tech/wt60_c/keymaps/via

@@ -1,0 +1,1 @@
+ansi_std:keyboards/gh80_3000/keymaps/ansi_std ansi_wkl:keyboards/gh80_3000/keymaps/ansi_wkl default:keyboards/gh80_3000/keymaps/default iso_default:keyboards/gh80_3000/keymaps/iso_default iso_std:keyboards/gh80_3000/keymaps/iso_std iso_wkl:keyboards/gh80_3000/keymaps/iso_wkl

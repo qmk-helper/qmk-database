@@ -1,0 +1,1 @@
+brainfuck:keyboards/namecard2x4/keymaps/brainfuck default:keyboards/namecard2x4/keymaps/default

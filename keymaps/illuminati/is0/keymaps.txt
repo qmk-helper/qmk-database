@@ -1,0 +1,1 @@
+ctrlaltdel:keyboards/illuminati/is0/keymaps/ctrlaltdel default:keyboards/illuminati/is0/keymaps/default via:keyboards/illuminati/is0/keymaps/via

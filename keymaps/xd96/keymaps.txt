@@ -1,0 +1,1 @@
+default:keyboards/xd96/keymaps/default default_iso:keyboards/xd96/keymaps/default_iso via:keyboards/xd96/keymaps/via

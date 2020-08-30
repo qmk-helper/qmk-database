@@ -1,0 +1,1 @@
+Boy_314:keyboards/40percentclub/half_n_half/keymaps/Boy_314 default:keyboards/40percentclub/half_n_half/keymaps/default

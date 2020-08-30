@@ -1,0 +1,1 @@
+default:keyboards/cospad/keymaps/default detrus:keyboards/cospad/keymaps/detrus split_plus_and_zero:keyboards/cospad/keymaps/split_plus_and_zero split_zero:keyboards/cospad/keymaps/split_zero

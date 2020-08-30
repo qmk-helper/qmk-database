@@ -1,0 +1,1 @@
+billypython:keyboards/whitefox/keymaps/billypython default:keyboards/whitefox/keymaps/default dhertz:keyboards/whitefox/keymaps/dhertz dudeofawesome:keyboards/whitefox/keymaps/dudeofawesome jetpacktuxedo:keyboards/whitefox/keymaps/jetpacktuxedo kim-kim:keyboards/whitefox/keymaps/kim-kim konstantin:keyboards/whitefox/keymaps/konstantin matt3o:keyboards/whitefox/keymaps/matt3o

@@ -1,0 +1,1 @@
+default:keyboards/1upkeyboards/1up60hte/keymaps/default hhkb:keyboards/1upkeyboards/1up60hte/keymaps/hhkb talljoe-hhkb:layouts/community/60_hhkb/talljoe-hhkb via:keyboards/1upkeyboards/1up60hte/keymaps/via yanfali:layouts/community/60_hhkb/yanfali

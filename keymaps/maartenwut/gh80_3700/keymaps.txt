@@ -1,0 +1,1 @@
+default:keyboards/maartenwut/gh80_3700/keymaps/default ps2:keyboards/maartenwut/gh80_3700/keymaps/ps2 rgb:keyboards/maartenwut/gh80_3700/keymaps/rgb via:keyboards/maartenwut/gh80_3700/keymaps/via

@@ -1,0 +1,1 @@
+default:keyboards/suihankey/alpha/keymaps/default

@@ -1,0 +1,1 @@
+JIS:keyboards/runner3680/5x8/keymaps/JIS default:keyboards/runner3680/5x8/keymaps/default

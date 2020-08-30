@@ -1,0 +1,1 @@
+default:keyboards/handwired/dactyl_manuform/5x6_5/keymaps/default

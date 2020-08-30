@@ -1,0 +1,1 @@
+default:keyboards/wilba_tech/rama_works_m6_b/keymaps/default via:keyboards/wilba_tech/rama_works_m6_b/keymaps/via

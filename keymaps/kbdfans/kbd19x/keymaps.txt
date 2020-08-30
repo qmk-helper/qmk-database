@@ -1,0 +1,1 @@
+default:keyboards/kbdfans/kbd19x/keymaps/default

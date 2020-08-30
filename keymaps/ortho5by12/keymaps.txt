@@ -1,0 +1,1 @@
+default:keyboards/ortho5by12/keymaps/default

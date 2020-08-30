@@ -1,0 +1,1 @@
+default:keyboards/southpole/keymaps/default foobeard:keyboards/southpole/keymaps/foobeard

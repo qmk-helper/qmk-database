@@ -1,0 +1,1 @@
+check:keyboards/shiro/keymaps/check default:keyboards/shiro/keymaps/default default_mac:keyboards/shiro/keymaps/default_mac

@@ -1,0 +1,1 @@
+default:keyboards/handwired/2x5keypad/keymaps/default

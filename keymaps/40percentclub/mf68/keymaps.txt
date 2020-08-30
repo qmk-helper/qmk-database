@@ -1,0 +1,1 @@
+68keys:keyboards/40percentclub/mf68/keymaps/68keys default:keyboards/40percentclub/mf68/keymaps/default emdarcher:keyboards/40percentclub/mf68/keymaps/emdarcher factory:keyboards/40percentclub/mf68/keymaps/factory mechmerlin:layouts/community/68_ansi/mechmerlin mf68_ble:keyboards/40percentclub/mf68/keymaps/mf68_ble

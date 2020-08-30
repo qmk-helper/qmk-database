@@ -1,0 +1,1 @@
+default:keyboards/themadnoodle/noodlepad/keymaps/default

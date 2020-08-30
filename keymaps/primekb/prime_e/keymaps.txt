@@ -1,0 +1,1 @@
+default:keyboards/primekb/prime_e/keymaps/default jetpacktuxedo:keyboards/primekb/prime_e/keymaps/jetpacktuxedo madhatter:keyboards/primekb/prime_e/keymaps/madhatter via:keyboards/primekb/prime_e/keymaps/via

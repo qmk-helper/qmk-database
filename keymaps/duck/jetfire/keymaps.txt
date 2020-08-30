@@ -1,0 +1,1 @@
+default:keyboards/duck/jetfire/keymaps/default

@@ -1,0 +1,1 @@
+default:keyboards/dozen0/keymaps/default f12:keyboards/dozen0/keymaps/f12

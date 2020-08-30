@@ -1,0 +1,1 @@
+default:keyboards/ckeys/handwire_101/keymaps/default

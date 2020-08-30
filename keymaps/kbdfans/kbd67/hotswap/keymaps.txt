@@ -1,0 +1,1 @@
+bcat:layouts/community/65_ansi_blocker_split_bs/bcat default:keyboards/kbdfans/kbd67/hotswap/keymaps/default stevanmilic:keyboards/kbdfans/kbd67/hotswap/keymaps/stevanmilic zunger:keyboards/kbdfans/kbd67/hotswap/keymaps/zunger

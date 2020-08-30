@@ -1,0 +1,1 @@
+default:keyboards/tokyo60/keymaps/default swappedBottomRow:keyboards/tokyo60/keymaps/swappedBottomRow talljoe-hhkb:layouts/community/60_hhkb/talljoe-hhkb via:keyboards/tokyo60/keymaps/via yanfali:layouts/community/60_hhkb/yanfali

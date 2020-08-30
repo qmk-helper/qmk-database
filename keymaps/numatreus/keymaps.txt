@@ -1,0 +1,1 @@
+default:keyboards/numatreus/keymaps/default hdbx:keyboards/numatreus/keymaps/hdbx like_jis:keyboards/numatreus/keymaps/like_jis yohewi:keyboards/numatreus/keymaps/yohewi

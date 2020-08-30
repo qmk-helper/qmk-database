@@ -1,0 +1,1 @@
+actuation-point-example:keyboards/fc980c/keymaps/actuation-point-example coloneljesus:keyboards/fc980c/keymaps/coloneljesus default:keyboards/fc980c/keymaps/default

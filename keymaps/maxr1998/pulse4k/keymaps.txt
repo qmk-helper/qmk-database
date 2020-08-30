@@ -1,0 +1,1 @@
+default:keyboards/maxr1998/pulse4k/keymaps/default maxr1998:keyboards/maxr1998/pulse4k/keymaps/maxr1998

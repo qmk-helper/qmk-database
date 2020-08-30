@@ -1,0 +1,1 @@
+default:keyboards/clawsome/bookerboard/keymaps/default

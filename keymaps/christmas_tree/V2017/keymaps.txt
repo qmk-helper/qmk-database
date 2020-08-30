@@ -1,0 +1,1 @@
+default:keyboards/christmas_tree/keymaps/default

@@ -1,0 +1,1 @@
+default:keyboards/atomic/keymaps/default pvc:keyboards/atomic/keymaps/pvc wanleg:layouts/community/ortho_5x15/wanleg

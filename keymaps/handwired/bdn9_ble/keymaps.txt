@@ -1,0 +1,1 @@
+default:keyboards/handwired/bdn9_ble/keymaps/default

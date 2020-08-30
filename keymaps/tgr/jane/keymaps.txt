@@ -1,0 +1,1 @@
+default:keyboards/tgr/jane/keymaps/default talljoe-tkl:layouts/community/tkl_ansi/talljoe-tkl via:keyboards/tgr/jane/keymaps/via xyverz:layouts/community/tkl_ansi/xyverz yanfali:layouts/community/tkl_ansi/yanfali

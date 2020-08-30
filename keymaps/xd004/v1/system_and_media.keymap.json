@@ -1,0 +1,1 @@
+{"keyboard": "xd004/v1", "layout": "LAYOUT_all", "layers": [["LT(_SYSTEM, KC_F5)", "C(G(KC_LEFT))", "C(G(KC_RIGHT))", "LT(_VOLUME, KC_F7)"], ["KC_TRNS", "SUPER_ALT_F4", "G(KC_D)", "G(KC_L)"], ["KC_MEDIA_NEXT_TRACK", "KC_AUDIO_VOL_DOWN", "KC_AUDIO_VOL_UP", "KC_TRNS"]]}

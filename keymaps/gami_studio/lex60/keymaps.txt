@@ -1,0 +1,1 @@
+default:keyboards/gami_studio/lex60/keymaps/default

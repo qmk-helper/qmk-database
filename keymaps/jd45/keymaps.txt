@@ -1,0 +1,1 @@
+blakedietz:keyboards/jd45/keymaps/blakedietz default:keyboards/jd45/keymaps/default jeebak:keyboards/jd45/keymaps/jeebak justin:keyboards/jd45/keymaps/justin mjt6u:keyboards/jd45/keymaps/mjt6u mjt:keyboards/jd45/keymaps/mjt talljoe:keyboards/jd45/keymaps/talljoe

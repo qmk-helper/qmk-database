@@ -1,0 +1,1 @@
+default:keyboards/handwired/chiron/keymaps/default

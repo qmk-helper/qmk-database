@@ -1,0 +1,1 @@
+333fred:keyboards/rgbkb/zen/rev1/keymaps/333fred default:keyboards/rgbkb/zen/rev1/keymaps/default jwlawrence:keyboards/rgbkb/zen/rev1/keymaps/jwlawrence kageurufu:keyboards/rgbkb/zen/rev1/keymaps/kageurufu starcalleramethyst:keyboards/rgbkb/zen/rev1/keymaps/starcalleramethyst xyverz:keyboards/rgbkb/zen/rev1/keymaps/xyverz

@@ -1,0 +1,1 @@
+default:keyboards/tr60w/keymaps/default joule-flow:keyboards/tr60w/keymaps/joule-flow

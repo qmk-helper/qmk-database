@@ -1,0 +1,1 @@
+ansi:keyboards/winkeyless/bminiex/keymaps/ansi default:keyboards/winkeyless/bminiex/keymaps/default iso:keyboards/winkeyless/bminiex/keymaps/iso via:keyboards/winkeyless/bminiex/keymaps/via

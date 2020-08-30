@@ -1,0 +1,1 @@
+default:keyboards/xd84/keymaps/default default_iso:keyboards/xd84/keymaps/default_iso mechmerlin-75_ansi:layouts/community/75_ansi/mechmerlin-75_ansi spidey3:layouts/community/75_ansi/spidey3 via:keyboards/xd84/keymaps/via yanfali:layouts/community/75_ansi/yanfali

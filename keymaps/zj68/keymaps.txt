@@ -1,0 +1,1 @@
+default:keyboards/zj68/keymaps/default mechmerlin:layouts/community/65_ansi/mechmerlin splitbs:keyboards/zj68/keymaps/splitbs yanfali:layouts/community/65_ansi/yanfali

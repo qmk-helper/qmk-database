@@ -1,0 +1,1 @@
+default:keyboards/cannonkeys/devastatingtkl/keymaps/default via:keyboards/cannonkeys/devastatingtkl/keymaps/via

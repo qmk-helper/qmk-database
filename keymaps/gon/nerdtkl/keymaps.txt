@@ -1,0 +1,1 @@
+default:keyboards/gon/nerdtkl/keymaps/default gam3cat:keyboards/gon/nerdtkl/keymaps/gam3cat

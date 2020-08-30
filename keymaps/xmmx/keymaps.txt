@@ -1,0 +1,1 @@
+ansi_wk:keyboards/xmmx/keymaps/ansi_wk ansi_wkl:keyboards/xmmx/keymaps/ansi_wkl default:keyboards/xmmx/keymaps/default iso_wk:keyboards/xmmx/keymaps/iso_wk iso_wkl:keyboards/xmmx/keymaps/iso_wkl

@@ -1,0 +1,1 @@
+default:keyboards/catch22/keymaps/default

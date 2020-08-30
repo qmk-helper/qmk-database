@@ -1,0 +1,1 @@
+default:keyboards/handwired/stream_cheap/2x3/keymaps/default

@@ -1,0 +1,1 @@
+1U:keyboards/ai03/soyuz/keymaps/1U default:keyboards/ai03/soyuz/keymaps/default mrsendyyk:keyboards/ai03/soyuz/keymaps/mrsendyyk

@@ -1,0 +1,1 @@
+default:keyboards/hadron/ver3/keymaps/default ishtob:keyboards/hadron/ver3/keymaps/ishtob sebaslayout:keyboards/hadron/ver3/keymaps/sebaslayout xulkal:keyboards/hadron/ver3/keymaps/xulkal

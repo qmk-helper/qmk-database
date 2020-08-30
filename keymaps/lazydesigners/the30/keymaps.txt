@@ -1,0 +1,1 @@
+default:keyboards/lazydesigners/the30/keymaps/default wanleg:layouts/community/ortho_3x10/wanleg

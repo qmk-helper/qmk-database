@@ -1,0 +1,1 @@
+default:keyboards/tgr/tris/keymaps/default via:keyboards/tgr/tris/keymaps/via

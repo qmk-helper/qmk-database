@@ -1,0 +1,1 @@
+bcat:layouts/community/65_ansi_blocker_split_bs/bcat default:keyboards/foxlab/key65/universal/keymaps/default via:keyboards/foxlab/key65/universal/keymaps/via

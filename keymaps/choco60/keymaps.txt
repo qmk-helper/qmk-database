@@ -1,0 +1,1 @@
+default:keyboards/choco60/keymaps/default

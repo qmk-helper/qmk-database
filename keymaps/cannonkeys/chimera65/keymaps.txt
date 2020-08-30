@@ -1,0 +1,1 @@
+default:keyboards/cannonkeys/chimera65/keymaps/default via:keyboards/cannonkeys/chimera65/keymaps/via

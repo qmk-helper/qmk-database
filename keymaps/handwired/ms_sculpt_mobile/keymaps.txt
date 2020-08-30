@@ -1,0 +1,1 @@
+default:keyboards/handwired/ms_sculpt_mobile/keymaps/default milestogo:keyboards/handwired/ms_sculpt_mobile/keymaps/milestogo

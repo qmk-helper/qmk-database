@@ -1,0 +1,1 @@
+default:keyboards/amjpad/keymaps/default max:keyboards/amjpad/keymaps/max ortho_left:keyboards/amjpad/keymaps/ortho_left ortho_right:keyboards/amjpad/keymaps/ortho_right

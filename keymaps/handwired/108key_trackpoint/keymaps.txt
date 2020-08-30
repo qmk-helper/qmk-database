@@ -1,0 +1,1 @@
+default:keyboards/handwired/108key_trackpoint/keymaps/default dvorak:keyboards/handwired/108key_trackpoint/keymaps/dvorak dvorak_media:keyboards/handwired/108key_trackpoint/keymaps/dvorak_media

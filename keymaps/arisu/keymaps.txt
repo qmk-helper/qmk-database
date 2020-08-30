@@ -1,0 +1,1 @@
+default:keyboards/arisu/keymaps/default fate:keyboards/arisu/keymaps/fate kresnak:keyboards/arisu/keymaps/kresnak via:keyboards/arisu/keymaps/via

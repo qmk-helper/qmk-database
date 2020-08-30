@@ -1,0 +1,1 @@
+default:keyboards/handwired/prime_exl/keymaps/default via:keyboards/handwired/prime_exl/keymaps/via

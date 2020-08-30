@@ -1,0 +1,1 @@
+default-gsm-newbs:keyboards/knops/mini/keymaps/default-gsm-newbs default:keyboards/knops/mini/keymaps/default knops:keyboards/knops/mini/keymaps/knops mverteuil:keyboards/knops/mini/keymaps/mverteuil

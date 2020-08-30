@@ -1,0 +1,1 @@
+default:keyboards/westfoxtrot/aanzee/keymaps/default iso-default:keyboards/westfoxtrot/aanzee/keymaps/iso-default via:keyboards/westfoxtrot/aanzee/keymaps/via

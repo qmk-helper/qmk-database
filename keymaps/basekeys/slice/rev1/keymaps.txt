@@ -1,0 +1,1 @@
+2moons:keyboards/basekeys/slice/rev1/keymaps/2moons default:keyboards/basekeys/slice/keymaps/default default_all:keyboards/basekeys/slice/rev1/keymaps/default_all default_split_backspace:keyboards/basekeys/slice/rev1/keymaps/default_split_backspace default_split_left_space:keyboards/basekeys/slice/keymaps/default_split_left_space

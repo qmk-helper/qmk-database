@@ -1,0 +1,1 @@
+default:keyboards/4pplet/aekiso60/keymaps/default via:keyboards/4pplet/aekiso60/keymaps/via

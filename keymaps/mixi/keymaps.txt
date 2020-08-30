@@ -1,0 +1,1 @@
+default:keyboards/mixi/keymaps/default via:keyboards/mixi/keymaps/via

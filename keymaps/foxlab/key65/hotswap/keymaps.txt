@@ -1,0 +1,1 @@
+default:keyboards/foxlab/key65/hotswap/keymaps/default via:keyboards/foxlab/key65/hotswap/keymaps/via

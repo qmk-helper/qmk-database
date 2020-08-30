@@ -1,0 +1,1 @@
+all_keys:keyboards/idb/idb_60/keymaps/all_keys default:keyboards/idb/idb_60/keymaps/default pngu:keyboards/idb/idb_60/keymaps/pngu via:keyboards/idb/idb_60/keymaps/via

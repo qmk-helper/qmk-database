@@ -1,0 +1,1 @@
+default:keyboards/dm9records/ergoinu/keymaps/default default_jis:keyboards/dm9records/ergoinu/keymaps/default_jis

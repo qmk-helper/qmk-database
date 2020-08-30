@@ -1,0 +1,1 @@
+ca178858:keyboards/lfkeyboards/lfk87/keymaps/ca178858 default:keyboards/lfkeyboards/lfk87/keymaps/default gbchk:keyboards/lfkeyboards/lfk87/keymaps/gbchk iso:keyboards/lfkeyboards/lfk87/keymaps/iso talljoe-tkl:layouts/community/tkl_ansi/talljoe-tkl xyverz:layouts/community/tkl_ansi/xyverz yanfali:layouts/community/tkl_ansi/yanfali

@@ -1,0 +1,1 @@
+default:keyboards/gray_studio/think65/hotswap/keymaps/default mechmerlin:layouts/community/65_ansi_blocker/mechmerlin via:keyboards/gray_studio/think65/hotswap/keymaps/via

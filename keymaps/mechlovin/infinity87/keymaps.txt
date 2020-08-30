@@ -1,0 +1,1 @@
+default:keyboards/mechlovin/infinity87/keymaps/default via:keyboards/mechlovin/infinity87/keymaps/via

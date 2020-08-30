@@ -1,0 +1,1 @@
+default:keyboards/sck/m0116b/keymaps/default m0116:keyboards/sck/m0116b/keymaps/m0116 m0118:keyboards/sck/m0116b/keymaps/m0118

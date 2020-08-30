@@ -1,0 +1,1 @@
+default:keyboards/staryu/keymaps/default krusli:keyboards/staryu/keymaps/krusli

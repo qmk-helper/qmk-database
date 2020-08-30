@@ -1,0 +1,1 @@
+ansi:keyboards/kbdfans/kbd66/keymaps/ansi default:keyboards/kbdfans/kbd66/keymaps/default iso:keyboards/kbdfans/kbd66/keymaps/iso maartenwut:keyboards/kbdfans/kbd66/keymaps/maartenwut

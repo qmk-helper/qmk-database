@@ -1,0 +1,1 @@
+default:keyboards/handwired/412_64/keymaps/default

@@ -1,0 +1,1 @@
+default:keyboards/flehrad/tradestation/keymaps/default jotix:layouts/community/ortho_4x4/jotix

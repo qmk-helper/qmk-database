@@ -1,0 +1,1 @@
+default:keyboards/xelus/snap96/keymaps/default via:keyboards/xelus/snap96/keymaps/via

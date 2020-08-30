@@ -1,0 +1,1 @@
+default:keyboards/pom_keyboards/tnln95/keymaps/default default_ansi:keyboards/pom_keyboards/tnln95/keymaps/default_ansi

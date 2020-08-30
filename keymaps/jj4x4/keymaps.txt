@@ -1,0 +1,1 @@
+default:keyboards/jj4x4/keymaps/default jotix:layouts/community/ortho_4x4/jotix via:keyboards/jj4x4/keymaps/via

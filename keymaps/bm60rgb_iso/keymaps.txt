@@ -1,0 +1,1 @@
+default:keyboards/bm60rgb_iso/keymaps/default

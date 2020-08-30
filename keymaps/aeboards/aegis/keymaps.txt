@@ -1,0 +1,1 @@
+default:keyboards/aeboards/aegis/keymaps/default via:keyboards/aeboards/aegis/keymaps/via

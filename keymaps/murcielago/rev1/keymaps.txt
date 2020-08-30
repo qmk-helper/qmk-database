@@ -1,0 +1,1 @@
+default:keyboards/murcielago/rev1/keymaps/default via:keyboards/murcielago/rev1/keymaps/via

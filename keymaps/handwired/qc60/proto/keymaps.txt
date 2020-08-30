@@ -1,0 +1,1 @@
+default:keyboards/handwired/qc60/keymaps/default wntrmln:keyboards/handwired/qc60/keymaps/wntrmln

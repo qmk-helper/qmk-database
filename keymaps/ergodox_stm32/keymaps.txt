@@ -1,0 +1,1 @@
+default:keyboards/ergodox_stm32/keymaps/default

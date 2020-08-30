@@ -1,0 +1,1 @@
+default:keyboards/leeku/finger65/keymaps/default madhatter:keyboards/leeku/finger65/keymaps/madhatter

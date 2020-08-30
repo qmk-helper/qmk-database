@@ -1,0 +1,1 @@
+default:keyboards/40percentclub/tomato/keymaps/default wanleg:layouts/community/ortho_3x10/wanleg

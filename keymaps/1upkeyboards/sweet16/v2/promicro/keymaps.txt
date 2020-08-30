@@ -1,0 +1,1 @@
+default:keyboards/1upkeyboards/sweet16/keymaps/default dlaroe:keyboards/1upkeyboards/sweet16/keymaps/dlaroe ridingintraffic:keyboards/1upkeyboards/sweet16/keymaps/ridingintraffic sebas:keyboards/1upkeyboards/sweet16/keymaps/sebas switchtester:keyboards/1upkeyboards/sweet16/keymaps/switchtester via:keyboards/1upkeyboards/sweet16/keymaps/via

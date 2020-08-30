@@ -1,0 +1,1 @@
+ansi:keyboards/noxary/268/keymaps/ansi default:keyboards/noxary/268/keymaps/default iso:keyboards/noxary/268/keymaps/iso sixtyeight:keyboards/noxary/268/keymaps/sixtyeight via:keyboards/noxary/268/keymaps/via

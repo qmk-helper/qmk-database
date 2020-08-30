@@ -1,0 +1,1 @@
+default:keyboards/vn66/keymaps/default

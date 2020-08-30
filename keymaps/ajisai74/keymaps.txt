@@ -1,0 +1,1 @@
+default:keyboards/ajisai74/keymaps/default jis:keyboards/ajisai74/keymaps/jis salicylic:keyboards/ajisai74/keymaps/salicylic via:keyboards/ajisai74/keymaps/via

@@ -1,0 +1,1 @@
+coth:keyboards/jc65/v32u4/keymaps/coth dead_encryption:keyboards/jc65/v32u4/keymaps/dead_encryption default:keyboards/jc65/v32u4/keymaps/default gam3cat:keyboards/jc65/v32u4/keymaps/gam3cat jetpacktuxedo:keyboards/jc65/v32u4/keymaps/jetpacktuxedo na7thana:keyboards/jc65/v32u4/keymaps/na7thana naut:keyboards/jc65/v32u4/keymaps/naut

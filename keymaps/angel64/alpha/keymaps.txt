@@ -1,0 +1,1 @@
+default:keyboards/angel64/alpha/keymaps/default

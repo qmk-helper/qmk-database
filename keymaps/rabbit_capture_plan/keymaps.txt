@@ -1,0 +1,1 @@
+default:keyboards/rabbit_capture_plan/keymaps/default via:keyboards/rabbit_capture_plan/keymaps/via

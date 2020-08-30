@@ -1,0 +1,1 @@
+2x2u:keyboards/keycapsss/o4l_5x12/keymaps/2x2u 333fred:layouts/community/ortho_5x12/333fred alfrdmalr:layouts/community/ortho_5x12/alfrdmalr default:keyboards/keycapsss/o4l_5x12/keymaps/default drashna:layouts/community/ortho_5x12/drashna rs:layouts/community/ortho_5x12/rs xyverz:layouts/community/ortho_5x12/xyverz

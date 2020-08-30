@@ -1,0 +1,1 @@
+dcompact:keyboards/chimera_ortho/keymaps/dcompact default:keyboards/chimera_ortho/keymaps/default gordon:keyboards/chimera_ortho/keymaps/gordon

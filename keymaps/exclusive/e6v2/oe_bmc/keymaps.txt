@@ -1,0 +1,1 @@
+default:keyboards/exclusive/e6v2/oe_bmc/keymaps/default

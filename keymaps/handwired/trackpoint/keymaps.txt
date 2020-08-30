@@ -1,0 +1,1 @@
+default:keyboards/handwired/trackpoint/keymaps/default

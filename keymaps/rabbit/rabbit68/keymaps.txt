@@ -1,0 +1,1 @@
+default:keyboards/rabbit/rabbit68/keymaps/default kaiec:keyboards/rabbit/rabbit68/keymaps/kaiec

@@ -1,0 +1,1 @@
+alternate:keyboards/coseyfannitutti/mullet/keymaps/alternate default:keyboards/coseyfannitutti/mullet/keymaps/default

@@ -1,0 +1,1 @@
+default:keyboards/aeboards/ext65/rev1/keymaps/default via:keyboards/aeboards/ext65/rev1/keymaps/via

@@ -1,0 +1,1 @@
+default:keyboards/handwired/heisenberg/keymaps/default guidoism:layouts/community/planck_mit/guidoism turkishish:keyboards/handwired/heisenberg/keymaps/turkishish

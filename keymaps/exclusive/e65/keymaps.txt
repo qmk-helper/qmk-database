@@ -1,0 +1,1 @@
+crd:keyboards/exclusive/e65/keymaps/crd default:keyboards/exclusive/e65/keymaps/default default_iso:keyboards/exclusive/e65/keymaps/default_iso madhatter:keyboards/exclusive/e65/keymaps/madhatter masterzen:keyboards/exclusive/e65/keymaps/masterzen mechmerlin:layouts/community/65_ansi_blocker/mechmerlin

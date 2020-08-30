@@ -1,0 +1,1 @@
+{"keyboard": "handwired/6macro", "layout": "LAYOUT", "layers": [["KC_ESC", "KC_GRAVE", "LT(, KC_SPC)", "KC_C", "KC_Z", "KC_X"], ["RGB_TOG", "RGB_MOD", "KC_TRNS", "RGB_HUI", "RGB_VAI", "MO()"], ["RESET", "RGB_RMOD", "KC_NO", "RGB_HUD", "RGB_VAD", "KC_TRNS"]]}

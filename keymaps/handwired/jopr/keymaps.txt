@@ -1,0 +1,1 @@
+default:keyboards/handwired/jopr/keymaps/default modded_white:keyboards/handwired/jopr/keymaps/modded_white

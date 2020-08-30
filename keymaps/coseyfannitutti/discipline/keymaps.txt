@@ -1,0 +1,1 @@
+default:keyboards/coseyfannitutti/discipline/keymaps/default iso:keyboards/coseyfannitutti/discipline/keymaps/iso mechmerlin:layouts/community/65_ansi/mechmerlin mechmerlin:layouts/community/65_ansi_blocker/mechmerlin osx:keyboards/coseyfannitutti/discipline/keymaps/osx via:keyboards/coseyfannitutti/discipline/keymaps/via yanfali:layouts/community/65_ansi/yanfali

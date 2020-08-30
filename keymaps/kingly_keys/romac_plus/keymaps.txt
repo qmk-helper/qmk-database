@@ -1,0 +1,1 @@
+default:keyboards/kingly_keys/romac_plus/keymaps/default via:keyboards/kingly_keys/romac_plus/keymaps/via

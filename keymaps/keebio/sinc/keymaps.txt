@@ -1,0 +1,1 @@
+default:keyboards/keebio/sinc/keymaps/default iso:keyboards/keebio/sinc/keymaps/iso via:keyboards/keebio/sinc/keymaps/via

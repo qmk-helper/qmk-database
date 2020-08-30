@@ -1,0 +1,1 @@
+default:keyboards/coseyfannitutti/mysterium/keymaps/default talljoe-tkl:layouts/community/tkl_ansi/talljoe-tkl tsangan:keyboards/coseyfannitutti/mysterium/keymaps/tsangan via:keyboards/coseyfannitutti/mysterium/keymaps/via xyverz:layouts/community/tkl_ansi/xyverz yanfali:layouts/community/tkl_ansi/yanfali

@@ -1,0 +1,1 @@
+default-rgbled:keyboards/comet46/keymaps/default-rgbled default:keyboards/comet46/keymaps/default satt:keyboards/comet46/keymaps/satt

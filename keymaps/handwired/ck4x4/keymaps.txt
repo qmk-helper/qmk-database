@@ -1,0 +1,1 @@
+default:keyboards/handwired/ck4x4/keymaps/default

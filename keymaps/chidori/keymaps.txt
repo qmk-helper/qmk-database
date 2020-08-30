@@ -1,0 +1,1 @@
+default:keyboards/chidori/keymaps/default extended:keyboards/chidori/keymaps/extended oled_sample:keyboards/chidori/keymaps/oled_sample

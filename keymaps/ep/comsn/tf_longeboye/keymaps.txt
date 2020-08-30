@@ -1,0 +1,1 @@
+default:keyboards/ep/comsn/tf_longeboye/keymaps/default

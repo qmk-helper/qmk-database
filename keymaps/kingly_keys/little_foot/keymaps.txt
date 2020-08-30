@@ -1,0 +1,1 @@
+default:keyboards/kingly_keys/little_foot/keymaps/default

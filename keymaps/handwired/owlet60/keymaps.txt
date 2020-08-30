@@ -1,0 +1,1 @@
+default:keyboards/handwired/owlet60/keymaps/default oled_testing:keyboards/handwired/owlet60/keymaps/oled_testing

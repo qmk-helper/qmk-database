@@ -1,0 +1,1 @@
+default:keyboards/getta25/keymaps/default oled:keyboards/getta25/keymaps/oled

@@ -1,0 +1,1 @@
+default:keyboards/wsk/pain27/keymaps/default

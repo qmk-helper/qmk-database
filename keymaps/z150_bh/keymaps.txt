@@ -1,0 +1,1 @@
+default:keyboards/z150_bh/keymaps/default default_tkl:keyboards/z150_bh/keymaps/default_tkl

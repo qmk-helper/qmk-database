@@ -1,0 +1,1 @@
+default:keyboards/pabile/p20/keymaps/default

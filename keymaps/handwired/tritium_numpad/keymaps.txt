@@ -1,0 +1,1 @@
+blu:keyboards/handwired/tritium_numpad/keymaps/blu default:keyboards/handwired/tritium_numpad/keymaps/default max:keyboards/handwired/tritium_numpad/keymaps/max ortho_left:keyboards/handwired/tritium_numpad/keymaps/ortho_left ortho_right:keyboards/handwired/tritium_numpad/keymaps/ortho_right

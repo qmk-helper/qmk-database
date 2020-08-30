@@ -1,0 +1,1 @@
+ctrl-alt-del:keyboards/bigseries/3key/keymaps/ctrl-alt-del default:keyboards/bigseries/3key/keymaps/default tester:keyboards/bigseries/3key/keymaps/tester

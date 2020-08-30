@@ -1,0 +1,1 @@
+default:keyboards/tgr/910/keymaps/default via:keyboards/tgr/910/keymaps/via

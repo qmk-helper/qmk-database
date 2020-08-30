@@ -1,0 +1,1 @@
+default:keyboards/retro_75/keymaps/default split_backspace:keyboards/retro_75/keymaps/split_backspace

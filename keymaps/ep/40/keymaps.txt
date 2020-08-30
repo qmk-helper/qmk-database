@@ -1,0 +1,1 @@
+default:keyboards/ep/40/keymaps/default

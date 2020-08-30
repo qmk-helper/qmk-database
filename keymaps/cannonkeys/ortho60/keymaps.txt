@@ -1,0 +1,1 @@
+333fred:layouts/community/ortho_5x12/333fred alfrdmalr:layouts/community/ortho_5x12/alfrdmalr default:keyboards/cannonkeys/ortho60/keymaps/default drashna:layouts/community/ortho_5x12/drashna rs:layouts/community/ortho_5x12/rs via:keyboards/cannonkeys/ortho60/keymaps/via xyverz:layouts/community/ortho_5x12/xyverz

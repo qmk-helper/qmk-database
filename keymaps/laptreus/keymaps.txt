@@ -1,0 +1,1 @@
+debug:keyboards/laptreus/keymaps/debug default:keyboards/laptreus/keymaps/default vosechu:keyboards/laptreus/keymaps/vosechu

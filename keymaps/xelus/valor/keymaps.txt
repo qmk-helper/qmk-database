@@ -1,0 +1,1 @@
+default:keyboards/xelus/valor/keymaps/default via:keyboards/xelus/valor/keymaps/via

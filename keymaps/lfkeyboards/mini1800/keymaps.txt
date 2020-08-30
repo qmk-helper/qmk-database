@@ -1,0 +1,1 @@
+ca178858:keyboards/lfkeyboards/mini1800/keymaps/ca178858 default:keyboards/lfkeyboards/mini1800/keymaps/default

@@ -1,0 +1,1 @@
+default:keyboards/generic_panda/panda65_01/keymaps/default via:keyboards/generic_panda/panda65_01/keymaps/via

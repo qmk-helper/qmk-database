@@ -1,0 +1,1 @@
+default:keyboards/ogre/ergo_split/keymaps/default

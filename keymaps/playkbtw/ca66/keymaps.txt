@@ -1,0 +1,1 @@
+default:keyboards/playkbtw/ca66/keymaps/default kelorean:keyboards/playkbtw/ca66/keymaps/kelorean olivia:keyboards/playkbtw/ca66/keymaps/olivia

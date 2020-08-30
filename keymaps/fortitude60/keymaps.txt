@@ -1,0 +1,1 @@
+default:keyboards/fortitude60/keymaps/default

@@ -1,0 +1,1 @@
+default:keyboards/subatomic/keymaps/default

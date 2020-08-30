@@ -1,0 +1,1 @@
+cbc02009:keyboards/handwired/bento/keymaps/cbc02009 default:keyboards/handwired/bento/keymaps/default mac:keyboards/handwired/bento/keymaps/mac

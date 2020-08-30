@@ -1,0 +1,1 @@
+default:keyboards/ramonimbao/wete/keymaps/default iso:keyboards/ramonimbao/wete/keymaps/iso jis:keyboards/ramonimbao/wete/keymaps/jis via:keyboards/ramonimbao/wete/keymaps/via

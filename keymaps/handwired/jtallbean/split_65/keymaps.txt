@@ -1,0 +1,1 @@
+default:keyboards/handwired/jtallbean/split_65/keymaps/default

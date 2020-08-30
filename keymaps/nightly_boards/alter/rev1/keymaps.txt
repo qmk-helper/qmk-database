@@ -1,0 +1,1 @@
+default:keyboards/nightly_boards/alter/rev1/keymaps/default

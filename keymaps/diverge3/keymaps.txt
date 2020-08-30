@@ -1,0 +1,1 @@
+default:keyboards/diverge3/keymaps/default iso_uk:keyboards/diverge3/keymaps/iso_uk workman:keyboards/diverge3/keymaps/workman

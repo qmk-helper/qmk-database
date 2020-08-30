@@ -1,0 +1,1 @@
+default:keyboards/maartenwut/eon65/keymaps/default mechmerlin:layouts/community/65_ansi/mechmerlin mechmerlin:layouts/community/65_ansi_blocker/mechmerlin mrsendyyk:keyboards/maartenwut/eon65/keymaps/mrsendyyk via:keyboards/maartenwut/eon65/keymaps/via yanfali:layouts/community/65_ansi/yanfali

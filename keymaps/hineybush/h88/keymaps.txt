@@ -1,0 +1,1 @@
+default:keyboards/hineybush/h88/keymaps/default via:keyboards/hineybush/h88/keymaps/via wkl:keyboards/hineybush/h88/keymaps/wkl

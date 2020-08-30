@@ -1,0 +1,1 @@
+default:keyboards/touchpad/keymaps/default

@@ -1,0 +1,1 @@
+default:keyboards/ymdk/ymd67/keymaps/default

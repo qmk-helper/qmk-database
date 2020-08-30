@@ -1,0 +1,1 @@
+{"keyboard": "handwired/stream_cheap/2x5", "layout": "LAYOUT_ortho_2x5", "layers": [["VS_COMMENT", "VS_UNCOMMENT", "LOCK", "TST_STRING", "KC_F5", "KC_F9", "KC_F10", "KC_F11", "KC_F12", "TO()"], ["KC_MUTE", "KC_VOLD", "KC_VOLU", "KC_MPLY", "KC_MSTP", "CUT", "COPY", "PASTE", "FIND", "TO()"]]}

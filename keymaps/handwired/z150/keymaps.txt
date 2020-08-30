@@ -1,0 +1,1 @@
+default:keyboards/handwired/z150/keymaps/default zyxx:keyboards/handwired/z150/keymaps/zyxx

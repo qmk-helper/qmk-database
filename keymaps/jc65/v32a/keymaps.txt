@@ -1,0 +1,1 @@
+default:keyboards/jc65/v32a/keymaps/default naut:keyboards/jc65/v32a/keymaps/naut ptillemans:keyboards/jc65/v32a/keymaps/ptillemans rys:keyboards/jc65/v32a/keymaps/rys

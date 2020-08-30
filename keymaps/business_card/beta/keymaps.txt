@@ -1,0 +1,1 @@
+default:keyboards/business_card/beta/keymaps/default

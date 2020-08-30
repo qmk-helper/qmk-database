@@ -1,0 +1,1 @@
+default:keyboards/thedogkeyboard/keymaps/default kakunpc:keyboards/thedogkeyboard/keymaps/kakunpc

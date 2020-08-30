@@ -1,0 +1,1 @@
+default:keyboards/cannonkeys/rekt1800/keymaps/default via:keyboards/cannonkeys/rekt1800/keymaps/via

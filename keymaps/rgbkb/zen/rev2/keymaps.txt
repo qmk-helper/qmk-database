@@ -1,0 +1,1 @@
+debug:keyboards/rgbkb/zen/rev2/keymaps/debug default:keyboards/rgbkb/zen/rev2/keymaps/default

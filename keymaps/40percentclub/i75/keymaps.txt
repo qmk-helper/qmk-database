@@ -1,0 +1,1 @@
+default:keyboards/40percentclub/i75/keymaps/default wanleg:layouts/community/ortho_5x15/wanleg

@@ -1,0 +1,1 @@
+default:keyboards/hadron/ver2/keymaps/default side_numpad:keyboards/hadron/ver2/keymaps/side_numpad

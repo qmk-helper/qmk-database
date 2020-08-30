@@ -1,0 +1,1 @@
+default:keyboards/satt/vision/keymaps/default satt:keyboards/satt/vision/keymaps/satt via:keyboards/satt/vision/keymaps/via

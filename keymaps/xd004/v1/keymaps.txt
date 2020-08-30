@@ -1,0 +1,1 @@
+default:keyboards/xd004/keymaps/default system_and_media:keyboards/xd004/keymaps/system_and_media

@@ -1,0 +1,1 @@
+default:keyboards/kbdfans/maja/keymaps/default via:keyboards/kbdfans/maja/keymaps/via

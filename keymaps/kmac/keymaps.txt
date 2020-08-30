@@ -1,0 +1,1 @@
+default:keyboards/kmac/keymaps/default default_tkl_ansi:keyboards/kmac/keymaps/default_tkl_ansi default_tkl_ansi_wkl:keyboards/kmac/keymaps/default_tkl_ansi_wkl talljoe-tkl:layouts/community/tkl_ansi/talljoe-tkl xyverz:layouts/community/tkl_ansi/xyverz yanfali:layouts/community/tkl_ansi/yanfali

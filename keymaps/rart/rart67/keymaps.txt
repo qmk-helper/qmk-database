@@ -1,0 +1,1 @@
+default:keyboards/rart/rart67/keymaps/default via:keyboards/rart/rart67/keymaps/via

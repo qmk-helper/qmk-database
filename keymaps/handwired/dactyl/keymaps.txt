@@ -1,0 +1,1 @@
+default:keyboards/handwired/dactyl/keymaps/default dvorak:keyboards/handwired/dactyl/keymaps/dvorak erincalling:keyboards/handwired/dactyl/keymaps/erincalling

@@ -1,0 +1,1 @@
+default:keyboards/coseyfannitutti/discipad/keymaps/default via:keyboards/coseyfannitutti/discipad/keymaps/via

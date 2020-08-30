@@ -1,0 +1,1 @@
+default:keyboards/hineybush/sm68/keymaps/default via:keyboards/hineybush/sm68/keymaps/via

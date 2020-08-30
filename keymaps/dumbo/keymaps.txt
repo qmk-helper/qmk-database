@@ -1,0 +1,1 @@
+default:keyboards/dumbo/keymaps/default trip-trap:keyboards/dumbo/keymaps/trip-trap

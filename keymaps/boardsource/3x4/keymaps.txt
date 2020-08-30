@@ -1,0 +1,1 @@
+default:keyboards/boardsource/3x4/keymaps/default via:keyboards/boardsource/3x4/keymaps/via

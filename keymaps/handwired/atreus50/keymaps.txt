@@ -1,0 +1,1 @@
+ajp10304:keyboards/handwired/atreus50/keymaps/ajp10304 default:keyboards/handwired/atreus50/keymaps/default

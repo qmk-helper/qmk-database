@@ -1,0 +1,1 @@
+default:keyboards/kbdfans/kbd8x/keymaps/default default_backlighting:keyboards/kbdfans/kbd8x/keymaps/default_backlighting

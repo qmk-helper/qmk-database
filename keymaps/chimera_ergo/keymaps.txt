@@ -1,0 +1,1 @@
+default:keyboards/chimera_ergo/keymaps/default

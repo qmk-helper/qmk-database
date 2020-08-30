@@ -1,0 +1,1 @@
+default:keyboards/pinky/3/keymaps/default ninjonas:keyboards/pinky/3/keymaps/ninjonas

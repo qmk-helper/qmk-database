@@ -1,0 +1,1 @@
+default:keyboards/wallaby/keymaps/default talljoe-tkl:layouts/community/tkl_ansi/talljoe-tkl xyverz:layouts/community/tkl_ansi/xyverz yanfali:layouts/community/tkl_ansi/yanfali

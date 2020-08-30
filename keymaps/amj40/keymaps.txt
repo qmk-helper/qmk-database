@@ -1,0 +1,1 @@
+default:keyboards/amj40/keymaps/default fabian:keyboards/amj40/keymaps/fabian jetpacktuxedo:keyboards/amj40/keymaps/jetpacktuxedo myee:keyboards/amj40/keymaps/myee

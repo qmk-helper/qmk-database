@@ -1,0 +1,1 @@
+default:keyboards/phantom/keymaps/default iso_uk:keyboards/phantom/keymaps/iso_uk rgbmod:keyboards/phantom/keymaps/rgbmod talljoe-tkl:layouts/community/tkl_ansi/talljoe-tkl xyverz:layouts/community/tkl_ansi/xyverz yanfali:layouts/community/tkl_ansi/yanfali

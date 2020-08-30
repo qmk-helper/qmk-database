@@ -1,0 +1,1 @@
+default:keyboards/amjkeyboard/amj66/keymaps/default mechmerlin:layouts/community/66_ansi/mechmerlin skully:layouts/community/66_ansi/skully xyverz:layouts/community/66_ansi/xyverz

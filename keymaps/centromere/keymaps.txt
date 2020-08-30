@@ -1,0 +1,1 @@
+default:keyboards/centromere/keymaps/default default_u2:keyboards/centromere/keymaps/default_u2 mini:keyboards/centromere/keymaps/mini mini_bom:keyboards/centromere/keymaps/mini_bom

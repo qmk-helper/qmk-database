@@ -1,0 +1,1 @@
+default:keyboards/pico/65keys/keymaps/default jis:keyboards/pico/65keys/keymaps/jis

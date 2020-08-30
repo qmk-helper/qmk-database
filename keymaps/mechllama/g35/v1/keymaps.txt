@@ -1,0 +1,1 @@
+default:keyboards/mechllama/g35/keymaps/default
