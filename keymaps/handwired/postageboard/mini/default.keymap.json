@@ -1,1 +1,1 @@
-{"keyboard": "handwired/postageboard/mini", "layout": "LAYOUT", "layers": [["KC_A", "KC_1", "MO(_FN)"], ["RESET", "QMKURL", "KC_TRNS"]]}
+{"keyboard": "handwired/postageboard/mini", "layout": "LAYOUT", "layers": [["KC_A", "KC_1", "MO(_FN)"], ["RESET", "QMKURL", "KC_TRNS"]], "keymap": "default"}

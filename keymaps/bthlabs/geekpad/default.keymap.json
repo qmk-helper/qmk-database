@@ -1,1 +1,1 @@
-{"keyboard": "bthlabs/geekpad", "layout": "LAYOUT", "layers": [["KC_F1", "KC_F2", "KC_F3", "KC_MEDIA_REWIND", "KC_MEDIA_PLAY_PAUSE", "KC_MEDIA_FAST_FORWARD", "KC_AUDIO_MUTE", "KC_AUDIO_VOL_DOWN", "KC_AUDIO_VOL_UP"]]}
+{"keyboard": "bthlabs/geekpad", "layout": "LAYOUT", "layers": [["KC_F1", "KC_F2", "KC_F3", "KC_MEDIA_REWIND", "KC_MEDIA_PLAY_PAUSE", "KC_MEDIA_FAST_FORWARD", "KC_AUDIO_MUTE", "KC_AUDIO_VOL_DOWN", "KC_AUDIO_VOL_UP"]], "keymap": "default"}

@@ -1,1 +1,1 @@
-{"keyboard": "the_ruler", "layout": "LAYOUT", "layers": [["MO(_FN_2)", "KC_2", "TSKMGR", "CALTDEL", "KC_ESC", "MO(_FN_1)"], ["RGB_TOG", "RGB_HUD", "RGB_HUI", "RGB_SAD", "RGB_SAI", "KC_TRNS"], ["KC_TRNS", "RGB_VAD", "RGB_VAI", "RGB_MOD", "TSKMGR", "RESET"]]}
+{"keyboard": "the_ruler", "layout": "LAYOUT", "layers": [["MO()", "KC_2", "LCTL(LSFT(KC_ESC))", "LCTL(LALT(KC_DEL))", "KC_ESC", "MO()"], ["RGB_TOG", "RGB_HUD", "RGB_HUI", "RGB_SAD", "RGB_SAI", "KC_TRNS"], ["KC_TRNS", "RGB_VAD", "RGB_VAI", "RGB_MOD", "LCTL(LSFT(KC_ESC))", "RESET"]], "keymap": "default"}

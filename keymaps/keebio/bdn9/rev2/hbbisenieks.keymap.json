@@ -1,1 +1,1 @@
-{"keyboard": "keebio/bdn9/rev2", "layout": "LAYOUT", "layers": [["KC_LITE", "KC_SAVE", "KC_ZNRM", "KC_SYNC", "KC_SLNC", "KC_BSPC", "KC_SPC", "KC_F1", "KC_F2"], ["KC_", "KC_BL_S", "KC_STOP", "KC_RGBM", "KC_HOME", "KC_RGBT", "KC_MPRV", "KC_END", "KC_MNXT"]]}
+{"keyboard": "keebio/bdn9/rev2", "layout": "LAYOUT", "layers": [["LIGHTS", "LCTL(KC_S)", "LCTL(KC_2)", "LALT(KC_S)", "LCTL(KC_L)", "KC_BSPC", "KC_SPC", "KC_F1", "KC_F2"], ["KC_TRNS", "BL_STEP", "KC_STOP", "RGB_MOD", "KC_HOME", "RGB_TOG", "KC_MPRV", "KC_END", "KC_MNXT"]], "keymap": "hbbisenieks"}

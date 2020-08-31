@@ -1,1 +1,1 @@
-{"keyboard": "sck/neiso", "layout": "LAYOUT", "layers": [["KC_1", "KC_2", "KC_3", "KC_4", "KC_5"], ["KC_1", "KC_2", "QMKBEST", "KC_4", "KC_5"]]}
+{"keyboard": "sck/neiso", "layout": "LAYOUT", "layers": [["KC_1", "KC_2", "KC_3", "KC_4", "KC_5"], ["KC_1", "KC_2", "QMKBEST", "KC_4", "KC_5"]], "keymap": "default"}

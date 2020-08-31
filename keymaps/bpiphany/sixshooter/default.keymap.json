@@ -1,1 +1,1 @@
-{"keyboard": "bpiphany/sixshooter", "layout": "LAYOUT", "layers": [["MO(_FN)", "KC_VOLD", "KC_VOLU", "KC_MPRV", "KC_MPLY", "KC_MNXT"], ["KC_TRNS", "SS_LON", "SS_LOFF", "KC_NO", "KC_NO", "KC_NO"]]}
+{"keyboard": "bpiphany/sixshooter", "layout": "LAYOUT", "layers": [["MO()", "KC_VOLD", "KC_VOLU", "KC_MPRV", "KC_MPLY", "KC_MNXT"], ["KC_TRNS", "SS_LON", "SS_LOFF", "KC_NO", "KC_NO", "KC_NO"]], "keymap": "default"}

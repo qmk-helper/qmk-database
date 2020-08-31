@@ -1,1 +1,1 @@
-{"keyboard": "4by3", "layout": "LAYOUT_horizontal", "layers": [["KC_VOLU", "KC_TRNS", "KC_TRNS", "KC_TRNS", "KC_MUTE", "KC_MPRV", "KC_MPLY", "KC_MNXT", "KC_VOLD", "KC_TRNS", "KC_TRNS", "KC_TRNS"]]}
+{"keyboard": "4by3", "layout": "LAYOUT_horizontal", "layers": [["KC_VOLU", "KC_TRNS", "KC_TRNS", "KC_TRNS", "KC_MUTE", "KC_MPRV", "KC_MPLY", "KC_MNXT", "KC_VOLD", "KC_TRNS", "KC_TRNS", "KC_TRNS"]], "keymap": "default"}

@@ -1,1 +1,1 @@
-{"keyboard": "meishi2", "layout": "LAYOUT", "layers": [["LCTL(KC_Z)", "LCTL(KC_X)", "LCTL(KC_C)", "LCTL(KC_V)"]]}
+{"keyboard": "meishi2", "layout": "LAYOUT", "layers": [["LCTL(KC_Z)", "LCTL(KC_X)", "LCTL(KC_C)", "LCTL(KC_V)"]], "keymap": "led_status"}

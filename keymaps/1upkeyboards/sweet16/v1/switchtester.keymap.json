@@ -1,1 +1,1 @@
-{"keyboard": "1upkeyboards/sweet16/v1", "layout": "LAYOUT_ortho_4x4", "layers": [["KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_NO"]]}
+{"keyboard": "1upkeyboards/sweet16/v1", "layout": "LAYOUT_ortho_4x4", "layers": [["KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_NO"]], "keymap": "switchtester"}

@@ -1,1 +1,1 @@
-{"keyboard": "ivy", "layout": "LAYOUT", "layers": [["KC_1", "KC_2", "MO(_FUNC)"], ["CALTDEL", "TSKMGR", "KC_TRNS"]]}
+{"keyboard": "ivy", "layout": "LAYOUT", "layers": [["KC_1", "KC_2", "MO(_FUNC)"], ["LCTL(LALT(KC_DEL))", "LCTL(LSFT(KC_ESC))", "KC_TRNS"]], "keymap": "default"}
