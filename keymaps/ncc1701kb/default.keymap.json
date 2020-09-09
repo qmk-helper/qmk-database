@@ -1,1 +1,1 @@
-{"keyboard": "ncc1701kb", "layout": "LAYOUT", "layers": [["KC_MPRV", "KC_MUTE", "KC_MNXT", "KC_MSTP", "KC_MPLY", "KC_MSEL", "KC_CALC", "KC_MAIL", "LT(, KC_MYCM)"], ["BL_TOGG", "KC_TRNS", "BL_BRTG", "BL_INC", "BL_DEC", "BL_STEP", "BL_ON", "BL_OFF", "KC_TRNS"]], "keymap": "default"}
+{"keyboard": "ncc1701kb", "layout": "LAYOUT", "layers": [["KC_MPRV", "KC_MUTE", "KC_MNXT", "KC_MSTP", "KC_MPLY", "KC_MSEL", "KC_CALC", "KC_MAIL", "LT(1, KC_MYCM)"], ["BL_TOGG", "KC_TRNS", "BL_BRTG", "BL_INC", "BL_DEC", "BL_STEP", "BL_ON", "BL_OFF", "KC_TRNS"]], "keymap": "default"}

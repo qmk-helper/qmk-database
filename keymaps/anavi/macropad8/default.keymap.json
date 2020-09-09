@@ -1,1 +1,1 @@
-{"keyboard": "anavi/macropad8", "layout": "LAYOUT_ortho_2x4", "layers": [["G(KC_D)", "KC_UP", "C(KC_C)", "C(KC_V)", "KC_LEFT", "KC_DOWN", "KC_RGHT", "MO()"], ["RGB_TOG", "RGB_MOD", "RGB_M_R", "RGB_M_SN", "BL_TOGG", "BL_STEP", "BL_BRTG", "KC_TRNS"]], "keymap": "default"}
+{"keyboard": "anavi/macropad8", "layout": "LAYOUT_ortho_2x4", "layers": [["G(KC_D)", "KC_UP", "C(KC_C)", "C(KC_V)", "KC_LEFT", "KC_DOWN", "KC_RGHT", "MO(1)"], ["RGB_TOG", "RGB_MOD", "RGB_M_R", "RGB_M_SN", "BL_TOGG", "BL_STEP", "BL_BRTG", "KC_TRNS"]], "keymap": "default"}

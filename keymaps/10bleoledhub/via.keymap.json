@@ -1,1 +1,1 @@
-{"keyboard": "10bleoledhub", "layout": "LAYOUT", "layers": [["KC_PGUP", "KC_KP_7", "KC_KP_8", "MO()", "KC_P4", "KC_P5", "KC_P6", "KC_P1", "KC_P2", "KC_P3"], ["KC_NUMLOCK", "RGB_TOG", "RGB_MOD", "RGB_M_K", "RGB_SAI", "RGB_SAD", "RGB_HUI", "RGB_VAI", "RGB_VAD", "RGB_SPI"]], "keymap": "via"}
+{"keyboard": "10bleoledhub", "layout": "LAYOUT", "layers": [["KC_PGUP", "KC_KP_7", "KC_KP_8", "MO(1)", "KC_P4", "KC_P5", "KC_P6", "KC_P1", "KC_P2", "KC_P3"], ["KC_NUMLOCK", "RGB_TOG", "RGB_MOD", "RGB_M_K", "RGB_SAI", "RGB_SAD", "RGB_HUI", "RGB_VAI", "RGB_VAD", "RGB_SPI"]], "keymap": "via"}
