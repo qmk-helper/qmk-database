@@ -1,0 +1,1 @@
+{"keyboard": "handwired/onekey/stm32f0_disco", "layout": "LAYOUT", "layers": [["KC_ENTER"]], "keymap": "pytest_nocpp"}

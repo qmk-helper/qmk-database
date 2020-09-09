@@ -1,0 +1,1 @@
+{"keyboard": "handwired/onekey/teensy_2", "layout": "LAYOUT_ortho_1x1", "layers": [["KC_A"]], "keymap": "i2c_scanner"}
