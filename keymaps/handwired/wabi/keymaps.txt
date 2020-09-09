@@ -1,1 +1,0 @@
-default:keyboards/handwired/wabi/keymaps/default rossman360:keyboards/handwired/wabi/keymaps/rossman360

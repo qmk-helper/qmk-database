@@ -1,1 +1,0 @@
-default:keyboards/handwired/mechboards_micropad/keymaps/default

@@ -1,1 +1,0 @@
-default:keyboards/maartenwut/quackfire/keymaps/default talljoe-tkl:layouts/community/tkl_ansi/talljoe-tkl via:keyboards/maartenwut/quackfire/keymaps/via xyverz:layouts/community/tkl_ansi/xyverz yanfali:layouts/community/tkl_ansi/yanfali

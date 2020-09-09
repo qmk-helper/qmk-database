@@ -1,1 +1,0 @@
-default:keyboards/tkc/osav2/keymaps/default stanrc85:keyboards/tkc/osav2/keymaps/stanrc85 via:keyboards/tkc/osav2/keymaps/via

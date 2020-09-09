@@ -1,1 +1,0 @@
-default:keyboards/keebio/rorschach/keymaps/default insertsnideremarks:keyboards/keebio/rorschach/keymaps/insertsnideremarks tuesdayjohn:keyboards/keebio/rorschach/keymaps/tuesdayjohn

@@ -1,1 +1,0 @@
-default:keyboards/switchplate/southpaw_65/keymaps/default default_ansi:keyboards/switchplate/southpaw_65/keymaps/default_ansi default_iso:keyboards/switchplate/southpaw_65/keymaps/default_iso

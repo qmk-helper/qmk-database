@@ -1,1 +1,0 @@
-default:keyboards/treadstone48/keymaps/default like_jis:keyboards/treadstone48/keymaps/like_jis like_jis_rs:keyboards/treadstone48/rev1/keymaps/like_jis_rs

@@ -1,1 +1,0 @@
-bjohnson:layouts/community/numpad_5x6/bjohnson default:keyboards/primekb/prime_m/keymaps/default drashna:layouts/community/numpad_5x6/drashna numpad:keyboards/primekb/prime_m/keymaps/numpad via:keyboards/primekb/prime_m/keymaps/via

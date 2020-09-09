@@ -1,1 +1,0 @@
-default:keyboards/duck/octagon/keymaps/default mechmerlin-75_ansi:layouts/community/75_ansi/mechmerlin-75_ansi spidey3:layouts/community/75_ansi/spidey3 via:keyboards/duck/octagon/keymaps/via yanfali:layouts/community/75_ansi/yanfali

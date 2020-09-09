@@ -1,1 +1,0 @@
-ansi:keyboards/rart/rart75/keymaps/ansi default:keyboards/rart/rart75/keymaps/default via:keyboards/rart/rart75/keymaps/via

@@ -1,1 +1,0 @@
-default:keyboards/noxary/280/keymaps/default via:keyboards/noxary/280/keymaps/via

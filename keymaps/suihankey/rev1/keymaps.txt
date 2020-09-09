@@ -1,1 +1,0 @@
-default:keyboards/suihankey/rev1/keymaps/default

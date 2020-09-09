@@ -1,1 +1,0 @@
-default:keyboards/wilba_tech/rama_works_m60_a/keymaps/default mguterl:keyboards/wilba_tech/rama_works_m60_a/keymaps/mguterl proto:keyboards/wilba_tech/rama_works_m60_a/keymaps/proto talljoe-hhkb:layouts/community/60_hhkb/talljoe-hhkb via:keyboards/wilba_tech/rama_works_m60_a/keymaps/via yanfali:layouts/community/60_hhkb/yanfali

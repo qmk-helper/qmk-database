@@ -1,1 +1,0 @@
-default:keyboards/kabedon/kabedon980/keymaps/default via:keyboards/kabedon/kabedon980/keymaps/via

@@ -1,1 +1,0 @@
-brushsize:keyboards/ncc1701kb/keymaps/brushsize default:keyboards/ncc1701kb/keymaps/default

@@ -1,1 +1,0 @@
-crd:keyboards/foxlab/leaf60/hotswap/keymaps/crd default:keyboards/foxlab/leaf60/hotswap/keymaps/default via:keyboards/foxlab/leaf60/hotswap/keymaps/via

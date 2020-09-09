@@ -1,1 +1,0 @@
-default:keyboards/pandora/keymaps/default via:keyboards/pandora/keymaps/via

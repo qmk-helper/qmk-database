@@ -1,1 +1,0 @@
-default:keyboards/reviung39/keymaps/default default_s:keyboards/reviung39/keymaps/default_s toshi0383:keyboards/reviung39/keymaps/toshi0383

@@ -1,1 +1,0 @@
-QFR_JM:keyboards/bpiphany/frosty_flake/keymaps/QFR_JM default:keyboards/bpiphany/frosty_flake/keymaps/default nikchi:keyboards/bpiphany/frosty_flake/keymaps/nikchi talljoe-tkl:layouts/community/tkl_ansi/talljoe-tkl tkl:keyboards/bpiphany/frosty_flake/keymaps/tkl xyverz:layouts/community/tkl_ansi/xyverz yanfali:layouts/community/tkl_ansi/yanfali

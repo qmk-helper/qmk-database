@@ -1,1 +1,0 @@
-default:keyboards/duck/eagle_viper/v2/keymaps/default mechmerlin-ansi:layouts/community/60_ansi/mechmerlin-ansi profanum429:keyboards/duck/eagle_viper/v2/keymaps/profanum429 stanrc85-ansi:layouts/community/60_ansi/stanrc85-ansi talljoe-ansi:layouts/community/60_ansi/talljoe-ansi via:keyboards/duck/eagle_viper/v2/keymaps/via xyverz:layouts/community/60_ansi/xyverz

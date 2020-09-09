@@ -1,1 +1,0 @@
-default:keyboards/pinky/4/keymaps/default via:keyboards/pinky/4/keymaps/via

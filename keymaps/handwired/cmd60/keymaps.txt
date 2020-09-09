@@ -1,1 +1,0 @@
-default:keyboards/handwired/cmd60/keymaps/default

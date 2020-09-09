@@ -1,1 +1,0 @@
-default:keyboards/waldo/keymaps/default default_split_shft_bck:keyboards/waldo/keymaps/default_split_shft_bck via:keyboards/waldo/keymaps/via

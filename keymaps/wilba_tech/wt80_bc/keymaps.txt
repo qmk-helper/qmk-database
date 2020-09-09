@@ -1,1 +1,0 @@
-default:keyboards/wilba_tech/wt80_bc/keymaps/default via:keyboards/wilba_tech/wt80_bc/keymaps/via

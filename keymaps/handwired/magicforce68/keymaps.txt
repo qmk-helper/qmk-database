@@ -1,1 +1,0 @@
-default:keyboards/handwired/magicforce68/keymaps/default

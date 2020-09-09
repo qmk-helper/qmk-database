@@ -1,1 +1,0 @@
-default:keyboards/handwired/tennie/keymaps/default simple-numbpad:keyboards/handwired/tennie/keymaps/simple-numbpad soundboard:keyboards/handwired/tennie/keymaps/soundboard

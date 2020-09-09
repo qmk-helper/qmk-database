@@ -1,1 +1,0 @@
-default:keyboards/eco/keymaps/default fsck:keyboards/eco/keymaps/fsck hexwire:keyboards/eco/keymaps/hexwire that_canadian:keyboards/eco/keymaps/that_canadian xyverz:keyboards/eco/keymaps/xyverz

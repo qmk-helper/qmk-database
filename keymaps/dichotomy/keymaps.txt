@@ -1,1 +1,0 @@
-alairock:keyboards/dichotomy/keymaps/alairock beat:keyboards/dichotomy/keymaps/beat default:keyboards/dichotomy/keymaps/default

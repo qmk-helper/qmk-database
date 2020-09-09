@@ -1,1 +1,0 @@
-default:keyboards/tkc/candybar/lefty/keymaps/default via:keyboards/tkc/candybar/lefty/keymaps/via

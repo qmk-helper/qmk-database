@@ -1,1 +1,0 @@
-default:keyboards/walletburner/neuron/keymaps/default via:keyboards/walletburner/neuron/keymaps/via

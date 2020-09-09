@@ -1,1 +1,0 @@
-default:keyboards/hs60/v2/iso/keymaps/default iso_andys8:keyboards/hs60/v2/iso/keymaps/iso_andys8 unxmaal:layouts/community/60_iso/unxmaal via:keyboards/hs60/v2/iso/keymaps/via win_osx_dual:keyboards/hs60/v2/iso/keymaps/win_osx_dual

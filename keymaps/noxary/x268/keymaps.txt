@@ -1,1 +1,0 @@
-default:keyboards/noxary/x268/keymaps/default via:keyboards/noxary/x268/keymaps/via

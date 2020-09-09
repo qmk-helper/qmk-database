@@ -1,1 +1,0 @@
-default:keyboards/themadnoodle/ncc1701kb/v2/keymaps/default

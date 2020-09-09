@@ -1,1 +1,0 @@
-default:keyboards/dztech/bocc/keymaps/default via:keyboards/dztech/bocc/keymaps/via

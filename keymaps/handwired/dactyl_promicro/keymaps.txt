@@ -1,1 +1,0 @@
-default:keyboards/handwired/dactyl_promicro/keymaps/default impstyle:keyboards/handwired/dactyl_promicro/keymaps/impstyle

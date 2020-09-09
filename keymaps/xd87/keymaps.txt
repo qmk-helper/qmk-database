@@ -1,1 +1,0 @@
-default:keyboards/xd87/keymaps/default default_underglow:keyboards/xd87/keymaps/default_underglow mac_underglow:keyboards/xd87/keymaps/mac_underglow talljoe-tkl:layouts/community/tkl_ansi/talljoe-tkl via:keyboards/xd87/keymaps/via xyverz:layouts/community/tkl_ansi/xyverz yanfali:layouts/community/tkl_ansi/yanfali

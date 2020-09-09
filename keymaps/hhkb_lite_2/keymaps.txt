@@ -1,1 +1,0 @@
-default:keyboards/hhkb_lite_2/keymaps/default via:keyboards/hhkb_lite_2/keymaps/via

@@ -1,1 +1,0 @@
-default:keyboards/sck/gtm/keymaps/default tabs:keyboards/sck/gtm/keymaps/tabs vol:keyboards/sck/gtm/keymaps/vol

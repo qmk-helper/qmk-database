@@ -1,1 +1,0 @@
-default:keyboards/dc01/numpad/keymaps/default ortho_5x4:keyboards/dc01/numpad/keymaps/ortho_5x4

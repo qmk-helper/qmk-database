@@ -1,1 +1,0 @@
-default:keyboards/converter/ibm_terminal/keymaps/default priyadi:keyboards/converter/ibm_terminal/keymaps/priyadi

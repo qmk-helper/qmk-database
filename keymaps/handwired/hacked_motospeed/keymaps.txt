@@ -1,1 +1,0 @@
-default:keyboards/handwired/hacked_motospeed/keymaps/default german:keyboards/handwired/hacked_motospeed/keymaps/german

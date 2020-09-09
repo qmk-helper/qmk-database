@@ -1,1 +1,0 @@
-default:keyboards/ogre/ergo_single/keymaps/default

@@ -1,1 +1,0 @@
-default:keyboards/deltasplit75/keymaps/default itsaferbie:keyboards/deltasplit75/keymaps/itsaferbie mbsurfer:keyboards/deltasplit75/keymaps/mbsurfer protosplit:keyboards/deltasplit75/keymaps/protosplit

@@ -1,1 +1,0 @@
-blowrak:keyboards/bpiphany/pegasushoof/keymaps/blowrak citadel:keyboards/bpiphany/pegasushoof/keymaps/citadel default:keyboards/bpiphany/pegasushoof/keymaps/default default_jis:keyboards/bpiphany/pegasushoof/keymaps/default_jis talljoe-tkl:layouts/community/tkl_ansi/talljoe-tkl xyverz:layouts/community/tkl_ansi/xyverz yanfali:layouts/community/tkl_ansi/yanfali

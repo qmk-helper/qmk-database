@@ -1,1 +1,0 @@
-default:keyboards/handwired/dactyl_manuform/4x5/keymaps/default dvorak:keyboards/handwired/dactyl_manuform/4x5/keymaps/dvorak ibnuda:keyboards/handwired/dactyl_manuform/4x5/keymaps/ibnuda

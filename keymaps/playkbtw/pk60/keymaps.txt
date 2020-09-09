@@ -1,1 +1,0 @@
-bcat:layouts/community/60_ansi_split_bs_rshift/bcat default:keyboards/playkbtw/pk60/keymaps/default mechmerlin-split:layouts/community/60_ansi_split_bs_rshift/mechmerlin-split rfvizarra:keyboards/playkbtw/pk60/keymaps/rfvizarra talljoe:layouts/community/60_ansi_split_bs_rshift/talljoe yanfali:layouts/community/60_ansi_split_bs_rshift/yanfali

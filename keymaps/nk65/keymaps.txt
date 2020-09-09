@@ -1,1 +1,0 @@
-default:keyboards/nk65/keymaps/default madhatter:keyboards/nk65/keymaps/madhatter mechmerlin:layouts/community/65_ansi/mechmerlin via:keyboards/nk65/keymaps/via yanfali:layouts/community/65_ansi/yanfali

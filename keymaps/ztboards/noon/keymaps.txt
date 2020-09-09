@@ -1,1 +1,0 @@
-default:keyboards/ztboards/noon/keymaps/default via:keyboards/ztboards/noon/keymaps/via

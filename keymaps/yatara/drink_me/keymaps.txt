@@ -1,1 +1,0 @@
-caterpillar:keyboards/yatara/drink_me/keymaps/caterpillar cheshire_cat:keyboards/yatara/drink_me/keymaps/cheshire_cat default:keyboards/yatara/drink_me/keymaps/default dormouse:keyboards/yatara/drink_me/keymaps/dormouse queen:keyboards/yatara/drink_me/keymaps/queen via:keyboards/yatara/drink_me/keymaps/via

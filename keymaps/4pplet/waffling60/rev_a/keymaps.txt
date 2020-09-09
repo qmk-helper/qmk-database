@@ -1,1 +1,0 @@
-default:keyboards/4pplet/waffling60/keymaps/default via:keyboards/4pplet/waffling60/keymaps/via

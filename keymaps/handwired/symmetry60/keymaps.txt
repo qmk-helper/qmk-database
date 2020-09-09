@@ -1,1 +1,0 @@
-default:keyboards/handwired/symmetry60/keymaps/default yet-another-developer:layouts/community/ortho_5x14/yet-another-developer

@@ -1,1 +1,0 @@
-default:keyboards/sirius/uni660/rev2/iso/keymaps/default via:keyboards/sirius/uni660/rev2/iso/keymaps/via

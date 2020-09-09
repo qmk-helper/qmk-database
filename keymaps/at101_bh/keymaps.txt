@@ -1,1 +1,0 @@
-default:keyboards/at101_bh/keymaps/default

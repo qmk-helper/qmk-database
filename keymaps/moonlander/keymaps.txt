@@ -1,1 +1,0 @@
-default:keyboards/moonlander/keymaps/default drashna:keyboards/moonlander/keymaps/drashna

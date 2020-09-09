@@ -1,1 +1,0 @@
-default:keyboards/kira75/keymaps/default

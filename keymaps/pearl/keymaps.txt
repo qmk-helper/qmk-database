@@ -1,1 +1,0 @@
-cijanzen:keyboards/pearl/keymaps/cijanzen default:keyboards/pearl/keymaps/default jetpacktuxedo:keyboards/pearl/keymaps/jetpacktuxedo phil:keyboards/pearl/keymaps/phil rask:keyboards/pearl/keymaps/rask

@@ -1,1 +1,0 @@
-default:keyboards/gray_studio/think65/solder/keymaps/default mechmerlin:layouts/community/65_ansi_blocker/mechmerlin rys:keyboards/gray_studio/think65/solder/keymaps/rys via:keyboards/gray_studio/think65/solder/keymaps/via

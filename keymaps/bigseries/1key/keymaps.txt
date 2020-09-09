@@ -1,1 +1,0 @@
-8ball:keyboards/bigseries/1key/keymaps/8ball ctrl-alt-del:keyboards/bigseries/1key/keymaps/ctrl-alt-del default:keyboards/bigseries/1key/keymaps/default dudeofawesome:keyboards/bigseries/1key/keymaps/dudeofawesome leddance:keyboards/bigseries/1key/keymaps/leddance lock:keyboards/bigseries/1key/keymaps/lock tester:keyboards/bigseries/1key/keymaps/tester

@@ -1,1 +1,0 @@
-default:keyboards/exclusive/e85/keymaps/default standard:keyboards/exclusive/e85/keymaps/standard tsangan:keyboards/exclusive/e85/keymaps/tsangan via:keyboards/exclusive/e85/keymaps/via

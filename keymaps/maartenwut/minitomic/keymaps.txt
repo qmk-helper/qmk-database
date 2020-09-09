@@ -1,1 +1,0 @@
-default:keyboards/maartenwut/minitomic/keymaps/default

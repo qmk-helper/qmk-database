@@ -1,1 +1,0 @@
-default:keyboards/tkc/godspeed75/keymaps/default via:keyboards/tkc/godspeed75/keymaps/via

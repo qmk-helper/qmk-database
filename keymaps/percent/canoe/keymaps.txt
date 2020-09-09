@@ -1,1 +1,0 @@
-boy_314:keyboards/percent/canoe/keymaps/boy_314 default:keyboards/percent/canoe/keymaps/default dhertz:keyboards/percent/canoe/keymaps/dhertz iso:keyboards/percent/canoe/keymaps/iso mechmerlin:layouts/community/65_ansi_blocker/mechmerlin via:keyboards/percent/canoe/keymaps/via

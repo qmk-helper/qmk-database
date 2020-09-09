@@ -1,1 +1,0 @@
-default:keyboards/xd68/keymaps/default default_iso:keyboards/xd68/keymaps/default_iso mechmerlin:layouts/community/65_ansi/mechmerlin via:keyboards/xd68/keymaps/via yanfali:layouts/community/65_ansi/yanfali

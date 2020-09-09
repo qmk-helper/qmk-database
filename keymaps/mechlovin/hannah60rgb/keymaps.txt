@@ -1,1 +1,0 @@
-default:keyboards/mechlovin/hannah60rgb/keymaps/default via:keyboards/mechlovin/hannah60rgb/keymaps/via

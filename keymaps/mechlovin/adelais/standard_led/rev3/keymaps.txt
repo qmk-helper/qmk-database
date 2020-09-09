@@ -1,1 +1,0 @@
-default:keyboards/mechlovin/adelais/keymaps/default via:keyboards/mechlovin/adelais/keymaps/via

@@ -1,1 +1,0 @@
-default:keyboards/gon/nerd60/keymaps/default mauin:keyboards/gon/nerd60/keymaps/mauin

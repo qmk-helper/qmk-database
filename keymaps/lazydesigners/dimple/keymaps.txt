@@ -1,1 +1,0 @@
-default:keyboards/lazydesigners/dimple/keymaps/default tominabox1:keyboards/lazydesigners/dimple/keymaps/tominabox1 via:keyboards/lazydesigners/dimple/keymaps/via

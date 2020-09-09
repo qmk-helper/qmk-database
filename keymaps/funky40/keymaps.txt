@@ -1,1 +1,0 @@
-default:keyboards/funky40/keymaps/default

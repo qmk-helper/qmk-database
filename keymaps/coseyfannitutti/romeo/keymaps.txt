@@ -1,1 +1,0 @@
-default:keyboards/coseyfannitutti/romeo/keymaps/default via:keyboards/coseyfannitutti/romeo/keymaps/via

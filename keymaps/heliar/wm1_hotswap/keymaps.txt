@@ -1,1 +1,0 @@
-default:keyboards/heliar/wm1_hotswap/keymaps/default

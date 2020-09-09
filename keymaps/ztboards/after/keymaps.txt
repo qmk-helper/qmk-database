@@ -1,1 +1,0 @@
-default:keyboards/ztboards/after/keymaps/default ellicose:keyboards/ztboards/after/keymaps/ellicose phlop:keyboards/ztboards/after/keymaps/phlop

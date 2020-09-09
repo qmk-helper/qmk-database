@@ -1,1 +1,0 @@
-default:keyboards/handwired/cans12er/keymaps/default

@@ -1,1 +1,0 @@
-default:keyboards/tenki/keymaps/default via:keyboards/tenki/keymaps/via

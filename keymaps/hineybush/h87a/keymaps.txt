@@ -1,1 +1,0 @@
-default:keyboards/hineybush/h87a/keymaps/default gam3cat:keyboards/hineybush/h87a/keymaps/gam3cat via:keyboards/hineybush/h87a/keymaps/via wkl:keyboards/hineybush/h87a/keymaps/wkl

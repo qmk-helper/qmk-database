@@ -1,1 +1,0 @@
-default:keyboards/handwired/aranck/keymaps/default guidoism:layouts/community/planck_mit/guidoism turkishish:keyboards/handwired/aranck/keymaps/turkishish

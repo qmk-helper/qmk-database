@@ -1,1 +1,0 @@
-default:keyboards/yncognito/batpad/keymaps/default via:keyboards/yncognito/batpad/keymaps/via

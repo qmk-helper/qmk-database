@@ -1,1 +1,0 @@
-default:keyboards/duck/tcv3/keymaps/default via:keyboards/duck/tcv3/keymaps/via

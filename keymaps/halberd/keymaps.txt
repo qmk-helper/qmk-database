@@ -1,1 +1,0 @@
-default:keyboards/halberd/keymaps/default right_modifiers:keyboards/halberd/keymaps/right_modifiers

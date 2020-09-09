@@ -1,1 +1,0 @@
-default:keyboards/alu84/keymaps/default turbomech:keyboards/alu84/keymaps/turbomech

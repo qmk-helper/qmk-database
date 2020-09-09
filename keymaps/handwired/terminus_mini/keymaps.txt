@@ -1,1 +1,0 @@
-default:keyboards/handwired/terminus_mini/keymaps/default

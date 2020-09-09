@@ -1,1 +1,0 @@
-default:keyboards/lfkeyboards/lfkpad/keymaps/default

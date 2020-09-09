@@ -1,1 +1,0 @@
-{"keyboard": "knops/mini", "layout": "LAYOUT", "layers": [["LT_MSTP", "KC_VOLU", "KC_MPLY", "KC_MPRV", "KC_VOLD", "KC_MNXT"], ["LT_ESC", "C(KC_Z)", "C(S(KC_Z))", "C(KC_X)", "C(KC_C)", "C(KC_V)"], ["LT_NXTH", "TOPHALF", "MAXIMIZ", "PRVTHRD", "BTMHALF", "NXTDSPL"], ["KC_TRNS", "KC_TRNS", "RESET", "TO(_MEDIA)", "TO(_COPYPASTA)", "TO(_SPECTACLES)"]]}

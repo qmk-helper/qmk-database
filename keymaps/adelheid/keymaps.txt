@@ -1,1 +1,0 @@
-default:keyboards/adelheid/keymaps/default floookay:keyboards/adelheid/keymaps/floookay via:keyboards/adelheid/keymaps/via

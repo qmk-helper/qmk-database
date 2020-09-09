@@ -1,1 +1,0 @@
-default:keyboards/naked48/keymaps/default default_with_nafuda:keyboards/naked48/keymaps/default_with_nafuda default_with_setta21:keyboards/naked48/keymaps/default_with_setta21 salicylic:keyboards/naked48/keymaps/salicylic salicylic_with_nafuda:keyboards/naked48/keymaps/salicylic_with_nafuda salicylic_with_setta21:keyboards/naked48/keymaps/salicylic_with_setta21

@@ -1,1 +1,0 @@
-default:keyboards/westfoxtrot/cypher/rev1/keymaps/default default_iso:keyboards/westfoxtrot/cypher/rev1/keymaps/default_iso kwer:keyboards/westfoxtrot/cypher/rev1/keymaps/kwer

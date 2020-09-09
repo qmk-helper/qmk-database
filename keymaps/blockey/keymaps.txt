@@ -1,1 +1,0 @@
-default:keyboards/blockey/keymaps/default eucalyn:keyboards/blockey/keymaps/eucalyn

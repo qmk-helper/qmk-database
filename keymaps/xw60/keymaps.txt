@@ -1,1 +1,0 @@
-default:keyboards/xw60/keymaps/default pingjunior:keyboards/xw60/keymaps/pingjunior

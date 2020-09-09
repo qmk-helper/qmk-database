@@ -1,1 +1,0 @@
-default:keyboards/handwired/k8split/keymaps/default left:keyboards/handwired/k8split/keymaps/left right:keyboards/handwired/k8split/keymaps/right

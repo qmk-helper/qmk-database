@@ -1,1 +1,0 @@
-default:keyboards/westfoxtrot/cyclops/keymaps/default peippo:keyboards/westfoxtrot/cyclops/keymaps/peippo

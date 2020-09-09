@@ -1,1 +1,0 @@
-default:keyboards/gray_studio/cod67/keymaps/default rys:keyboards/gray_studio/cod67/keymaps/rys

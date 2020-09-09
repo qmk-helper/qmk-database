@@ -1,1 +1,0 @@
-default:keyboards/yd68/keymaps/default

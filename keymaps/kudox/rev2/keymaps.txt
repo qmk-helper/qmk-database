@@ -1,1 +1,0 @@
-default:keyboards/kudox/rev2/keymaps/default jis:keyboards/kudox/rev2/keymaps/jis

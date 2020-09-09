@@ -1,1 +1,0 @@
-bcat:layouts/community/60_tsangan_hhkb/bcat default:keyboards/dztech/dz60rgb_wkl/keymaps/default dohmain:layouts/community/60_tsangan_hhkb/dohmain via:keyboards/dztech/dz60rgb_wkl/keymaps/via yanfali:layouts/community/60_tsangan_hhkb/yanfali yanfali_wkl:layouts/community/60_tsangan_hhkb/yanfali_wkl

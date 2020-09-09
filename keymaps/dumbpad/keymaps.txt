@@ -1,1 +1,0 @@
-default:keyboards/dumbpad/keymaps/default imchipwood:keyboards/dumbpad/keymaps/imchipwood

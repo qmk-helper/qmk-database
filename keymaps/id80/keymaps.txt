@@ -1,1 +1,0 @@
-default:keyboards/id80/keymaps/default via:keyboards/id80/keymaps/via

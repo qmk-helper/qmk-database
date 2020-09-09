@@ -1,1 +1,0 @@
-default:keyboards/handwired/boss566y/redragon_vara/keymaps/default via:keyboards/handwired/boss566y/redragon_vara/keymaps/via

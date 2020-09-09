@@ -1,1 +1,0 @@
-default:keyboards/bm60rgb/keymaps/default via:keyboards/bm60rgb/keymaps/via

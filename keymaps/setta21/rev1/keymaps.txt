@@ -1,1 +1,0 @@
-default:keyboards/setta21/keymaps/default salicylic:keyboards/setta21/keymaps/salicylic

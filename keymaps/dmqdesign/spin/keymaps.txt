@@ -1,1 +1,0 @@
-codecoffeecode:keyboards/dmqdesign/spin/keymaps/codecoffeecode default:keyboards/dmqdesign/spin/keymaps/default encoderlayers:keyboards/dmqdesign/spin/keymaps/encoderlayers

@@ -1,1 +1,0 @@
-default:keyboards/alf/dc60/keymaps/default

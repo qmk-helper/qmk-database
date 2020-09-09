@@ -1,1 +1,0 @@
-ansi:keyboards/mechlovin/hannah910/rev1/keymaps/ansi default:keyboards/mechlovin/hannah910/rev1/keymaps/default via:keyboards/mechlovin/hannah910/rev1/keymaps/via

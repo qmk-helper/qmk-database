@@ -1,1 +1,0 @@
-default:keyboards/choc_taro/keymaps/default via:keyboards/choc_taro/keymaps/via

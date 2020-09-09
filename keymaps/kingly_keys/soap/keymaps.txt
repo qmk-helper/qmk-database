@@ -1,1 +1,0 @@
-default:keyboards/kingly_keys/soap/keymaps/default

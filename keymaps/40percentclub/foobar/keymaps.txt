@@ -1,1 +1,0 @@
-default:keyboards/40percentclub/foobar/keymaps/default macro:keyboards/40percentclub/foobar/keymaps/macro wanleg:layouts/community/ortho_3x10/wanleg

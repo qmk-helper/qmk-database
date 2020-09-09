@@ -1,1 +1,0 @@
-default:keyboards/ares/keymaps/default

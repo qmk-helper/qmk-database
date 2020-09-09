@@ -1,1 +1,0 @@
-default:keyboards/ymdk_np21/keymaps/default

@@ -1,1 +1,0 @@
-default:keyboards/angel64/rev1/keymaps/default kakunpc:keyboards/angel64/rev1/keymaps/kakunpc

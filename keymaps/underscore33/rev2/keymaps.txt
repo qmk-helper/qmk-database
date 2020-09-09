@@ -1,1 +1,0 @@
-default:keyboards/underscore33/rev2/keymaps/default via:keyboards/underscore33/rev2/keymaps/via

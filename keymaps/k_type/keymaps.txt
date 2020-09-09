@@ -1,1 +1,0 @@
-belak:keyboards/k_type/keymaps/belak default:keyboards/k_type/keymaps/default rgb:keyboards/k_type/keymaps/rgb talljoe-tkl:layouts/community/tkl_ansi/talljoe-tkl xyverz:layouts/community/tkl_ansi/xyverz yanfali:layouts/community/tkl_ansi/yanfali

@@ -1,1 +1,0 @@
-default:keyboards/ua62/keymaps/default

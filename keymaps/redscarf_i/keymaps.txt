@@ -1,1 +1,0 @@
-default:keyboards/redscarf_i/keymaps/default ortho_5x4:keyboards/redscarf_i/keymaps/ortho_5x4 ortho_6x4:keyboards/redscarf_i/keymaps/ortho_6x4

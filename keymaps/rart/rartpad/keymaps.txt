@@ -1,1 +1,0 @@
-default:keyboards/rart/rartpad/keymaps/default numpad:keyboards/rart/rartpad/keymaps/numpad via:keyboards/rart/rartpad/keymaps/via

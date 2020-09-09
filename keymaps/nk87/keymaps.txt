@@ -1,1 +1,0 @@
-default:keyboards/nk87/keymaps/default via:keyboards/nk87/keymaps/via

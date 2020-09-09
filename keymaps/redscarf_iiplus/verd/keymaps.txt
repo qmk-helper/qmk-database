@@ -1,1 +1,0 @@
-alittlepeace:keyboards/redscarf_iiplus/verd/keymaps/alittlepeace default:keyboards/redscarf_iiplus/verd/keymaps/default

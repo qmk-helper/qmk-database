@@ -1,1 +1,0 @@
-default:keyboards/converter/hp_46010a/keymaps/default

@@ -1,1 +1,0 @@
-default:keyboards/redscarf_iiplus/verb/keymaps/default

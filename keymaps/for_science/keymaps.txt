@@ -1,1 +1,0 @@
-default:keyboards/for_science/keymaps/default

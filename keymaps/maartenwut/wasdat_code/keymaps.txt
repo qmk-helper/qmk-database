@@ -1,1 +1,0 @@
-default:keyboards/maartenwut/wasdat_code/keymaps/default default_iso:keyboards/maartenwut/wasdat_code/keymaps/default_iso talljoe-tkl:layouts/community/tkl_ansi/talljoe-tkl via:keyboards/maartenwut/wasdat_code/keymaps/via xyverz:layouts/community/tkl_ansi/xyverz yanfali:layouts/community/tkl_ansi/yanfali

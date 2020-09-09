@@ -1,1 +1,0 @@
-default:keyboards/launchpad/keymaps/default default_rgb:keyboards/launchpad/keymaps/default_rgb via:keyboards/launchpad/keymaps/via

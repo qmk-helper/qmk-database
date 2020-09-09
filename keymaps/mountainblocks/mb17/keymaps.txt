@@ -1,1 +1,0 @@
-default:keyboards/mountainblocks/mb17/keymaps/default via:keyboards/mountainblocks/mb17/keymaps/via

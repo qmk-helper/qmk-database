@@ -1,1 +1,0 @@
-default:keyboards/kagamidget/keymaps/default

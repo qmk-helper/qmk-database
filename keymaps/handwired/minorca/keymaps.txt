@@ -1,1 +1,0 @@
-default:keyboards/handwired/minorca/keymaps/default rgb:keyboards/handwired/minorca/keymaps/rgb ridingqwerty:keyboards/handwired/minorca/keymaps/ridingqwerty

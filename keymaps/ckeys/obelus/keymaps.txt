@@ -1,1 +1,0 @@
-default:keyboards/ckeys/obelus/keymaps/default jotix:layouts/community/ortho_4x4/jotix

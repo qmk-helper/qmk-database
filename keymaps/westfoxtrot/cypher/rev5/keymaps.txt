@@ -1,1 +1,0 @@
-default:keyboards/westfoxtrot/cypher/rev5/keymaps/default default_iso:keyboards/westfoxtrot/cypher/rev5/keymaps/default_iso max:keyboards/westfoxtrot/cypher/rev5/keymaps/max via:keyboards/westfoxtrot/cypher/rev5/keymaps/via

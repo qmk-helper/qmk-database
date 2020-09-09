@@ -1,1 +1,0 @@
-default:keyboards/hecomi/keymaps/default kakunpc:keyboards/hecomi/keymaps/kakunpc

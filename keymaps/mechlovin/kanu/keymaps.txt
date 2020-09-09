@@ -1,1 +1,0 @@
-ansi:keyboards/mechlovin/kanu/keymaps/ansi default:keyboards/mechlovin/kanu/keymaps/default mechmerlin:layouts/community/65_ansi_blocker/mechmerlin via:keyboards/mechlovin/kanu/keymaps/via

@@ -1,1 +1,0 @@
-default:keyboards/bfake/keymaps/default mechmerlin:keyboards/bfake/keymaps/mechmerlin

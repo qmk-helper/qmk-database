@@ -1,1 +1,0 @@
-default:keyboards/bpiphany/sixshooter/keymaps/default

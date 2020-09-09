@@ -1,1 +1,0 @@
-default:keyboards/gskt00/keymaps/default nachie:keyboards/gskt00/keymaps/nachie

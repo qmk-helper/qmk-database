@@ -1,1 +1,0 @@
-66_ansi:keyboards/clueboard/66_hotswap/keymaps/66_ansi default:keyboards/clueboard/66_hotswap/keymaps/default json:keyboards/clueboard/66_hotswap/keymaps/json mechmerlin:layouts/community/66_ansi/mechmerlin skully:layouts/community/66_ansi/skully xyverz:layouts/community/66_ansi/xyverz

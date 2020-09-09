@@ -1,1 +1,0 @@
-default:keyboards/vinta/keymaps/default mechmerlin:layouts/community/65_ansi_blocker/mechmerlin

@@ -1,1 +1,0 @@
-default:keyboards/s7_elephant/rev1/keymaps/default

@@ -1,1 +1,0 @@
-ansi_wk:keyboards/toad/keymaps/ansi_wk ansi_wkl:keyboards/toad/keymaps/ansi_wkl default:keyboards/toad/keymaps/default iso_wk:keyboards/toad/keymaps/iso_wk iso_wkl:keyboards/toad/keymaps/iso_wkl

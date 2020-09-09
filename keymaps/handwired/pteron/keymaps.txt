@@ -1,1 +1,0 @@
-FSund:keyboards/handwired/pteron/keymaps/FSund default:keyboards/handwired/pteron/keymaps/default

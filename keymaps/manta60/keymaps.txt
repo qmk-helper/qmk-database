@@ -1,1 +1,0 @@
-default:keyboards/manta60/keymaps/default

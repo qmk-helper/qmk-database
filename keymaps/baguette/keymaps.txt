@@ -1,1 +1,0 @@
-default:keyboards/baguette/keymaps/default iso:keyboards/baguette/keymaps/iso

@@ -1,1 +1,0 @@
-default:keyboards/gray_studio/hb85/keymaps/default stt:keyboards/gray_studio/hb85/keymaps/stt

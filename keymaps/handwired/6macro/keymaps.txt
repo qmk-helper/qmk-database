@@ -1,1 +1,0 @@
-default:keyboards/handwired/6macro/keymaps/default osu:keyboards/handwired/6macro/keymaps/osu

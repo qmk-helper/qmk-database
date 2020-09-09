@@ -1,1 +1,0 @@
-default:keyboards/bpiphany/tiger_lily/keymaps/default default_ansi:keyboards/bpiphany/tiger_lily/keymaps/default_ansi

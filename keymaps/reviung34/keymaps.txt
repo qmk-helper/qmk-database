@@ -1,1 +1,0 @@
-default:keyboards/reviung34/keymaps/default

@@ -1,1 +1,0 @@
-default:keyboards/30wer/keymaps/default

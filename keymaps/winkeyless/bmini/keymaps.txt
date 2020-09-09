@@ -1,1 +1,0 @@
-default:keyboards/winkeyless/bmini/keymaps/default via:keyboards/winkeyless/bmini/keymaps/via

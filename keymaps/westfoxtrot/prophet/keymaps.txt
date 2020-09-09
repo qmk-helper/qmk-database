@@ -1,1 +1,0 @@
-default:keyboards/westfoxtrot/prophet/keymaps/default via:keyboards/westfoxtrot/prophet/keymaps/via

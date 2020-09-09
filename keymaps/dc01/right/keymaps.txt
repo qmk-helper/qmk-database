@@ -1,1 +1,0 @@
-default:keyboards/dc01/right/keymaps/default hhkb_ansi:keyboards/dc01/right/keymaps/hhkb_ansi hhkb_iso:keyboards/dc01/right/keymaps/hhkb_iso iso:keyboards/dc01/right/keymaps/iso

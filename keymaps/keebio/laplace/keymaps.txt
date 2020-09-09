@@ -1,1 +1,0 @@
-bakingpy:keyboards/keebio/laplace/keymaps/bakingpy default:keyboards/keebio/laplace/keymaps/default

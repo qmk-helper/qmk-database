@@ -1,1 +1,0 @@
-default:keyboards/fallacy/keymaps/default default_split_bs:keyboards/fallacy/keymaps/default_split_bs via:keyboards/fallacy/keymaps/via

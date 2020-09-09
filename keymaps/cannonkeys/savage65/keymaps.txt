@@ -1,1 +1,0 @@
-bcat:layouts/community/65_ansi_blocker_split_bs/bcat default:keyboards/cannonkeys/savage65/keymaps/default mechmerlin:layouts/community/65_ansi_blocker/mechmerlin via:keyboards/cannonkeys/savage65/keymaps/via

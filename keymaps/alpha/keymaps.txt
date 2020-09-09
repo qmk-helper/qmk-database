@@ -1,1 +1,0 @@
-default:keyboards/alpha/keymaps/default hvp:keyboards/alpha/keymaps/hvp vderm:keyboards/alpha/keymaps/vderm

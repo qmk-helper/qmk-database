@@ -1,1 +1,0 @@
-default:keyboards/handwired/arrow_pad/keymaps/default pad_21:keyboards/handwired/arrow_pad/keymaps/pad_21 pad_24:keyboards/handwired/arrow_pad/keymaps/pad_24

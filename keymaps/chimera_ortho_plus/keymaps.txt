@@ -1,1 +1,0 @@
-default:keyboards/chimera_ortho_plus/keymaps/default

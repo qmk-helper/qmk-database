@@ -1,1 +1,0 @@
-default:keyboards/m10a/keymaps/default gam3cat:keyboards/m10a/keymaps/gam3cat via:keyboards/m10a/keymaps/via

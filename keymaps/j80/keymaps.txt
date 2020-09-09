@@ -1,1 +1,0 @@
-default:keyboards/j80/keymaps/default default_iso:keyboards/j80/keymaps/default_iso

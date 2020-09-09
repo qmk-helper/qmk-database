@@ -1,1 +1,0 @@
-default:keyboards/bthlabs/geekpad/keymaps/default

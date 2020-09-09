@@ -1,1 +1,0 @@
-default:keyboards/coseyfannitutti/mulletpad/keymaps/default

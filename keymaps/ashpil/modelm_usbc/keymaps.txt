@@ -1,1 +1,0 @@
-ashpil:keyboards/ashpil/modelm_usbc/keymaps/ashpil default:keyboards/ashpil/modelm_usbc/keymaps/default

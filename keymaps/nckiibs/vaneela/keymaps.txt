@@ -1,1 +1,0 @@
-default:keyboards/nckiibs/vaneela/keymaps/default via:keyboards/nckiibs/vaneela/keymaps/via

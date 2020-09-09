@@ -1,1 +1,0 @@
-default:keyboards/handwired/twadlee/tp69/keymaps/default

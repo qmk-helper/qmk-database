@@ -1,1 +1,0 @@
-default:keyboards/handwired/dactyl_manuform/5x7/keymaps/default via:keyboards/handwired/dactyl_manuform/5x7/keymaps/via

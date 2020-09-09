@@ -1,1 +1,0 @@
-center_sprit:keyboards/nomu30/keymaps/center_sprit default:keyboards/nomu30/keymaps/default like_jis:keyboards/nomu30/keymaps/like_jis via:keyboards/nomu30/keymaps/via

@@ -1,1 +1,0 @@
-default:keyboards/dc01/arrow/keymaps/default

@@ -1,1 +1,0 @@
-default:keyboards/pdxkbc/keymaps/default via:keyboards/pdxkbc/keymaps/via

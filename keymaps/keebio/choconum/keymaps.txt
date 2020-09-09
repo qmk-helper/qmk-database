@@ -1,1 +1,0 @@
-default:keyboards/keebio/choconum/keymaps/default via:keyboards/keebio/choconum/keymaps/via

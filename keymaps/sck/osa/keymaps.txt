@@ -1,1 +1,0 @@
-all:keyboards/sck/osa/keymaps/all default:keyboards/sck/osa/keymaps/default ocm:keyboards/sck/osa/keymaps/ocm splitbs:keyboards/sck/osa/keymaps/splitbs splitrs:keyboards/sck/osa/keymaps/splitrs via:keyboards/sck/osa/keymaps/via

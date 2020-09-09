@@ -1,1 +1,0 @@
-default:keyboards/kbdfans/kbdpad_mk2/keymaps/default tester:keyboards/kbdfans/kbdpad_mk2/keymaps/tester via:keyboards/kbdfans/kbdpad_mk2/keymaps/via

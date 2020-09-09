@@ -1,1 +1,0 @@
-default:keyboards/at_at/660m/keymaps/default

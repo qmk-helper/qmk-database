@@ -1,1 +1,0 @@
-default:keyboards/zinc/keymaps/default ginjake:keyboards/zinc/keymaps/ginjake monks:keyboards/zinc/keymaps/monks toshi0383:keyboards/zinc/keymaps/toshi0383

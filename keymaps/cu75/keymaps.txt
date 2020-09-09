@@ -1,1 +1,0 @@
-default:keyboards/cu75/keymaps/default iso:keyboards/cu75/keymaps/iso

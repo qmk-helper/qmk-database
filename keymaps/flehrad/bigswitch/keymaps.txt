@@ -1,1 +1,0 @@
-333fred:keyboards/flehrad/bigswitch/keymaps/333fred default:keyboards/flehrad/bigswitch/keymaps/default wanleg:keyboards/flehrad/bigswitch/keymaps/wanleg

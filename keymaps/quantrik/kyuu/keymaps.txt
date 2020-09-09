@@ -1,1 +1,0 @@
-default:keyboards/quantrik/kyuu/keymaps/default via:keyboards/quantrik/kyuu/keymaps/via

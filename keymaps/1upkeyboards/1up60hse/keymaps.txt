@@ -1,1 +1,0 @@
-default:keyboards/1upkeyboards/1up60hse/keymaps/default mechmerlin-ansi:layouts/community/60_ansi/mechmerlin-ansi stanrc85-ansi:layouts/community/60_ansi/stanrc85-ansi talljoe-ansi:layouts/community/60_ansi/talljoe-ansi via:keyboards/1upkeyboards/1up60hse/keymaps/via vosechu:keyboards/1upkeyboards/1up60hse/keymaps/vosechu xyverz:layouts/community/60_ansi/xyverz

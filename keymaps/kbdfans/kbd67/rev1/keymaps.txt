@@ -1,1 +1,0 @@
-default:keyboards/kbdfans/kbd67/rev1/keymaps/default koba:keyboards/kbdfans/kbd67/rev1/keymaps/koba martinffx:keyboards/kbdfans/kbd67/rev1/keymaps/martinffx mechmerlin:layouts/community/65_ansi/mechmerlin via:keyboards/kbdfans/kbd67/rev1/keymaps/via yanfali:layouts/community/65_ansi/yanfali

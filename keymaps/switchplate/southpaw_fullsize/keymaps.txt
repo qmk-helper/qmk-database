@@ -1,1 +1,0 @@
-default:keyboards/switchplate/southpaw_fullsize/keymaps/default default_wkl:keyboards/switchplate/southpaw_fullsize/keymaps/default_wkl

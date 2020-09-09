@@ -1,1 +1,0 @@
-default:keyboards/ymdk/ymd09/keymaps/default via:keyboards/ymdk/ymd09/keymaps/via

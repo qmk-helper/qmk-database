@@ -1,1 +1,0 @@
-default:keyboards/daisy/keymaps/default via:keyboards/daisy/keymaps/via

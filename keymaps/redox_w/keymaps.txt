@@ -1,1 +1,0 @@
-danielo515:keyboards/redox_w/keymaps/danielo515 default:keyboards/redox_w/keymaps/default italian:keyboards/redox_w/keymaps/italian

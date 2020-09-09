@@ -1,1 +1,0 @@
-default:keyboards/nebula12/keymaps/default via:keyboards/nebula12/keymaps/via

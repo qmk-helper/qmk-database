@@ -1,1 +1,0 @@
-default:keyboards/divergetm2/keymaps/default xtonhasvim:keyboards/divergetm2/keymaps/xtonhasvim

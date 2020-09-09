@@ -1,1 +1,0 @@
-default:keyboards/wilba_tech/zeal65/keymaps/default split_bs:keyboards/wilba_tech/zeal65/keymaps/split_bs via:keyboards/wilba_tech/zeal65/keymaps/via

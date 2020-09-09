@@ -1,1 +1,0 @@
-binman:keyboards/percent/skog_lite/keymaps/binman default:keyboards/percent/skog_lite/keymaps/default talljoe-tkl:layouts/community/tkl_ansi/talljoe-tkl via:keyboards/percent/skog_lite/keymaps/via xyverz:layouts/community/tkl_ansi/xyverz yanfali:layouts/community/tkl_ansi/yanfali

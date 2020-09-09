@@ -1,1 +1,0 @@
-default:keyboards/barleycorn/keymaps/default iso:keyboards/barleycorn/keymaps/iso via:keyboards/barleycorn/keymaps/via

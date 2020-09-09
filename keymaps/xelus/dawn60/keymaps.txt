@@ -1,1 +1,0 @@
-default:keyboards/xelus/dawn60/keymaps/default via:keyboards/xelus/dawn60/keymaps/via

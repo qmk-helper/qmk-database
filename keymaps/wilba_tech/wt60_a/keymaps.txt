@@ -1,1 +1,0 @@
-ansi_split_bs_rshift:keyboards/wilba_tech/wt60_a/keymaps/ansi_split_bs_rshift default:keyboards/wilba_tech/wt60_a/keymaps/default via:keyboards/wilba_tech/wt60_a/keymaps/via

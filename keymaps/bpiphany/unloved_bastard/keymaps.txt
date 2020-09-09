@@ -1,1 +1,0 @@
-default:keyboards/bpiphany/unloved_bastard/keymaps/default default_ansi:keyboards/bpiphany/unloved_bastard/keymaps/default_ansi default_iso:keyboards/bpiphany/unloved_bastard/keymaps/default_iso talljoe-tkl:layouts/community/tkl_ansi/talljoe-tkl xyverz:layouts/community/tkl_ansi/xyverz yanfali:layouts/community/tkl_ansi/yanfali

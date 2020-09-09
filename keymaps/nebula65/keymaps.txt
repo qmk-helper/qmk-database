@@ -1,1 +1,0 @@
-default:keyboards/nebula65/keymaps/default mechmerlin:layouts/community/68_ansi/mechmerlin via:keyboards/nebula65/keymaps/via

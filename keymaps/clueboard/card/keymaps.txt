@@ -1,1 +1,0 @@
-default:keyboards/clueboard/card/keymaps/default rgb_effects:keyboards/clueboard/card/keymaps/rgb_effects

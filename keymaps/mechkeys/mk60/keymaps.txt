@@ -1,1 +1,0 @@
-default:keyboards/mechkeys/mk60/keymaps/default

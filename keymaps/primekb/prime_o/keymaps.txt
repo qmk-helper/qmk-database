@@ -1,1 +1,0 @@
-default:keyboards/primekb/prime_o/keymaps/default reasonsandreasons:keyboards/primekb/prime_o/keymaps/reasonsandreasons spacebarracecar:keyboards/primekb/prime_o/keymaps/spacebarracecar

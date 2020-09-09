@@ -1,1 +1,0 @@
-default:keyboards/cocoa40/keymaps/default

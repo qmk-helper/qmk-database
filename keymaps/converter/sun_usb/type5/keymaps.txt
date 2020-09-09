@@ -1,1 +1,0 @@
-default:keyboards/converter/sun_usb/type5/keymaps/default sigma:keyboards/converter/sun_usb/type5/keymaps/sigma

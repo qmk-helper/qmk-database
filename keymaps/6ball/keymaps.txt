@@ -1,1 +1,0 @@
-default:keyboards/6ball/keymaps/default

@@ -1,1 +1,0 @@
-default:keyboards/converter/palm_usb/stowaway/keymaps/default

@@ -1,1 +1,0 @@
-default:keyboards/converter/numeric_keypad_IIe/keymaps/default newbold:keyboards/converter/numeric_keypad_IIe/keymaps/newbold

@@ -1,1 +1,0 @@
-default:keyboards/projectkb/alice/keymaps/default devinceble:keyboards/projectkb/alice/keymaps/devinceble keithlo:keyboards/projectkb/alice/keymaps/keithlo madhatter:keyboards/projectkb/alice/keymaps/madhatter stanrc85:keyboards/projectkb/alice/keymaps/stanrc85 via:keyboards/projectkb/alice/keymaps/via

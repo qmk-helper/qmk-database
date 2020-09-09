@@ -1,1 +1,0 @@
-default:keyboards/miller/gm862/keymaps/default via:keyboards/miller/gm862/keymaps/via

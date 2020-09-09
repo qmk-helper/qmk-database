@@ -1,1 +1,0 @@
-default:keyboards/espectro/keymaps/default iso:keyboards/espectro/keymaps/iso mac:keyboards/espectro/keymaps/mac mapdev:keyboards/espectro/keymaps/mapdev mikethetiger:keyboards/espectro/keymaps/mikethetiger

@@ -1,1 +1,0 @@
-default:keyboards/7skb/keymaps/default salicylic:keyboards/7skb/keymaps/salicylic via:keyboards/7skb/keymaps/via

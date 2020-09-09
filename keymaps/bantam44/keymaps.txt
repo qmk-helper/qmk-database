@@ -1,1 +1,0 @@
-default:keyboards/bantam44/keymaps/default

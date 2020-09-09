@@ -1,1 +1,0 @@
-default:keyboards/keebio/kbo5000/keymaps/default iso:keyboards/keebio/kbo5000/keymaps/iso via:keyboards/keebio/kbo5000/keymaps/via

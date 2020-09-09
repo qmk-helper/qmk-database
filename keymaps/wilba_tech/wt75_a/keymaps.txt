@@ -1,1 +1,0 @@
-default:keyboards/wilba_tech/wt75_a/keymaps/default via:keyboards/wilba_tech/wt75_a/keymaps/via

@@ -1,1 +1,0 @@
-default:keyboards/duck/lightsaver/keymaps/default rasmus:keyboards/duck/lightsaver/keymaps/rasmus

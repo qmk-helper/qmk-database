@@ -1,1 +1,0 @@
-default:keyboards/zfrontier/big_switch/keymaps/default longtap:keyboards/zfrontier/big_switch/keymaps/longtap

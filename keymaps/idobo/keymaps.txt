@@ -1,1 +1,0 @@
-default75:keyboards/idobo/keymaps/default75 default:keyboards/idobo/keymaps/default drewdobo:keyboards/idobo/keymaps/drewdobo greenshadowmaker:keyboards/idobo/keymaps/greenshadowmaker revok75:keyboards/idobo/keymaps/revok75 via:keyboards/idobo/keymaps/via wanleg:layouts/community/ortho_5x15/wanleg xaceofspaidsx:keyboards/idobo/keymaps/xaceofspaidsx

@@ -1,1 +1,0 @@
-default:keyboards/2key2crawl/keymaps/default tabs:keyboards/2key2crawl/keymaps/tabs vol:keyboards/2key2crawl/keymaps/vol

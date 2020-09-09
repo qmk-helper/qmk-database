@@ -1,1 +1,0 @@
-default:keyboards/eniigmakeyboards/ek65/keymaps/default via:keyboards/eniigmakeyboards/ek65/keymaps/via

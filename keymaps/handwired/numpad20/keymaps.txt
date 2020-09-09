@@ -1,1 +1,0 @@
-default:keyboards/handwired/numpad20/keymaps/default

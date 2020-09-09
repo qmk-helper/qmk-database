@@ -1,1 +1,0 @@
-default:keyboards/aplx6/keymaps/default

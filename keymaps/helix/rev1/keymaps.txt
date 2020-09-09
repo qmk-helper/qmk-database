@@ -1,1 +1,0 @@
-OLED_sample:keyboards/helix/rev1/keymaps/OLED_sample default:keyboards/helix/rev1/keymaps/default

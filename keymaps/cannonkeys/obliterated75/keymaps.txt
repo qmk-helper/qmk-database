@@ -1,1 +1,0 @@
-default:keyboards/cannonkeys/obliterated75/keymaps/default via:keyboards/cannonkeys/obliterated75/keymaps/via

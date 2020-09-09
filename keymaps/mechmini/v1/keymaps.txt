@@ -1,1 +1,0 @@
-default:keyboards/mechmini/v1/keymaps/default pitty:keyboards/mechmini/v1/keymaps/pitty

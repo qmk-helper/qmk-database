@@ -1,1 +1,0 @@
-default:keyboards/nightly_boards/n87/keymaps/default symmetric_standard:keyboards/nightly_boards/n87/keymaps/symmetric_standard tsangan:keyboards/nightly_boards/n87/keymaps/tsangan via:keyboards/nightly_boards/n87/keymaps/via

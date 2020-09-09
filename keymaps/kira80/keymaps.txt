@@ -1,1 +1,0 @@
-ansi:keyboards/kira80/keymaps/ansi ansi_wkl:keyboards/kira80/keymaps/ansi_wkl default:keyboards/kira80/keymaps/default iso:keyboards/kira80/keymaps/iso via:keyboards/kira80/keymaps/via

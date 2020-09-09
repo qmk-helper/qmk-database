@@ -1,1 +1,0 @@
-default:keyboards/boston_meetup/2019/keymaps/default

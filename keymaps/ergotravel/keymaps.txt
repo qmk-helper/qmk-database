@@ -1,1 +1,0 @@
-ckofy:keyboards/ergotravel/keymaps/ckofy default:keyboards/ergotravel/keymaps/default ian:keyboards/ergotravel/keymaps/ian jarred:keyboards/ergotravel/keymaps/jarred jpconstantineau:keyboards/ergotravel/keymaps/jpconstantineau rs:keyboards/ergotravel/keymaps/rs viet:keyboards/ergotravel/keymaps/viet yanfali:keyboards/ergotravel/keymaps/yanfali

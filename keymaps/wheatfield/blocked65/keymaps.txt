@@ -1,1 +1,0 @@
-default:keyboards/wheatfield/blocked65/keymaps/default mechmerlin:layouts/community/65_ansi_blocker/mechmerlin via:keyboards/wheatfield/blocked65/keymaps/via

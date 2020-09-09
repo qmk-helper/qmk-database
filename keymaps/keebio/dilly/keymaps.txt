@@ -1,1 +1,0 @@
-bakingpy:keyboards/keebio/dilly/keymaps/bakingpy default:keyboards/keebio/dilly/keymaps/default delmo:keyboards/keebio/dilly/keymaps/delmo pletcher:keyboards/keebio/dilly/keymaps/pletcher wanleg:layouts/community/ortho_3x10/wanleg

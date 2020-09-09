@@ -1,1 +1,0 @@
-default:keyboards/exclusive/e7v1se/keymaps/default mac:keyboards/exclusive/e7v1se/keymaps/mac

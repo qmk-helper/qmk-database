@@ -1,1 +1,0 @@
-default:keyboards/nek_type_a/keymaps/default

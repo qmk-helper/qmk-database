@@ -1,1 +1,0 @@
-arrowpad:keyboards/4by3/keymaps/arrowpad default:keyboards/4by3/keymaps/default funcpad_horizontal:keyboards/4by3/keymaps/funcpad_horizontal funcpad_vertical:keyboards/4by3/keymaps/funcpad_vertical numpad_horizontal:keyboards/4by3/keymaps/numpad_horizontal numpad_vertical:keyboards/4by3/keymaps/numpad_vertical

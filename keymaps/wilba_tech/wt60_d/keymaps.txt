@@ -1,1 +1,0 @@
-default:keyboards/wilba_tech/wt60_d/keymaps/default madhatter:keyboards/wilba_tech/wt60_d/keymaps/madhatter via:keyboards/wilba_tech/wt60_d/keymaps/via

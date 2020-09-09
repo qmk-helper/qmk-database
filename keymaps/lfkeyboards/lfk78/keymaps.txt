@@ -1,1 +1,0 @@
-ca178858:keyboards/lfkeyboards/lfk78/keymaps/ca178858 default:keyboards/lfkeyboards/lfk78/keymaps/default iso:keyboards/lfkeyboards/lfk78/keymaps/iso split_bs_osx:keyboards/lfkeyboards/lfk78/keymaps/split_bs_osx

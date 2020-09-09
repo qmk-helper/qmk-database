@@ -1,1 +1,0 @@
-default:keyboards/pabile/p18/keymaps/default

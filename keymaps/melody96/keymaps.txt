@@ -1,1 +1,0 @@
-crilith:keyboards/melody96/keymaps/crilith default:keyboards/melody96/keymaps/default default_std60_split_num0:keyboards/melody96/keymaps/default_std60_split_num0 konstantin:keyboards/melody96/keymaps/konstantin via:keyboards/melody96/keymaps/via zunger:keyboards/melody96/keymaps/zunger

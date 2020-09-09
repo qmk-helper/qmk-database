@@ -1,1 +1,0 @@
-default:keyboards/handwired/hnah108/keymaps/default

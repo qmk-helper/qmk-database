@@ -1,1 +1,0 @@
-default:keyboards/allison_numpad/keymaps/default via:keyboards/allison_numpad/keymaps/via

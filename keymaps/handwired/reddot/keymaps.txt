@@ -1,1 +1,0 @@
-default:keyboards/handwired/reddot/keymaps/default

@@ -1,1 +1,0 @@
-default:keyboards/40percentclub/25/keymaps/default macro:keyboards/40percentclub/25/keymaps/macro

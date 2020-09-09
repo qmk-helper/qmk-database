@@ -1,1 +1,0 @@
-default:keyboards/bigseries/4key/keymaps/default tester:keyboards/bigseries/4key/keymaps/tester

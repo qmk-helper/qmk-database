@@ -1,1 +1,0 @@
-default:keyboards/mechlovin/pisces/keymaps/default via:keyboards/mechlovin/pisces/keymaps/via

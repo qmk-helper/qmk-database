@@ -1,1 +1,0 @@
-default:keyboards/sentraq/s65_x/keymaps/default iso:keyboards/sentraq/s65_x/keymaps/iso kelorean:keyboards/sentraq/s65_x/keymaps/kelorean mechmerlin:layouts/community/65_ansi/mechmerlin nall:keyboards/sentraq/s65_x/keymaps/nall smt:keyboards/sentraq/s65_x/keymaps/smt yanfali:layouts/community/65_ansi/yanfali

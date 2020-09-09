@@ -1,1 +1,0 @@
-default:keyboards/tmo50/keymaps/default olivia:keyboards/tmo50/keymaps/olivia ottodokto:keyboards/tmo50/keymaps/ottodokto pyrol:keyboards/tmo50/keymaps/pyrol via:keyboards/tmo50/keymaps/via xerpocalypse:keyboards/tmo50/keymaps/xerpocalypse

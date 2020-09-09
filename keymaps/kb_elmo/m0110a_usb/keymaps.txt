@@ -1,1 +1,0 @@
-default:keyboards/kb_elmo/m0110a_usb/keymaps/default

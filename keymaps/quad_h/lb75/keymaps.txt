@@ -1,1 +1,0 @@
-continuous_fnrow:keyboards/quad_h/lb75/keymaps/continuous_fnrow default:keyboards/quad_h/lb75/keymaps/default divided_fnrow:keyboards/quad_h/lb75/keymaps/divided_fnrow via:keyboards/quad_h/lb75/keymaps/via

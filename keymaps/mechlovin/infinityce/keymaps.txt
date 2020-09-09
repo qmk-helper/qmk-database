@@ -1,1 +1,0 @@
-default:keyboards/mechlovin/infinityce/keymaps/default via:keyboards/mechlovin/infinityce/keymaps/via

@@ -1,1 +1,0 @@
-default:keyboards/handwired/hexon38/keymaps/default

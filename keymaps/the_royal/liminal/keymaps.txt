@@ -1,1 +1,0 @@
-default:keyboards/the_royal/liminal/keymaps/default default_iso:keyboards/the_royal/liminal/keymaps/default_iso via:keyboards/the_royal/liminal/keymaps/via

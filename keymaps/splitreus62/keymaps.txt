@@ -1,1 +1,0 @@
-default:keyboards/splitreus62/keymaps/default

@@ -1,1 +1,0 @@
-default:keyboards/otaku_split/rev1/keymaps/default sample:keyboards/otaku_split/rev1/keymaps/sample

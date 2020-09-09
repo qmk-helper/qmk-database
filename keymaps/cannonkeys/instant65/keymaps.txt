@@ -1,1 +1,0 @@
-default:keyboards/cannonkeys/instant65/keymaps/default via:keyboards/cannonkeys/instant65/keymaps/via

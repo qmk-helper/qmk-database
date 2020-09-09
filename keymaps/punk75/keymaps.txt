@@ -1,1 +1,0 @@
-default:keyboards/punk75/keymaps/default dsanchezseco:keyboards/punk75/keymaps/dsanchezseco wanleg:layouts/community/ortho_5x15/wanleg

@@ -1,1 +1,0 @@
-LEdiodes:keyboards/maartenwut/atom47/keymaps/LEdiodes default:keyboards/maartenwut/atom47/keymaps/default junonum_a47:keyboards/maartenwut/atom47/keymaps/junonum_a47 maartenwut:keyboards/maartenwut/atom47/keymaps/maartenwut

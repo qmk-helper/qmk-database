@@ -1,1 +1,0 @@
-blockader:keyboards/matrix/noah/keymaps/blockader default:keyboards/matrix/noah/keymaps/default iso:keyboards/matrix/noah/keymaps/iso splitspace:keyboards/matrix/noah/keymaps/splitspace wkl:keyboards/matrix/noah/keymaps/wkl

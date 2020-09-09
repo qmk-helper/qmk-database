@@ -1,1 +1,0 @@
-default:keyboards/matrix/m12og/keymaps/default iso:keyboards/matrix/m12og/keymaps/iso

@@ -1,1 +1,0 @@
-ai03:keyboards/ai03/quasar/keymaps/ai03 default:keyboards/ai03/quasar/keymaps/default

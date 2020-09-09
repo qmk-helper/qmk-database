@@ -1,1 +1,0 @@
-default:keyboards/mt980/keymaps/default walker:keyboards/mt980/keymaps/walker

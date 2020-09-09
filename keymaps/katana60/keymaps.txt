@@ -1,1 +1,0 @@
-colemak:keyboards/katana60/keymaps/colemak default:keyboards/katana60/keymaps/default josefadamcik:keyboards/katana60/keymaps/josefadamcik msiu:keyboards/katana60/keymaps/msiu rominronin:keyboards/katana60/keymaps/rominronin

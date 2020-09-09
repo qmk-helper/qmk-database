@@ -1,1 +1,0 @@
-default:keyboards/flx/lodestone/keymaps/default default_ansi:keyboards/flx/lodestone/keymaps/default_ansi default_iso:keyboards/flx/lodestone/keymaps/default_iso mechmerlin:layouts/community/65_ansi_blocker/mechmerlin via:keyboards/flx/lodestone/keymaps/via

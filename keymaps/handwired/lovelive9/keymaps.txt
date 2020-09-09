@@ -1,1 +1,0 @@
-default:keyboards/handwired/lovelive9/keymaps/default

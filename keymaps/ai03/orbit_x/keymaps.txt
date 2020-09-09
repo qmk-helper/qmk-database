@@ -1,1 +1,0 @@
-default:keyboards/ai03/orbit_x/keymaps/default via:keyboards/ai03/orbit_x/keymaps/via

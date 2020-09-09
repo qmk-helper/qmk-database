@@ -1,1 +1,0 @@
-bakageta:keyboards/hid_liber/keymaps/bakageta default:keyboards/hid_liber/keymaps/default

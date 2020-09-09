@@ -1,1 +1,0 @@
-default:keyboards/40percentclub/nano/keymaps/default drashna:keyboards/40percentclub/nano/keymaps/drashna spooka:keyboards/40percentclub/nano/keymaps/spooka

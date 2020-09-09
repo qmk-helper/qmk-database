@@ -1,1 +1,0 @@
-default:keyboards/maartenwut/gh80_1800/keymaps/default via:keyboards/maartenwut/gh80_1800/keymaps/via

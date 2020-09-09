@@ -1,1 +1,0 @@
-default:keyboards/ash_xiix/keymaps/default

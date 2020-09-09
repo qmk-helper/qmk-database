@@ -1,1 +1,0 @@
-default:keyboards/tkc/tkc1800/keymaps/default smt:keyboards/tkc/tkc1800/keymaps/smt via:keyboards/tkc/tkc1800/keymaps/via wkl:keyboards/tkc/tkc1800/keymaps/wkl yanfali:keyboards/tkc/tkc1800/keymaps/yanfali

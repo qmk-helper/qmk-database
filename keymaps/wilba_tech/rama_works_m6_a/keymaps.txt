@@ -1,1 +1,0 @@
-default:keyboards/wilba_tech/rama_works_m6_a/keymaps/default knops:keyboards/wilba_tech/rama_works_m6_a/keymaps/knops krusli:keyboards/wilba_tech/rama_works_m6_a/keymaps/krusli naut:keyboards/wilba_tech/rama_works_m6_a/keymaps/naut rys:keyboards/wilba_tech/rama_works_m6_a/keymaps/rys via:keyboards/wilba_tech/rama_works_m6_a/keymaps/via

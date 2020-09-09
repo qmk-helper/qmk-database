@@ -1,1 +1,0 @@
-default:keyboards/bigseries/2key/keymaps/default lock:keyboards/bigseries/2key/keymaps/lock tester:keyboards/bigseries/2key/keymaps/tester

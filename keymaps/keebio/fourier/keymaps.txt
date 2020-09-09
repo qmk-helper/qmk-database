@@ -1,1 +1,0 @@
-default:keyboards/keebio/fourier/keymaps/default jennetters:keyboards/keebio/fourier/keymaps/jennetters maxim:keyboards/keebio/fourier/keymaps/maxim valgrahf:keyboards/keebio/fourier/keymaps/valgrahf

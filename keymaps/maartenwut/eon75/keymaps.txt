@@ -1,1 +1,0 @@
-default:keyboards/maartenwut/eon75/keymaps/default via:keyboards/maartenwut/eon75/keymaps/via

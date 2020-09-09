@@ -1,1 +1,0 @@
-default:keyboards/ckeys/thedora/keymaps/default

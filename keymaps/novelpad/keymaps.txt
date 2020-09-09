@@ -1,1 +1,0 @@
-0xdec:keyboards/novelpad/keymaps/0xdec default:keyboards/novelpad/keymaps/default

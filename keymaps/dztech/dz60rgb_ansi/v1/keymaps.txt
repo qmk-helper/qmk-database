@@ -1,1 +1,0 @@
-default:keyboards/dztech/dz60rgb_ansi/keymaps/default via:keyboards/dztech/dz60rgb_ansi/keymaps/via

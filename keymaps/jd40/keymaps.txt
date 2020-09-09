@@ -1,1 +1,0 @@
-default:keyboards/jd40/keymaps/default myoung34:keyboards/jd40/keymaps/myoung34 vanagon:keyboards/jd40/keymaps/vanagon

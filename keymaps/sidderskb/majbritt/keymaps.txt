@@ -1,1 +1,0 @@
-default:keyboards/sidderskb/majbritt/keymaps/default via:keyboards/sidderskb/majbritt/keymaps/via

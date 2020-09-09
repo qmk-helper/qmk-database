@@ -1,1 +1,0 @@
-default:keyboards/ramonimbao/herringbone/keymaps/default iso:keyboards/ramonimbao/herringbone/keymaps/iso via:keyboards/ramonimbao/herringbone/keymaps/via

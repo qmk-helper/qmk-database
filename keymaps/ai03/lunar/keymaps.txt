@@ -1,1 +1,0 @@
-default:keyboards/ai03/lunar/keymaps/default muzfuz:keyboards/ai03/lunar/keymaps/muzfuz via:keyboards/ai03/lunar/keymaps/via

@@ -1,1 +1,0 @@
-default:keyboards/kabedon/kabedon78s/keymaps/default via:keyboards/kabedon/kabedon78s/keymaps/via

@@ -1,1 +1,0 @@
-default:keyboards/squiggle/keymaps/default defaultminidox:keyboards/squiggle/keymaps/defaultminidox rick-complicated:keyboards/squiggle/keymaps/rick-complicated rick:keyboards/squiggle/keymaps/rick

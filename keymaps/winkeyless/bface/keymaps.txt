@@ -1,1 +1,0 @@
-default:keyboards/winkeyless/bface/keymaps/default kpeatt:keyboards/winkeyless/bface/keymaps/kpeatt p3lim:keyboards/winkeyless/bface/keymaps/p3lim via:keyboards/winkeyless/bface/keymaps/via

@@ -1,1 +1,0 @@
-4sstylz:keyboards/handwired/aek64/keymaps/4sstylz default:keyboards/handwired/aek64/keymaps/default

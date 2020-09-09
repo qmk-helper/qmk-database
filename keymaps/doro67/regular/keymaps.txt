@@ -1,1 +1,0 @@
-default:keyboards/doro67/regular/keymaps/default mechmerlin:layouts/community/65_ansi_blocker/mechmerlin via:keyboards/doro67/regular/keymaps/via

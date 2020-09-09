@@ -1,1 +1,0 @@
-default:keyboards/chili/keymaps/default via:keyboards/chili/keymaps/via

@@ -1,1 +1,0 @@
-brianweyer:keyboards/rgbkb/sol/keymaps/brianweyer danielhklein:keyboards/rgbkb/sol/keymaps/danielhklein default:keyboards/rgbkb/sol/keymaps/default kageurufu:keyboards/rgbkb/sol/keymaps/kageurufu xulkal:keyboards/rgbkb/sol/keymaps/xulkal xyverz:keyboards/rgbkb/sol/keymaps/xyverz

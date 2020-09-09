@@ -1,1 +1,0 @@
-default:keyboards/mc_76k/keymaps/default via:keyboards/mc_76k/keymaps/via

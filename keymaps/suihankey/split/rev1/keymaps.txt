@@ -1,1 +1,0 @@
-default:keyboards/suihankey/split/keymaps/default

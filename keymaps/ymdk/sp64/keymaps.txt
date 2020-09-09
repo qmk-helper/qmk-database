@@ -1,1 +1,0 @@
-daed:keyboards/ymdk/sp64/keymaps/daed default:keyboards/ymdk/sp64/keymaps/default walston:keyboards/ymdk/sp64/keymaps/walston

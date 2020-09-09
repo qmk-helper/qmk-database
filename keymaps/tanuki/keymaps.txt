@@ -1,1 +1,0 @@
-default:keyboards/tanuki/keymaps/default tucznak:keyboards/tanuki/keymaps/tucznak

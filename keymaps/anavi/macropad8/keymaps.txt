@@ -1,1 +1,0 @@
-default:keyboards/anavi/macropad8/keymaps/default kodi:keyboards/anavi/macropad8/keymaps/kodi

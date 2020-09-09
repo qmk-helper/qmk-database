@@ -1,1 +1,0 @@
-ble:keyboards/converter/usb_usb/keymaps/ble chriskopher:keyboards/converter/usb_usb/keymaps/chriskopher coloneljesus:keyboards/converter/usb_usb/keymaps/coloneljesus default:keyboards/converter/usb_usb/keymaps/default narze:keyboards/converter/usb_usb/keymaps/narze

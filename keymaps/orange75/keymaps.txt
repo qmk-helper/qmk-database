@@ -1,1 +1,0 @@
-default:keyboards/orange75/keymaps/default

@@ -1,1 +1,0 @@
-codecoffeecode:keyboards/gingham/keymaps/codecoffeecode default:keyboards/gingham/keymaps/default iso:keyboards/gingham/keymaps/iso via:keyboards/gingham/keymaps/via

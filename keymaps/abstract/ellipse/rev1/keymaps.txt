@@ -1,1 +1,0 @@
-abstractkb:keyboards/abstract/ellipse/keymaps/abstractkb default:keyboards/abstract/ellipse/keymaps/default

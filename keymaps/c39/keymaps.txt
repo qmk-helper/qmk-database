@@ -1,1 +1,0 @@
-default:keyboards/c39/keymaps/default drashna:keyboards/c39/keymaps/drashna kuchosauronad0:keyboards/c39/keymaps/kuchosauronad0

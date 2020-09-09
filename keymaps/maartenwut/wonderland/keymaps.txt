@@ -1,1 +1,0 @@
-default:keyboards/maartenwut/wonderland/keymaps/default keebs:keyboards/maartenwut/wonderland/keymaps/keebs rafael-azevedo:keyboards/maartenwut/wonderland/keymaps/rafael-azevedo rys:keyboards/maartenwut/wonderland/keymaps/rys via:keyboards/maartenwut/wonderland/keymaps/via

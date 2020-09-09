@@ -1,1 +1,0 @@
-default:keyboards/aves65/keymaps/default

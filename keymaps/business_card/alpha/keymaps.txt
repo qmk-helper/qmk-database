@@ -1,1 +1,0 @@
-default:keyboards/business_card/alpha/keymaps/default

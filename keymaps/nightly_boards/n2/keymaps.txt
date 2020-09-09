@@ -1,1 +1,0 @@
-default:keyboards/nightly_boards/n2/keymaps/default via:keyboards/nightly_boards/n2/keymaps/via

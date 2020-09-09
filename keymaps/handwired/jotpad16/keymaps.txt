@@ -1,1 +1,0 @@
-default:keyboards/handwired/jotpad16/keymaps/default jotix:layouts/community/ortho_4x4/jotix

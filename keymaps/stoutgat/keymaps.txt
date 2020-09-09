@@ -1,1 +1,0 @@
-default:keyboards/stoutgat/keymaps/default mechmerlin:layouts/community/65_ansi/mechmerlin yanfali:layouts/community/65_ansi/yanfali

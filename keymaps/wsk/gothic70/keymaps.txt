@@ -1,1 +1,0 @@
-default:keyboards/wsk/gothic70/keymaps/default

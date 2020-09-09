@@ -1,1 +1,0 @@
-default:keyboards/ep/comsn/hs68/keymaps/default

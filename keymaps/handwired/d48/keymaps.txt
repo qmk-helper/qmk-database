@@ -1,1 +1,0 @@
-anderson:keyboards/handwired/d48/keymaps/anderson default:keyboards/handwired/d48/keymaps/default

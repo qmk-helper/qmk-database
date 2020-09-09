@@ -1,1 +1,0 @@
-default:keyboards/aeboards/constellation/keymaps/default via:keyboards/aeboards/constellation/keymaps/via

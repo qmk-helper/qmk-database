@@ -1,1 +1,0 @@
-default:keyboards/panc40/keymaps/default default_minorca:keyboards/panc40/keymaps/default_minorca default_sebright:keyboards/panc40/keymaps/default_sebright

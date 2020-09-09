@@ -1,1 +1,0 @@
-default:keyboards/clueboard/california/keymaps/default

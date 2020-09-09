@@ -1,1 +1,0 @@
-abstractkb:keyboards/gergo/keymaps/abstractkb colemak:keyboards/gergo/keymaps/colemak default:keyboards/gergo/keymaps/default drashna:keyboards/gergo/keymaps/drashna germ:keyboards/gergo/keymaps/germ gotham:keyboards/gergo/keymaps/gotham oled:keyboards/gergo/keymaps/oled

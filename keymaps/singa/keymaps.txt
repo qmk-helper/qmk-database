@@ -1,1 +1,0 @@
-amnesia0287:keyboards/singa/keymaps/amnesia0287 default:keyboards/singa/keymaps/default test:keyboards/singa/keymaps/test via:keyboards/singa/keymaps/via

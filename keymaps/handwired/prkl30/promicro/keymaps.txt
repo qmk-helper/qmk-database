@@ -1,1 +1,0 @@
-default:keyboards/handwired/prkl30/keymaps/default erkhal:keyboards/handwired/prkl30/keymaps/erkhal

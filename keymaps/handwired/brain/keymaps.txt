@@ -1,1 +1,0 @@
-default:keyboards/handwired/brain/keymaps/default klackygears:keyboards/handwired/brain/keymaps/klackygears

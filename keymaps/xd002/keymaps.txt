@@ -1,1 +1,0 @@
-default:keyboards/xd002/keymaps/default multilayer_rgb:keyboards/xd002/keymaps/multilayer_rgb rgb:keyboards/xd002/keymaps/rgb rgb_lite:keyboards/xd002/keymaps/rgb_lite tap_dance:keyboards/xd002/keymaps/tap_dance volume:keyboards/xd002/keymaps/volume

@@ -1,1 +1,0 @@
-default:keyboards/lattice60/keymaps/default default_hhkb:keyboards/lattice60/keymaps/default_hhkb emdarcher:keyboards/lattice60/keymaps/emdarcher talljoe-hhkb:layouts/community/60_hhkb/talljoe-hhkb yanfali:layouts/community/60_hhkb/yanfali

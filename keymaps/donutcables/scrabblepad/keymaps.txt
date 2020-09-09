@@ -1,1 +1,0 @@
-default:keyboards/donutcables/scrabblepad/keymaps/default random:keyboards/donutcables/scrabblepad/keymaps/random

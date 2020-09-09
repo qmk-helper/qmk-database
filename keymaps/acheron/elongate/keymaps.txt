@@ -1,1 +1,0 @@
-default:keyboards/acheron/elongate/keymaps/default via:keyboards/acheron/elongate/keymaps/via
