@@ -1,1 +1,1 @@
-[{"name": "default", "path": "keyboards/sixkeyboard/keymaps/default", "no-cpp": true}]
+[{"name": "default", "path": "keyboards/sixkeyboard/keymaps/default", "no-cpp": true}, {"name": "via", "path": "keyboards/sixkeyboard/keymaps/via"}]
