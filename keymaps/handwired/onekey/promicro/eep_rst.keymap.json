@@ -1,1 +1,1 @@
-{"keyboard": "handwired/onekey/promicro", "layout": "LAYOUT_ortho_1x1", "layers": [["EEP_RST"]], "keymap": "eep_rst"}
+{"keyboard": "handwired/onekey/promicro", "keymap": "eep_rst", "layout": "LAYOUT_ortho_1x1", "layers": [["EEP_RST"]]}

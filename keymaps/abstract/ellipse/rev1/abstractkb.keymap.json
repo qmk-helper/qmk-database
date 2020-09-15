@@ -1,1 +1,1 @@
-{"keyboard": "abstract/ellipse/rev1", "layout": "LAYOUT", "layers": [["KC_MUTE", "RGB_TOG", "BL_TOGG", "RGB_M_SW", "RGB_M_P", "BL_BRTG"]], "keymap": "abstractkb"}
+{"keyboard": "abstract/ellipse/rev1", "keymap": "abstractkb", "layout": "LAYOUT", "layers": [["KC_MUTE", "RGB_TOG", "BL_TOGG", "RGB_M_SW", "RGB_M_P", "BL_BRTG"]]}

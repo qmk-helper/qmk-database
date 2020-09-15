@@ -1,1 +1,1 @@
-{"keyboard": "handwired/onekey/blackpill_f411", "layout": "LAYOUT_ortho_1x1", "layers": [["KC_A"]], "keymap": "default"}
+{"keyboard": "handwired/onekey/blackpill_f411", "keymap": "default", "layout": "LAYOUT_ortho_1x1", "layers": [["KC_A"]]}

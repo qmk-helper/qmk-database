@@ -1,1 +1,1 @@
-{"keyboard": "handwired/onekey/teensy_32", "layout": "LAYOUT_ortho_1x1", "layers": [["ADC_SAMPLE"]], "keymap": "adc"}
+{"keyboard": "handwired/onekey/teensy_32", "keymap": "adc", "layout": "LAYOUT_ortho_1x1", "layers": [["ADC_SAMPLE"]]}

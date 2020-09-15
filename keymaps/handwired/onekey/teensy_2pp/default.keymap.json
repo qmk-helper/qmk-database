@@ -1,1 +1,1 @@
-{"keyboard": "handwired/onekey/teensy_2pp", "layout": "LAYOUT_ortho_1x1", "layers": [["KC_A"]], "keymap": "default"}
+{"keyboard": "handwired/onekey/teensy_2pp", "keymap": "default", "layout": "LAYOUT_ortho_1x1", "layers": [["KC_A"]]}

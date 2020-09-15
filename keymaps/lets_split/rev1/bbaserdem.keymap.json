@@ -1,1 +1,1 @@
-{"keyboard": "lets_split/rev1", "layout": "LAYOUT_letssplit_wrapper", "layers": [["DVORAK"], ["ALTCHAR"], ["GAME"], ["NUMBERS"], ["SETTINGS"], ["MOUSE"], ["MUSIC"]], "keymap": "bbaserdem"}
+{"keyboard": "lets_split/rev1", "keymap": "bbaserdem", "layout": "LAYOUT_letssplit_wrapper", "layers": [["DVORAK"], ["ALTCHAR"], ["GAME"], ["NUMBERS"], ["SETTINGS"], ["MOUSE"], ["MUSIC"]]}

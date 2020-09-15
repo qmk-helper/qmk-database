@@ -1,1 +1,1 @@
-{"keyboard": "handwired/onekey/teensy_2pp", "layout": "LAYOUT", "layers": [["KC_ENTER"]], "keymap": "pytest_nocpp"}
+{"keyboard": "handwired/onekey/teensy_2pp", "keymap": "pytest_nocpp", "layout": "LAYOUT", "layers": [["KC_ENTER"]]}

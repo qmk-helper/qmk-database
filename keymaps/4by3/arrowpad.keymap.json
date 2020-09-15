@@ -1,1 +1,1 @@
-{"keyboard": "4by3", "layout": "LAYOUT_vertical_right", "layers": [["KC_INS", "KC_HOME", "KC_PGUP", "KC_DEL", "KC_END", "KC_PGDN", "KC_PSCR", "KC_UP", "KC_PAUS", "KC_LEFT", "KC_DOWN", "KC_RGHT"]], "keymap": "arrowpad"}
+{"keyboard": "4by3", "keymap": "arrowpad", "layout": "LAYOUT_vertical_right", "layers": [["KC_INS", "KC_HOME", "KC_PGUP", "KC_DEL", "KC_END", "KC_PGDN", "KC_PSCR", "KC_UP", "KC_PAUS", "KC_LEFT", "KC_DOWN", "KC_RGHT"]]}

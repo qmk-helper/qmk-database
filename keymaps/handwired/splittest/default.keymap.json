@@ -1,1 +1,1 @@
-{"keyboard": "handwired/splittest", "layout": "LAYOUT", "layers": [["RGB_MOD", "RESET"]], "keymap": "default"}
+{"keyboard": "handwired/splittest", "keymap": "default", "layout": "LAYOUT", "layers": [["RGB_MOD", "RESET"]]}

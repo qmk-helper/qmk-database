@@ -1,1 +1,1 @@
-{"keyboard": "handwired/onekey/bluepill", "layout": "LAYOUT", "layers": [["KC_ENTER"]], "keymap": "pytest_nocpp"}
+{"keyboard": "handwired/onekey/bluepill", "keymap": "pytest_nocpp", "layout": "LAYOUT", "layers": [["KC_ENTER"]]}

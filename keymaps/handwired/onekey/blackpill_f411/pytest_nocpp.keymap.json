@@ -1,1 +1,1 @@
-{"keyboard": "handwired/onekey/blackpill_f411", "layout": "LAYOUT", "layers": [["KC_ENTER"]], "keymap": "pytest_nocpp"}
+{"keyboard": "handwired/onekey/blackpill_f411", "keymap": "pytest_nocpp", "layout": "LAYOUT", "layers": [["KC_ENTER"]]}

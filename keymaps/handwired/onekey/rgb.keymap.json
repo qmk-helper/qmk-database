@@ -1,1 +1,1 @@
-{"keyboard": "handwired/onekey", "layout": "LAYOUT_ortho_1x1", "layers": [["RGB_MOD"]], "keymap": "rgb"}
+{"keyboard": "handwired/onekey", "keymap": "rgb", "layout": "LAYOUT_ortho_1x1", "layers": [["RGB_MOD"]]}

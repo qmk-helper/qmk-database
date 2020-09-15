@@ -1,1 +1,1 @@
-{"keyboard": "handwired/onekey/stm32f0_disco", "layout": "LAYOUT_ortho_1x1", "layers": [["RESET"]], "keymap": "reset"}
+{"keyboard": "handwired/onekey/stm32f0_disco", "keymap": "reset", "layout": "LAYOUT_ortho_1x1", "layers": [["RESET"]]}

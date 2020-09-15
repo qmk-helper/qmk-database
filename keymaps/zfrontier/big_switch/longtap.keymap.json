@@ -1,1 +1,1 @@
-{"keyboard": "zfrontier/big_switch", "layout": "LAYOUT", "layers": [["TD(TD_ENTER)"]], "keymap": "longtap"}
+{"keyboard": "zfrontier/big_switch", "keymap": "longtap", "layout": "LAYOUT", "layers": [["TD(TD_ENTER)"]]}

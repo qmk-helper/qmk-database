@@ -1,1 +1,1 @@
-{"keyboard": "keebio/tukey", "layout": "LAYOUT", "layers": [["RGB_MOD", "KC_ENTER"]], "keymap": "default"}
+{"keyboard": "keebio/tukey", "keymap": "default", "layout": "LAYOUT", "layers": [["RGB_MOD", "KC_ENTER"]]}

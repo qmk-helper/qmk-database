@@ -1,1 +1,1 @@
-{"keyboard": "handwired/mechboards_micropad", "layout": "LAYOUT", "layers": [["MECHBOARDURL", "QMKURL", "MKUK", "LEDCHANGE"]], "keymap": "default"}
+{"keyboard": "handwired/mechboards_micropad", "keymap": "default", "layout": "LAYOUT", "layers": [["MECHBOARDURL", "QMKURL", "MKUK", "LEDCHANGE"]]}

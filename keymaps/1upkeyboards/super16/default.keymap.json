@@ -1,1 +1,1 @@
-{"keyboard": "1upkeyboards/super16", "layout": "LAYOUT_ortho_4x4", "layers": [["RGB_TOG", "KC_1", "KC_U", "KC_P", "RGB_MOD", "KC_1", "KC_U", "KC_P", "RGB_TOG", "KC_1", "KC_U", "KC_P", "RGB_MOD", "KC_1", "KC_U", "KC_P"]], "keymap": "default"}
+{"keyboard": "1upkeyboards/super16", "keymap": "default", "layout": "LAYOUT_ortho_4x4", "layers": [["RGB_TOG", "KC_1", "KC_U", "KC_P", "RGB_MOD", "KC_1", "KC_U", "KC_P", "RGB_TOG", "KC_1", "KC_U", "KC_P", "RGB_MOD", "KC_1", "KC_U", "KC_P"]]}

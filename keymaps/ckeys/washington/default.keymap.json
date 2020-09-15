@@ -1,1 +1,1 @@
-{"keyboard": "ckeys/washington", "layout": "LAYOUT", "layers": [["KC_PGUP", "KC_UP", "KC_PGDN", "KC_LEFT", "KC_DOWN", "KC_RIGHT", "MO(_FN)", "KC_MUTE", "BL_TOGG"], ["KC_HOME", "KC_CALC", "KC_END", "BL_STEP", "KC_ESC", "KC_SLEP", "KC_TRNS", "KC_MPLY", "RESET"]], "keymap": "default"}
+{"keyboard": "ckeys/washington", "keymap": "default", "layout": "LAYOUT", "layers": [["KC_PGUP", "KC_UP", "KC_PGDN", "KC_LEFT", "KC_DOWN", "KC_RIGHT", "MO(_FN)", "KC_MUTE", "BL_TOGG"], ["KC_HOME", "KC_CALC", "KC_END", "BL_STEP", "KC_ESC", "KC_SLEP", "KC_TRNS", "KC_MPLY", "RESET"]]}

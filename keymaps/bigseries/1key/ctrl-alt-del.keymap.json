@@ -1,1 +1,1 @@
-{"keyboard": "bigseries/1key", "layout": "LAYOUT", "layers": [["LCTL(LALT(KC_DEL))"]], "keymap": "ctrl-alt-del"}
+{"keyboard": "bigseries/1key", "keymap": "ctrl-alt-del", "layout": "LAYOUT", "layers": [["LCTL(LALT(KC_DEL))"]]}

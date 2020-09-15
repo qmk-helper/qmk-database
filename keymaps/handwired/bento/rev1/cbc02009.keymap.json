@@ -1,1 +1,1 @@
-{"keyboard": "handwired/bento/rev1", "layout": "LAYOUT", "layers": [["KC_MPRV", "KC_MNXT", "KC_MUTE", "KC_MPLY", "KC_MSTP", "KC_MUTE"]], "keymap": "cbc02009"}
+{"keyboard": "handwired/bento/rev1", "keymap": "cbc02009", "layout": "LAYOUT", "layers": [["KC_MPRV", "KC_MNXT", "KC_MUTE", "KC_MPLY", "KC_MSTP", "KC_MUTE"]]}

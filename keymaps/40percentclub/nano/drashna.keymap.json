@@ -1,1 +1,1 @@
-{"keyboard": "40percentclub/nano", "layout": "LAYOUT", "layers": [["KC_VOLU", "KC_MPLY", "KC_MPRV", "RESET", "KC_VOLD", "KC_MUTE", "KC_MNXT", "RESET"]], "keymap": "drashna"}
+{"keyboard": "40percentclub/nano", "keymap": "drashna", "layout": "LAYOUT", "layers": [["KC_VOLU", "KC_MPLY", "KC_MPRV", "RESET", "KC_VOLD", "KC_MUTE", "KC_MNXT", "RESET"]]}

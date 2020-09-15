@@ -1,1 +1,1 @@
-{"keyboard": "xd004/v1", "layout": "LAYOUT_all", "layers": [["LT(1, KC_F5)", "C(G(KC_LEFT))", "C(G(KC_RIGHT))", "LT(2, KC_F7)"], ["KC_TRNS", "SUPER_ALT_F4", "G(KC_D)", "G(KC_L)"], ["KC_MEDIA_NEXT_TRACK", "KC_AUDIO_VOL_DOWN", "KC_AUDIO_VOL_UP", "KC_TRNS"]], "keymap": "system_and_media"}
+{"keyboard": "xd004/v1", "keymap": "system_and_media", "layout": "LAYOUT_all", "layers": [["LT(1, KC_F5)", "C(G(KC_LEFT))", "C(G(KC_RIGHT))", "LT(2, KC_F7)"], ["KC_TRNS", "SUPER_ALT_F4", "G(KC_D)", "G(KC_L)"], ["KC_MEDIA_NEXT_TRACK", "KC_AUDIO_VOL_DOWN", "KC_AUDIO_VOL_UP", "KC_TRNS"]]}

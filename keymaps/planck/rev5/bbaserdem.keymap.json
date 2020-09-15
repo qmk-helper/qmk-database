@@ -1,1 +1,1 @@
-{"keyboard": "planck/rev5", "layout": "LAYOUT_planck_wrapper", "layers": [["DVORAK"], ["ALTCHAR"], ["GAME"], ["NUMBERS"], ["SETTINGS"], ["MOUSE"], ["MUSIC"]], "keymap": "bbaserdem"}
+{"keyboard": "planck/rev5", "keymap": "bbaserdem", "layout": "LAYOUT_planck_wrapper", "layers": [["DVORAK"], ["ALTCHAR"], ["GAME"], ["NUMBERS"], ["SETTINGS"], ["MOUSE"], ["MUSIC"]]}

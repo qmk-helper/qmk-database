@@ -1,1 +1,1 @@
-{"keyboard": "handwired/nicekey", "layout": "LAYOUT", "layers": [["RANDOM_STRING_MACRO"]], "keymap": "default"}
+{"keyboard": "handwired/nicekey", "keymap": "default", "layout": "LAYOUT", "layers": [["RANDOM_STRING_MACRO"]]}

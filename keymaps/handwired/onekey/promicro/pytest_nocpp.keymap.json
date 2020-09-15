@@ -1,1 +1,1 @@
-{"keyboard": "handwired/onekey/promicro", "layout": "LAYOUT", "layers": [["KC_ENTER"]], "keymap": "pytest_nocpp"}
+{"keyboard": "handwired/onekey/promicro", "keymap": "pytest_nocpp", "layout": "LAYOUT", "layers": [["KC_ENTER"]]}

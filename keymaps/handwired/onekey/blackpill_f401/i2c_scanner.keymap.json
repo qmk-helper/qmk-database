@@ -1,1 +1,1 @@
-{"keyboard": "handwired/onekey/blackpill_f401", "layout": "LAYOUT_ortho_1x1", "layers": [["KC_A"]], "keymap": "i2c_scanner"}
+{"keyboard": "handwired/onekey/blackpill_f401", "keymap": "i2c_scanner", "layout": "LAYOUT_ortho_1x1", "layers": [["KC_A"]]}

@@ -1,1 +1,1 @@
-{"keyboard": "bigseries/1key", "layout": "LAYOUT", "layers": [["KC_A"]], "keymap": "8ball"}
+{"keyboard": "bigseries/1key", "keymap": "8ball", "layout": "LAYOUT", "layers": [["KC_A"]]}

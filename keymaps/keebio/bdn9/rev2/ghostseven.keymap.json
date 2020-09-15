@@ -1,1 +1,1 @@
-{"keyboard": "keebio/bdn9/rev2", "layout": "LAYOUT", "layers": [["KC_MUTE", "KC_HOME", "KC_MPLY", "MO(1)", "KC_UP", "KC_ENT", "KC_LEFT", "KC_DOWN", "KC_RGHT"], ["RESET", "S(G(KC_B))", "KC_STOP", "KC_TRNS", "KC_HOME", "RGB_MOD", "KC_MPRV", "KC_END", "KC_MNXT"]], "keymap": "ghostseven"}
+{"keyboard": "keebio/bdn9/rev2", "keymap": "ghostseven", "layout": "LAYOUT", "layers": [["KC_MUTE", "KC_HOME", "KC_MPLY", "MO(1)", "KC_UP", "KC_ENT", "KC_LEFT", "KC_DOWN", "KC_RGHT"], ["RESET", "S(G(KC_B))", "KC_STOP", "KC_TRNS", "KC_HOME", "RGB_MOD", "KC_MPRV", "KC_END", "KC_MNXT"]]}

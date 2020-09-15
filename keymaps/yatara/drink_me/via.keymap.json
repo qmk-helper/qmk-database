@@ -1,1 +1,1 @@
-{"keyboard": "yatara/drink_me", "layout": "LAYOUT", "layers": [["KC_0", "KC_1", "KC_2", "KC_3"], ["KC_TRNS", "KC_TRNS", "KC_TRNS", "KC_TRNS"], ["KC_TRNS", "KC_TRNS", "KC_TRNS", "KC_TRNS"], ["KC_TRNS", "KC_TRNS", "KC_TRNS", "KC_TRNS"]], "keymap": "via"}
+{"keyboard": "yatara/drink_me", "keymap": "via", "layout": "LAYOUT", "layers": [["KC_0", "KC_1", "KC_2", "KC_3"], ["KC_TRNS", "KC_TRNS", "KC_TRNS", "KC_TRNS"], ["KC_TRNS", "KC_TRNS", "KC_TRNS", "KC_TRNS"], ["KC_TRNS", "KC_TRNS", "KC_TRNS", "KC_TRNS"]]}

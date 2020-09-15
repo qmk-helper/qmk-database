@@ -1,1 +1,1 @@
-{"keyboard": "handwired/bento", "layout": "LAYOUT", "layers": [["MO(1)", "KC_UP", "KC_MUTE", "KC_LEFT", "KC_DOWN", "KC_RGHT"], ["KC_TRNS", "KC_HOME", "RESET", "KC_MPRV", "KC_END", "KC_MNXT"]], "keymap": "default"}
+{"keyboard": "handwired/bento", "keymap": "default", "layout": "LAYOUT", "layers": [["MO(1)", "KC_UP", "KC_MUTE", "KC_LEFT", "KC_DOWN", "KC_RGHT"], ["KC_TRNS", "KC_HOME", "RESET", "KC_MPRV", "KC_END", "KC_MNXT"]]}

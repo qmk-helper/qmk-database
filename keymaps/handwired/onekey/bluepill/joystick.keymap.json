@@ -1,1 +1,1 @@
-{"keyboard": "handwired/onekey/bluepill", "layout": "LAYOUT_ortho_1x1", "layers": [["JS_BUTTON0"]], "keymap": "joystick"}
+{"keyboard": "handwired/onekey/bluepill", "keymap": "joystick", "layout": "LAYOUT_ortho_1x1", "layers": [["JS_BUTTON0"]]}

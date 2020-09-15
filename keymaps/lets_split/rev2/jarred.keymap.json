@@ -1,1 +1,1 @@
-{"keyboard": "lets_split/rev2", "layout": "LAYOUT_ortho_4x12_wrapper", "layers": [["QWERTY_4x12"], ["GAME_4x12"], ["LOWER_4x12"], ["NAV_4x12"], ["NUMPAD_4x12"], ["MOUSE_4x12"]], "keymap": "jarred"}
+{"keyboard": "lets_split/rev2", "keymap": "jarred", "layout": "LAYOUT_ortho_4x12_wrapper", "layers": [["QWERTY_4x12"], ["GAME_4x12"], ["LOWER_4x12"], ["NAV_4x12"], ["NUMPAD_4x12"], ["MOUSE_4x12"]]}

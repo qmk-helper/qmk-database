@@ -1,1 +1,1 @@
-{"keyboard": "bigseries/1key", "layout": "LAYOUT", "layers": [["LGUI(KC_L)"]], "keymap": "lock"}
+{"keyboard": "bigseries/1key", "keymap": "lock", "layout": "LAYOUT", "layers": [["LGUI(KC_L)"]]}

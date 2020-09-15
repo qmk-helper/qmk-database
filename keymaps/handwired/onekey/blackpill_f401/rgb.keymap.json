@@ -1,1 +1,1 @@
-{"keyboard": "handwired/onekey/blackpill_f401", "layout": "LAYOUT_ortho_1x1", "layers": [["RGB_MOD"]], "keymap": "rgb"}
+{"keyboard": "handwired/onekey/blackpill_f401", "keymap": "rgb", "layout": "LAYOUT_ortho_1x1", "layers": [["RGB_MOD"]]}

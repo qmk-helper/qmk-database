@@ -1,1 +1,1 @@
-{"keyboard": "handwired/onekey", "layout": "LAYOUT_ortho_1x1", "layers": [["KC_B"]], "keymap": "test"}
+{"keyboard": "handwired/onekey", "keymap": "test", "layout": "LAYOUT_ortho_1x1", "layers": [["KC_B"]]}

@@ -1,1 +1,1 @@
-{"keyboard": "handwired/onekey/pytest", "documentation": "This file is a keymap.json file for handwired/onekey/pytest", "layout": "LAYOUT_ortho_1x1", "layers": [["KC_A"]], "keymap": "i2c_scanner"}
+{"keyboard": "handwired/onekey/pytest", "documentation": "This file is a keymap.json file for handwired/onekey/pytest", "keymap": "i2c_scanner", "layout": "LAYOUT_ortho_1x1", "layers": [["KC_A"]]}

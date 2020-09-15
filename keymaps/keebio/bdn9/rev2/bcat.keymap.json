@@ -1,1 +1,1 @@
-{"keyboard": "keebio/bdn9/rev2", "layout": "LAYOUT", "layers": [["KC_MUTE", "MO(LAYER_SECOND)", "BL_BRTG", "KC_F4", "KC_F5", "KC_F6", "KC_F1", "KC_F2", "KC_F3"], ["EEP_RST", "KC_TRNS", "RESET", "KC_F10", "KC_F11", "KC_F12", "KC_F7", "KC_F8", "KC_F9"]], "keymap": "bcat"}
+{"keyboard": "keebio/bdn9/rev2", "keymap": "bcat", "layout": "LAYOUT", "layers": [["KC_MUTE", "MO(LAYER_SECOND)", "BL_BRTG", "KC_F4", "KC_F5", "KC_F6", "KC_F1", "KC_F2", "KC_F3"], ["EEP_RST", "KC_TRNS", "RESET", "KC_F10", "KC_F11", "KC_F12", "KC_F7", "KC_F8", "KC_F9"]]}

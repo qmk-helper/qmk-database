@@ -1,1 +1,1 @@
-{"keyboard": "kiwikeebs/macro", "layout": "LAYOUT", "layers": [["KC_DEL", "KC_HOME", "LT(_FN,KC_END)", "KC_MPRV", "KC_MPLY", "KC_MNXT", "KC_MUTE"], ["KC_1", "KC_UP", "KC_TRNS", "KC_LEFT", "KC_DOWN", "KC_RGHT", "KC_TRNS"]], "keymap": "default"}
+{"keyboard": "kiwikeebs/macro", "keymap": "default", "layout": "LAYOUT", "layers": [["KC_DEL", "KC_HOME", "LT(_FN,KC_END)", "KC_MPRV", "KC_MPLY", "KC_MNXT", "KC_MUTE"], ["KC_1", "KC_UP", "KC_TRNS", "KC_LEFT", "KC_DOWN", "KC_RGHT", "KC_TRNS"]]}
