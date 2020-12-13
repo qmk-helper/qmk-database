@@ -1,1 +1,1 @@
-[{"name": "default", "path": "keyboards/maartenwut/eon95/keymaps/default"}, {"name": "via", "path": "keyboards/maartenwut/eon95/keymaps/via"}]
+[{"name": "default", "path": "keyboards/maartenwut/eon95/keymaps/default", "error": "No C file"}, {"name": "via", "path": "keyboards/maartenwut/eon95/keymaps/via", "error": "No C file"}]
