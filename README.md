@@ -1,4 +1,8 @@
-# qmk-database
+# QMK Database
+
+This repository acts as a storage for all qmk keymaps. It uses a modified version of the firmware to parse the original qmk firmware.
+
+[Current Stats](stats/readme.md)
 
 ## Scraping
 
@@ -37,10 +41,12 @@ python3 ../../qmk_firmware/bin/qmk list-keyboards > ../keyboards.json
 ```bash
 python3 ../../qmk_firmware/bin/qmk create-all-keymaps
 mv keymaps/ ..
+
 ```
 
 6. Generate Stats
 
 ```bash
-python3 stats.py > stats.md
+cd ../stats
+python3 stats.py > readme.md
 ```
