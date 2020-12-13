@@ -1,4 +1,5 @@
 import csv
+import datetime
 import json
 from pathlib import Path
 
@@ -52,6 +53,10 @@ with open('stats.csv', 'w', newline='') as csvfile:
     for keyboard in keyboards:
         row = toRow(keyboard)
         spamwriter.writerow(row)
+print("# Statistics of last Build")
+print()
+print("Data: "+str(datetime.datetime.now()))
+print()
 print("total_keymaps: "+str(total_keymaps))
 print("total_keyboards_without_info_json: " +
       str(total_keyboards_without_info_json))
