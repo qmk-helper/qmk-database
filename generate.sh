@@ -13,3 +13,6 @@ mv ../keyboards.formated.json ../keyboards.json
 # Generate & Copy keymaps
 python3 ../../qmk_firmware/bin/qmk create-all-keymaps
 mv keymaps/ ..
+
+cd ../stats
+python3 stats.py > readme.md
