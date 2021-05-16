@@ -1,1 +1,1 @@
-[{"name": "default", "path": "keyboards/tkw/stoutgat/v1/keymaps/default"}, {"name": "mechmerlin", "path": "layouts/community/65_ansi/mechmerlin", "no-cpp": true}, {"name": "yanfali", "path": "layouts/community/65_ansi/yanfali"}]
+[{"name": "default", "path": "keyboards/tkw/stoutgat/v1/keymaps/default"}, {"name": "yanfali", "path": "layouts/community/65_ansi/yanfali"}, {"name": "mechmerlin", "path": "layouts/community/65_ansi/mechmerlin", "no-cpp": true}]

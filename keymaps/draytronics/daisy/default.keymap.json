@@ -1,0 +1,1 @@
+{"keyboard": "draytronics/daisy", "keymap": "default", "layout": "LAYOUT_daisy", "layers": [["KC_MUTE", "KC_HOME", "MO(1)", "KC_MPRV", "KC_MNXT", "KC_MPLY", "C(KC_LEFT)", "C(KC_UP)", "C(KC_DOWN)", "C(KC_RIGHT)"], ["KC_MUTE", "KC_END", "KC_TRNS", "RGB_MOD", "RGB_VAI", "RGB_TOG", "G(S(KC_5))", "G(A(KC_ESC))", "G(KC_F)", "RESET"]]}

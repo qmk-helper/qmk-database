@@ -1,1 +1,1 @@
-[{"name": "default", "path": "keyboards/primekb/prime_o/keymaps/default"}, {"name": "reasonsandreasons", "path": "keyboards/primekb/prime_o/keymaps/reasonsandreasons"}, {"name": "spacebarracecar", "path": "keyboards/primekb/prime_o/keymaps/spacebarracecar", "no-cpp": true}]
+[{"name": "reasonsandreasons", "path": "keyboards/primekb/prime_o/keymaps/reasonsandreasons"}, {"name": "spacebarracecar", "path": "keyboards/primekb/prime_o/keymaps/spacebarracecar", "no-cpp": true}, {"name": "default", "path": "keyboards/primekb/prime_o/keymaps/default"}]

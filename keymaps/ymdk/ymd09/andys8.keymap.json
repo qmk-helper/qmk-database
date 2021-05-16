@@ -1,0 +1,1 @@
+{"keyboard": "ymdk/ymd09", "keymap": "andys8", "layout": "LAYOUT", "layers": [["GIT_STASH", "GIT_STASH_POP", "GIT_COMMIT", "LCTL(KC_F4)", "LT(1, KC_SPACE)", "LCTL(KC_F6)", "COPY_PASTE", "LCTL(KC_F2)", "LCTL(KC_F3)"], ["RGB_RMOD", "RGB_TOG", "RGB_MOD", "RGB_HUI", "KC_TRNS", "RGB_SAI", "RGB_HUD", "RGB_M_P", "RGB_SAD"]]}

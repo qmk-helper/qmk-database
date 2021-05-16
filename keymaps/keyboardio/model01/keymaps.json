@@ -1,1 +1,1 @@
-[{"name": "default", "path": "keyboards/keyboardio/model01/keymaps/default"}, {"name": "dshields", "path": "keyboards/keyboardio/model01/keymaps/dshields", "no-cpp": true}, {"name": "tw1t611", "path": "keyboards/keyboardio/model01/keymaps/tw1t611", "no-cpp": true}]
+[{"name": "tw1t611", "path": "keyboards/keyboardio/model01/keymaps/tw1t611", "no-cpp": true}, {"name": "default", "path": "keyboards/keyboardio/model01/keymaps/default"}, {"name": "dshields", "path": "keyboards/keyboardio/model01/keymaps/dshields", "no-cpp": true}]

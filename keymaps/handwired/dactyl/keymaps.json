@@ -1,1 +1,1 @@
-[{"name": "default", "path": "keyboards/handwired/dactyl/keymaps/default", "no-cpp": true}, {"name": "dvorak", "path": "keyboards/handwired/dactyl/keymaps/dvorak", "no-cpp": true}, {"name": "erincalling", "path": "keyboards/handwired/dactyl/keymaps/erincalling", "no-cpp": true}]
+[{"name": "erincalling", "path": "keyboards/handwired/dactyl/keymaps/erincalling", "no-cpp": true}, {"name": "default", "path": "keyboards/handwired/dactyl/keymaps/default", "no-cpp": true}, {"name": "dvorak", "path": "keyboards/handwired/dactyl/keymaps/dvorak", "no-cpp": true}]

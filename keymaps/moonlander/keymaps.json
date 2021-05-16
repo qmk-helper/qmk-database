@@ -1,1 +1,1 @@
-[{"name": "default", "path": "keyboards/moonlander/keymaps/default", "no-cpp": true}, {"name": "drashna", "path": "keyboards/moonlander/keymaps/drashna", "no-cpp": true}]
+[{"name": "drashna", "path": "keyboards/moonlander/keymaps/drashna", "no-cpp": true}, {"name": "default", "path": "keyboards/moonlander/keymaps/default", "no-cpp": true}, {"name": "shahn-neo", "path": "keyboards/moonlander/keymaps/shahn-neo", "no-cpp": true}]

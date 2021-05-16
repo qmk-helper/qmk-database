@@ -1,1 +1,1 @@
-[{"name": "default", "path": "keyboards/mechlovin/adelais/keymaps/default"}, {"name": "via", "path": "keyboards/mechlovin/adelais/keymaps/via"}]
+[{"name": "brandonschlack", "path": "keyboards/mechlovin/adelais/keymaps/brandonschlack", "no-cpp": true}, {"name": "via", "path": "keyboards/mechlovin/adelais/keymaps/via"}, {"name": "default", "path": "keyboards/mechlovin/adelais/keymaps/default"}, {"name": "stanrc85-alice", "path": "layouts/community/alice/stanrc85-alice", "no-cpp": true}]

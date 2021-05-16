@@ -1,0 +1,1 @@
+{"keyboard": "anavi/macropad8", "keymap": "kicad", "layout": "LAYOUT_ortho_2x4", "layers": [["KC_M", "KC_R", "KC_W", "KC_V", "KC_F1", "KC_F2", "KC_F4", "TO(1)"], ["KC_M", "KC_R", "KC_X", "KC_V", "KC_F1", "KC_F2", "KC_F4", "TO(2)"], ["RGB_TOG", "RGB_MOD", "RGB_M_R", "RGB_M_SN", "BL_TOGG", "BL_STEP", "BL_BRTG", "TO(0)"]]}

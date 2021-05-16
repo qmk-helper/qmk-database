@@ -1,1 +1,1 @@
-[{"name": "default", "path": "keyboards/abacus/keymaps/default"}]
+[{"name": "unicodemap", "path": "keyboards/abacus/keymaps/unicodemap"}, {"name": "default", "path": "keyboards/abacus/keymaps/default", "error": "No C file"}]

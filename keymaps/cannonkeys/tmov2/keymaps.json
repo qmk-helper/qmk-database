@@ -1,1 +1,1 @@
-[{"name": "default", "path": "keyboards/cannonkeys/tmov2/keymaps/default"}, {"name": "via", "path": "keyboards/cannonkeys/tmov2/keymaps/via"}]
+[{"name": "brandonschlack", "path": "keyboards/cannonkeys/tmov2/keymaps/brandonschlack", "no-cpp": true}, {"name": "via", "path": "keyboards/cannonkeys/tmov2/keymaps/via"}, {"name": "default", "path": "keyboards/cannonkeys/tmov2/keymaps/default"}]

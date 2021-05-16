@@ -1,0 +1,1 @@
+[{"name": "nocpp", "path": "keyboards/handwired/pytest/has_template/keymaps/nocpp", "no-cpp": true}, {"name": "default_json", "path": "keyboards/handwired/pytest/has_template/keymaps/default_json", "error": "No C file"}, {"name": "default", "path": "keyboards/handwired/pytest/has_template/keymaps/default"}]

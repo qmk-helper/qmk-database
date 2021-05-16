@@ -1,1 +1,1 @@
-[{"name": "default", "path": "keyboards/keebio/chocopad/keymaps/default"}, {"name": "khord", "path": "keyboards/keebio/chocopad/keymaps/khord", "no-cpp": true}, {"name": "jotix", "path": "layouts/community/ortho_4x4/jotix"}]
+[{"name": "khord", "path": "keyboards/keebio/chocopad/keymaps/khord", "no-cpp": true}, {"name": "default", "path": "keyboards/keebio/chocopad/keymaps/default"}, {"name": "jotix", "path": "layouts/community/ortho_4x4/jotix"}]

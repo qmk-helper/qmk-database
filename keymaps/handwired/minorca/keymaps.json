@@ -1,1 +1,1 @@
-[{"name": "default", "path": "keyboards/handwired/minorca/keymaps/default"}, {"name": "rgb", "path": "keyboards/handwired/minorca/keymaps/rgb"}, {"name": "ridingqwerty", "path": "keyboards/handwired/minorca/keymaps/ridingqwerty", "no-cpp": true, "error": "Unknown Error"}]
+[{"name": "rgb", "path": "keyboards/handwired/minorca/keymaps/rgb"}, {"name": "ridingqwerty", "path": "keyboards/handwired/minorca/keymaps/ridingqwerty", "no-cpp": true, "error": "Unknown Error"}, {"name": "default", "path": "keyboards/handwired/minorca/keymaps/default"}]

@@ -1,0 +1,1 @@
+{"keyboard": "anavi/macropad8", "keymap": "obs", "layout": "LAYOUT_ortho_2x4", "layers": [["HYPR(KC_F9)", "HYPR(KC_F10)", "HYPR(KC_F11)", "HYPR(KC_F12)", "LCTL(KC_D)", "LCTL(KC_F)", "LCTL(KC_HOME)", "MO(1)"], ["RGB_TOG", "RGB_MOD", "RGB_M_R", "RGB_M_SN", "BL_TOGG", "BL_STEP", "BL_BRTG", "KC_TRNS"]]}

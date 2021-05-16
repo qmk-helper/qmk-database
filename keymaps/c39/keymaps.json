@@ -1,1 +1,1 @@
-[{"name": "default", "path": "keyboards/c39/keymaps/default"}, {"name": "drashna", "path": "keyboards/c39/keymaps/drashna", "no-cpp": true}, {"name": "kuchosauronad0", "path": "keyboards/c39/keymaps/kuchosauronad0", "no-cpp": true}]
+[{"name": "drashna", "path": "keyboards/c39/keymaps/drashna", "no-cpp": true}, {"name": "kuchosauronad0", "path": "keyboards/c39/keymaps/kuchosauronad0", "no-cpp": true}, {"name": "default", "path": "keyboards/c39/keymaps/default"}]

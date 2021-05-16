@@ -1,1 +1,1 @@
-[{"name": "default", "path": "keyboards/claw44/keymaps/default"}, {"name": "yfuku", "path": "keyboards/claw44/keymaps/yfuku", "error": "No C file"}]
+[{"name": "oled", "path": "keyboards/claw44/keymaps/oled"}, {"name": "via", "path": "keyboards/claw44/keymaps/via"}, {"name": "default", "path": "keyboards/claw44/keymaps/default"}]

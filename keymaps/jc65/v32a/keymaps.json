@@ -1,1 +1,1 @@
-[{"name": "default", "path": "keyboards/jc65/v32a/keymaps/default"}, {"name": "naut", "path": "keyboards/jc65/v32a/keymaps/naut"}, {"name": "ptillemans", "path": "keyboards/jc65/v32a/keymaps/ptillemans"}, {"name": "rys", "path": "keyboards/jc65/v32a/keymaps/rys"}]
+[{"name": "ptillemans", "path": "keyboards/jc65/v32a/keymaps/ptillemans"}, {"name": "naut", "path": "keyboards/jc65/v32a/keymaps/naut"}, {"name": "rys", "path": "keyboards/jc65/v32a/keymaps/rys"}, {"name": "default", "path": "keyboards/jc65/v32a/keymaps/default"}]

@@ -1,1 +1,1 @@
-[{"name": "biacco", "path": "keyboards/helix/pico/keymaps/biacco", "no-cpp": true}, {"name": "default", "path": "keyboards/helix/pico/keymaps/default", "no-cpp": true}, {"name": "mtei", "path": "keyboards/helix/pico/keymaps/mtei", "no-cpp": true}]
+[{"name": "default", "path": "keyboards/helix/pico/keymaps/default", "no-cpp": true}, {"name": "biacco", "path": "keyboards/helix/pico/keymaps/biacco", "no-cpp": true}, {"name": "mtei", "path": "keyboards/helix/pico/keymaps/mtei", "no-cpp": true}]

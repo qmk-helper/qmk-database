@@ -1,1 +1,1 @@
-[{"name": "default", "path": "keyboards/atomic/keymaps/default"}, {"name": "pvc", "path": "keyboards/atomic/keymaps/pvc", "no-cpp": true}, {"name": "wanleg", "path": "layouts/community/ortho_5x15/wanleg", "no-cpp": true}]
+[{"name": "pvc", "path": "keyboards/atomic/keymaps/pvc", "no-cpp": true}, {"name": "default", "path": "keyboards/atomic/keymaps/default"}, {"name": "wanleg", "path": "layouts/community/ortho_5x15/wanleg", "no-cpp": true}]

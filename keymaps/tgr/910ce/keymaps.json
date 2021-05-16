@@ -1,1 +1,1 @@
-[{"name": "default", "path": "keyboards/tgr/910ce/keymaps/default"}, {"name": "via", "path": "keyboards/tgr/910ce/keymaps/via"}, {"name": "mechmerlin", "path": "layouts/community/65_ansi_blocker/mechmerlin", "no-cpp": true}]
+[{"name": "via", "path": "keyboards/tgr/910ce/keymaps/via"}, {"name": "default", "path": "keyboards/tgr/910ce/keymaps/default"}, {"name": "brandonschlack", "path": "layouts/community/65_ansi_blocker/brandonschlack", "no-cpp": true}, {"name": "mechmerlin", "path": "layouts/community/65_ansi_blocker/mechmerlin", "no-cpp": true}]

@@ -1,1 +1,1 @@
-[{"name": "default", "path": "keyboards/id80/keymaps/default"}, {"name": "via", "path": "keyboards/id80/keymaps/via"}]
+[{"name": "rverst", "path": "keyboards/id80/keymaps/rverst", "no-cpp": true}]

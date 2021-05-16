@@ -1,1 +1,1 @@
-[{"name": "default", "path": "keyboards/pico/65keys/keymaps/default"}, {"name": "jis", "path": "keyboards/pico/65keys/keymaps/jis", "no-cpp": true}]
+[{"name": "jis", "path": "keyboards/pico/65keys/keymaps/jis", "no-cpp": true}, {"name": "default", "path": "keyboards/pico/65keys/keymaps/default"}]

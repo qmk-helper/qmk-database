@@ -1,1 +1,1 @@
-[{"name": "default", "path": "keyboards/handwired/108key_trackpoint/keymaps/default"}, {"name": "dvorak", "path": "keyboards/handwired/108key_trackpoint/keymaps/dvorak"}, {"name": "dvorak_media", "path": "keyboards/handwired/108key_trackpoint/keymaps/dvorak_media"}]
+[{"name": "dvorak_media", "path": "keyboards/handwired/108key_trackpoint/keymaps/dvorak_media"}, {"name": "default", "path": "keyboards/handwired/108key_trackpoint/keymaps/default"}, {"name": "dvorak", "path": "keyboards/handwired/108key_trackpoint/keymaps/dvorak"}]

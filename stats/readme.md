@@ -1,10 +1,10 @@
 # Statistics of last Build
 
-Date: 2020-12-13 01:49:02.776250
+Date: 2021-05-16 16:57:02.230715
 
 
-* Keyboards: 1265
-  * without info.json: 124
-* Keymaps: 8822
-  * no-cpp: 3458
-  * error: 583
+* Keyboards: 1711
+  * without info.json: 33
+* Keymaps: 11518
+  * no-cpp: 4721
+  * error: 525

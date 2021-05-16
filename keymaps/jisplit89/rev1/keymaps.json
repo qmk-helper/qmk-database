@@ -1,1 +1,1 @@
-[{"name": "default", "path": "keyboards/jisplit89/keymaps/default", "no-cpp": true}, {"name": "salicylic", "path": "keyboards/jisplit89/keymaps/salicylic", "no-cpp": true}]
+[{"name": "salicylic", "path": "keyboards/jisplit89/keymaps/salicylic", "no-cpp": true}, {"name": "via", "path": "keyboards/jisplit89/keymaps/via", "no-cpp": true}, {"name": "default", "path": "keyboards/jisplit89/keymaps/default", "no-cpp": true}]

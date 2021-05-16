@@ -1,0 +1,1 @@
+{"keyboard": "ungodly/nines", "keymap": "default", "layout": "LAYOUT_ortho_3x3", "layers": [["KC_MPLY", "KC_HOME", "KC_MUTE", "MO(1)", "KC_UP", "KC_END", "KC_LEFT", "KC_DOWN", "KC_RGHT"], ["RESET", "KC_TRNS", "KC_STOP", "KC_TRNS", "KC_HOME", "KC_TRNS", "KC_MPRV", "KC_END", "KC_MNXT"]]}

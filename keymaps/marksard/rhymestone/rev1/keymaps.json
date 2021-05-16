@@ -1,1 +1,1 @@
-[{"name": "default", "path": "keyboards/marksard/rhymestone/keymaps/default", "no-cpp": true}, {"name": "switch_tester", "path": "keyboards/marksard/rhymestone/keymaps/switch_tester"}]
+[{"name": "switch_tester", "path": "keyboards/marksard/rhymestone/keymaps/switch_tester"}, {"name": "default", "path": "keyboards/marksard/rhymestone/keymaps/default", "no-cpp": true}]
