@@ -1,1 +1,1 @@
-[{"name": "default", "path": "keyboards/converter/sun_usb/type5/keymaps/default"}, {"name": "sigma", "path": "keyboards/converter/sun_usb/type5/keymaps/sigma", "no-cpp": true}]
+[{"name": "default", "path": "keyboards/converter/sun_usb/type5/keymaps/default"}, {"name": "sigma", "path": "keyboards/converter/sun_usb/type5/keymaps/sigma", "error": "Unknown"}]

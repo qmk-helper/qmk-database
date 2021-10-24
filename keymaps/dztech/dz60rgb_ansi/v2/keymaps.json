@@ -1,1 +1,1 @@
-[{"name": "via", "path": "keyboards/dztech/dz60rgb_ansi/keymaps/via"}, {"name": "default", "path": "keyboards/dztech/dz60rgb_ansi/keymaps/default"}, {"name": "badger", "path": "keyboards/dztech/dz60rgb_ansi/keymaps/badger", "no-cpp": true}]
+[{"name": "via", "path": "keyboards/dztech/dz60rgb_ansi/keymaps/via"}, {"name": "default", "path": "keyboards/dztech/dz60rgb_ansi/keymaps/default"}, {"name": "badger", "path": "keyboards/dztech/dz60rgb_ansi/keymaps/badger", "error": "Unknown"}, {"name": "bingocaller", "path": "keyboards/dztech/dz60rgb_ansi/keymaps/bingocaller"}]

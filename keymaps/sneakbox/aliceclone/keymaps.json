@@ -1,1 +1,1 @@
-[{"name": "via", "path": "keyboards/sneakbox/aliceclone/keymaps/via"}, {"name": "default", "path": "keyboards/sneakbox/aliceclone/keymaps/default"}, {"name": "stanrc85-alice", "path": "layouts/community/alice/stanrc85-alice", "no-cpp": true}]
+[{"name": "via", "path": "keyboards/sneakbox/aliceclone/keymaps/via"}, {"name": "default", "path": "keyboards/sneakbox/aliceclone/keymaps/default"}, {"name": "stanrc85-alice", "path": "layouts/community/alice/stanrc85-alice", "error": "Unknown"}]

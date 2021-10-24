@@ -1,1 +1,1 @@
-[{"name": "extended", "path": "keyboards/chidori/keymaps/extended", "no-cpp": true}, {"name": "default", "path": "keyboards/chidori/keymaps/default", "no-cpp": true}, {"name": "oled_sample", "path": "keyboards/chidori/keymaps/oled_sample", "no-cpp": true}]
+[{"name": "extended", "path": "keyboards/chidori/keymaps/extended", "error": "Unknown"}, {"name": "default", "path": "keyboards/chidori/keymaps/default", "error": "Unknown"}, {"name": "oled_sample", "path": "keyboards/chidori/keymaps/oled_sample", "error": "Unknown"}]

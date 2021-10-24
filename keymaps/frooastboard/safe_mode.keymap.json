@@ -1,0 +1,1 @@
+{"keyboard": "frooastboard", "keymap": "safe_mode", "layout": "LAYOUT", "layers": [["KC_Z", "KC_X", "TO(1)", "KC_TILD"], ["RGB_TOG", "RGB_MOD", "TO(2)", "TO(0)"], ["RGB_HUD", "RGB_HUI", "TO(3)", "TO(1)"], ["RGB_SAD", "RGB_SAI", "TO(4)", "TO(2)"], ["RGB_VAD", "RGB_VAI", "TO(5)", "TO(3)"], ["KC_TRNS", "KC_TRNS", "RESET", "TO(4)"]]}

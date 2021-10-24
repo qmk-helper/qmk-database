@@ -1,1 +1,1 @@
-[{"name": "default", "path": "keyboards/handwired/symmetry60/keymaps/default"}, {"name": "yet-another-developer", "path": "layouts/community/ortho_5x14/yet-another-developer", "no-cpp": true}, {"name": "peej", "path": "layouts/community/ortho_5x14/peej", "no-cpp": true}]
+[{"name": "default", "path": "keyboards/handwired/symmetry60/keymaps/default"}, {"name": "yet-another-developer", "path": "layouts/community/ortho_5x14/yet-another-developer", "error": "Unknown"}, {"name": "peej", "path": "layouts/community/ortho_5x14/peej", "error": "Unknown"}]

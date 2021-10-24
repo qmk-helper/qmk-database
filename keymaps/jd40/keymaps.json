@@ -1,1 +1,1 @@
-[{"name": "myoung34", "path": "keyboards/jd40/keymaps/myoung34"}, {"name": "vanagon", "path": "keyboards/jd40/keymaps/vanagon", "no-cpp": true}, {"name": "default", "path": "keyboards/jd40/keymaps/default"}]
+[{"name": "myoung34", "path": "keyboards/jd40/keymaps/myoung34"}, {"name": "vanagon", "path": "keyboards/jd40/keymaps/vanagon", "error": "Unknown"}, {"name": "default", "path": "keyboards/jd40/keymaps/default"}]

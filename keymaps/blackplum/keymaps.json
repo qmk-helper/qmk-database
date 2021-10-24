@@ -1,1 +1,1 @@
-[{"name": "via", "path": "keyboards/blackplum/keymaps/via"}, {"name": "default", "path": "keyboards/blackplum/keymaps/default"}, {"name": "mechmerlin", "path": "layouts/community/68_ansi/mechmerlin", "no-cpp": true}]
+[{"name": "via", "path": "keyboards/blackplum/keymaps/via"}, {"name": "default", "path": "keyboards/blackplum/keymaps/default"}, {"name": "mechmerlin", "path": "layouts/community/68_ansi/mechmerlin", "error": "Unknown"}]

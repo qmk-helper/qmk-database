@@ -1,0 +1,1 @@
+{"keyboard": "kiwikeebs/macro_v2", "keymap": "via", "layout": "LAYOUT", "layers": [["KC_DEL", "KC_HOME", "LT(_FN,KC_END)", "KC_MPRV", "KC_MPLY", "KC_MNXT", "KC_MUTE"], ["RESET", "KC_UP", "KC_TRNS", "KC_LEFT", "KC_DOWN", "KC_RGHT", "MAGIC_TOGGLE_NKRO"]]}

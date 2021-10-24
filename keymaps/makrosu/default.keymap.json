@@ -1,0 +1,1 @@
+{"keyboard": "makrosu", "keymap": "default", "layout": "LAYOUT", "layers": [["KC_ESC", "KC_F1", "KC_F2", "MO(_4)", "KC_Z", "KC_X"], ["LALT(KC_TAB)", "LGUI(KC_TAB)", "LCTL(KC_S)", "MO(_4)", "LCTL(KC_C)", "LCTL(KC_V)"], ["KC_TRNS", "KC_TRNS", "KC_TRNS", "KC_TRNS", "KC_TRNS", "KC_TRNS"], ["L1", "L2", "L3", "KC_TRNS", "KC_TRNS", "KC_TRNS"]]}

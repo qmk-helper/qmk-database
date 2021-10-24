@@ -1,0 +1,1 @@
+{"keyboard": "work_louder/nano", "keymap": "via", "layout": "LAYOUT_via", "layers": [["KC_PSCR", "MACRO00", "MO(1)", "KC_PGDN", "KC_PGUP"], ["RESET", "MACRO01", "KC_TRNS", "KC_TRNS", "KC_TRNS"], ["KC_TRNS", "KC_TRNS", "KC_TRNS", "KC_TRNS", "KC_TRNS"], ["KC_TRNS", "KC_TRNS", "KC_TRNS", "KC_TRNS", "KC_TRNS"]]}

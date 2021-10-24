@@ -1,1 +1,1 @@
-[{"name": "OLED_sample", "path": "keyboards/helix/rev1/keymaps/OLED_sample", "no-cpp": true}, {"name": "default", "path": "keyboards/helix/rev1/keymaps/default", "no-cpp": true}]
+[{"name": "OLED_sample", "path": "keyboards/helix/rev1/keymaps/OLED_sample", "error": "Unknown"}, {"name": "default", "path": "keyboards/helix/rev1/keymaps/default", "no-cpp": true}]

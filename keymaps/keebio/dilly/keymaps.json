@@ -1,1 +1,1 @@
-[{"name": "pletcher", "path": "keyboards/keebio/dilly/keymaps/pletcher"}, {"name": "delmo", "path": "keyboards/keebio/dilly/keymaps/delmo"}, {"name": "default", "path": "keyboards/keebio/dilly/keymaps/default"}, {"name": "bakingpy", "path": "keyboards/keebio/dilly/keymaps/bakingpy"}, {"name": "wanleg", "path": "layouts/community/ortho_3x10/wanleg", "no-cpp": true}]
+[{"name": "default", "path": "keyboards/keebio/dilly/keymaps/default"}, {"name": "wanleg", "path": "layouts/community/ortho_3x10/wanleg", "error": "Unknown"}]

@@ -1,1 +1,1 @@
-[{"name": "default", "path": "keyboards/handwired/prkl30/keymaps/default", "no-cpp": true}, {"name": "erkhal", "path": "keyboards/handwired/prkl30/keymaps/erkhal", "no-cpp": true}]
+[{"name": "default", "path": "keyboards/handwired/prkl30/keymaps/default", "error": "Unknown"}, {"name": "erkhal", "path": "keyboards/handwired/prkl30/keymaps/erkhal", "error": "Unknown"}]

@@ -1,1 +1,1 @@
-[{"name": "rgb", "path": "keyboards/tunks/ergo33/keymaps/rgb"}, {"name": "prpro", "path": "keyboards/tunks/ergo33/keymaps/prpro", "no-cpp": true}, {"name": "default", "path": "keyboards/tunks/ergo33/keymaps/default"}]
+[{"name": "rgb", "path": "keyboards/tunks/ergo33/keymaps/rgb"}, {"name": "prpro", "path": "keyboards/tunks/ergo33/keymaps/prpro", "error": "Unknown"}, {"name": "default", "path": "keyboards/tunks/ergo33/keymaps/default"}]

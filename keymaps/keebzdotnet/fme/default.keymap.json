@@ -1,0 +1,1 @@
+{"keyboard": "keebzdotnet/fme", "keymap": "default", "layout": "LAYOUT_all", "layers": [["KC_F", "KC_U", "KC_C", "KC_K", "KC_BSPC", "KC_Y", "KC_O", "KC_U", "MO(1)", "KC_SPC", "KC_SPC", "KC_SPC", "KC_SPC"], ["RESET", "KC_TRNS", "KC_TRNS", "KC_TRNS", "KC_DEL", "KC_TRNS", "KC_TRNS", "KC_TRNS", "KC_TRNS", "KC_TRNS", "KC_TRNS", "KC_TRNS", "KC_TRNS"]]}

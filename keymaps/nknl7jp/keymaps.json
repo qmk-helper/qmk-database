@@ -1,1 +1,1 @@
-[{"name": "salicylic", "path": "keyboards/nknl7jp/keymaps/salicylic", "no-cpp": true}, {"name": "via", "path": "keyboards/nknl7jp/keymaps/via", "no-cpp": true}, {"name": "default", "path": "keyboards/nknl7jp/keymaps/default", "no-cpp": true}]
+[{"name": "salicylic", "path": "keyboards/nknl7jp/keymaps/salicylic", "error": "Unknown"}, {"name": "via", "path": "keyboards/nknl7jp/keymaps/via", "error": "Unknown"}, {"name": "default", "path": "keyboards/nknl7jp/keymaps/default", "error": "Unknown"}]

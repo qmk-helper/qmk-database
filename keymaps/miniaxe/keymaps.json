@@ -1,1 +1,1 @@
-[{"name": "underglow", "path": "keyboards/miniaxe/keymaps/underglow"}, {"name": "wanleg", "path": "keyboards/miniaxe/keymaps/wanleg", "no-cpp": true}, {"name": "default", "path": "keyboards/miniaxe/keymaps/default"}]
+[{"name": "underglow", "path": "keyboards/miniaxe/keymaps/underglow"}, {"name": "wanleg", "path": "keyboards/miniaxe/keymaps/wanleg", "error": "Unknown"}, {"name": "default", "path": "keyboards/miniaxe/keymaps/default"}, {"name": "manna-harbour_miryoku", "path": "layouts/community/split_3x5_3/manna-harbour_miryoku", "no-cpp": true, "error": "Unknown Error"}]

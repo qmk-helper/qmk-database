@@ -1,1 +1,1 @@
-[{"name": "x1", "path": "keyboards/kudox/rev1/keymaps/x1"}, {"name": "jis", "path": "keyboards/kudox/rev1/keymaps/jis", "no-cpp": true}, {"name": "default", "path": "keyboards/kudox/rev1/keymaps/default"}]
+[{"name": "x1", "path": "keyboards/kudox/rev1/keymaps/x1"}, {"name": "jis", "path": "keyboards/kudox/rev1/keymaps/jis", "error": "Unknown"}, {"name": "default", "path": "keyboards/kudox/rev1/keymaps/default"}]

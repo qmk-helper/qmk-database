@@ -1,1 +1,1 @@
-[{"name": "via", "path": "keyboards/barracuda/keymaps/via", "no-cpp": true}, {"name": "default", "path": "keyboards/barracuda/keymaps/default", "no-cpp": true}]
+[{"name": "via", "path": "keyboards/barracuda/keymaps/via", "error": "Unknown"}, {"name": "default", "path": "keyboards/barracuda/keymaps/default", "error": "Unknown"}]

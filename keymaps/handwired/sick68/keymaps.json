@@ -1,1 +1,1 @@
-[{"name": "default", "path": "keyboards/handwired/sick68/keymaps/default"}, {"name": "yanfali", "path": "layouts/community/65_ansi/yanfali"}, {"name": "mechmerlin", "path": "layouts/community/65_ansi/mechmerlin", "no-cpp": true}]
+[{"name": "default", "path": "keyboards/handwired/sick68/keymaps/default"}, {"name": "yanfali", "path": "layouts/community/65_ansi/yanfali"}, {"name": "mechmerlin", "path": "layouts/community/65_ansi/mechmerlin", "error": "Unknown"}]

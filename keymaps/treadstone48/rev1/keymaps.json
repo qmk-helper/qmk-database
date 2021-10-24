@@ -1,1 +1,1 @@
-[{"name": "like_jis_rs", "path": "keyboards/treadstone48/rev1/keymaps/like_jis_rs", "no-cpp": true}, {"name": "like_jis", "path": "keyboards/treadstone48/keymaps/like_jis", "no-cpp": true}, {"name": "default", "path": "keyboards/treadstone48/keymaps/default", "no-cpp": true}]
+[{"name": "like_jis_rs", "path": "keyboards/treadstone48/rev1/keymaps/like_jis_rs", "error": "Unknown"}, {"name": "like_jis", "path": "keyboards/treadstone48/keymaps/like_jis", "error": "Unknown"}, {"name": "default", "path": "keyboards/treadstone48/keymaps/default", "error": "Unknown"}]

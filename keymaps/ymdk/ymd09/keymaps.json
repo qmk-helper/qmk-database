@@ -1,1 +1,1 @@
-[{"name": "via", "path": "keyboards/ymdk/ymd09/keymaps/via"}, {"name": "default", "path": "keyboards/ymdk/ymd09/keymaps/default"}, {"name": "andys8", "path": "keyboards/ymdk/ymd09/keymaps/andys8", "no-cpp": true}]
+[{"name": "via", "path": "keyboards/ymdk/ymd09/keymaps/via"}, {"name": "default", "path": "keyboards/ymdk/ymd09/keymaps/default"}, {"name": "andys8", "path": "keyboards/ymdk/ymd09/keymaps/andys8", "error": "Unknown"}]

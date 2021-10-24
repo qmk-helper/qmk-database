@@ -1,0 +1,1 @@
+{"keyboard": "handwired/stream_cheap/2x4", "keymap": "via", "layout": "LAYOUT_ortho_2x4", "layers": [["KC_A", "KC_A", "KC_A", "TO(3)", "KC_A", "KC_A", "KC_A", "TO(1)"], ["KC_B", "KC_B", "KC_B", "TO(0)", "KC_B", "KC_B", "KC_B", "TO(2)"], ["KC_C", "KC_C", "KC_C", "TO(1)", "KC_C", "KC_C", "KC_C", "TO(3)"], ["KC_D", "KC_D", "KC_D", "TO(2)", "KC_D", "KC_D", "KC_D", "TO(0)"]]}

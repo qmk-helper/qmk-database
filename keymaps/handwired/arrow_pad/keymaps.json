@@ -1,1 +1,1 @@
-[{"name": "default", "path": "keyboards/handwired/arrow_pad/keymaps/default", "no-cpp": true}, {"name": "pad_24", "path": "keyboards/handwired/arrow_pad/keymaps/pad_24", "no-cpp": true}, {"name": "pad_21", "path": "keyboards/handwired/arrow_pad/keymaps/pad_21", "no-cpp": true}]
+[{"name": "default", "path": "keyboards/handwired/arrow_pad/keymaps/default", "error": "Unknown"}, {"name": "pad_24", "path": "keyboards/handwired/arrow_pad/keymaps/pad_24", "error": "Unknown"}, {"name": "pad_21", "path": "keyboards/handwired/arrow_pad/keymaps/pad_21", "error": "Unknown"}]

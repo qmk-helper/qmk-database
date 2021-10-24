@@ -1,1 +1,1 @@
-[{"name": "default", "path": "keyboards/basketweave/keymaps/default", "no-cpp": true}]
+[{"name": "via", "path": "keyboards/basketweave/keymaps/via"}, {"name": "default", "path": "keyboards/basketweave/keymaps/default", "error": "Unknown"}]
