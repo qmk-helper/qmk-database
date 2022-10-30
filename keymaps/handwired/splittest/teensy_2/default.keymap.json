@@ -1,1 +1,1 @@
-{"keyboard": "handwired/splittest/teensy_2", "keymap": "default", "layout": "LAYOUT", "layers": [["RGB_MOD", "RESET"]]}
+{"keyboard": "handwired/splittest/teensy_2", "keymap": "default", "layout": "LAYOUT", "layers": [["KC_L", "KC_R"]]}

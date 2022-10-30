@@ -1,1 +1,1 @@
-{"keyboard": "keebio/bdn9/rev1", "keymap": "rishka", "layout": "LAYOUT", "layers": [["KC_MUTE", "KC_UP", "TO(0)", "KC_F12", "KC_TRNS", "KC_F1", "KC_LEFT", "KC_DOWN", "KC_RGHT"], ["RESET", "KC_HOME", "KC_TRNS", "KC_TRNS", "KC_TRNS", "KC_TRNS", "KC_MPRV", "KC_END", "KC_MNXT"]]}
+{"keyboard": "keebio/bdn9/rev1", "keymap": "rishka", "layout": "LAYOUT", "layers": [["KC_MUTE", "KC_UP", "TO(0)", "KC_F12", "KC_TRNS", "KC_F1", "KC_LEFT", "KC_DOWN", "KC_RGHT"], ["QK_BOOT", "KC_HOME", "KC_TRNS", "KC_TRNS", "KC_TRNS", "KC_TRNS", "KC_MPRV", "KC_END", "KC_MNXT"]]}

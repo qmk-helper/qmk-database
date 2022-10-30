@@ -1,1 +1,1 @@
-[{"name": "oled", "path": "keyboards/keycapsss/plaid_pad/keymaps/oled"}, {"name": "via", "path": "keyboards/keycapsss/plaid_pad/keymaps/via"}, {"name": "default", "path": "keyboards/keycapsss/plaid_pad/keymaps/default"}, {"name": "jotix", "path": "layouts/community/ortho_4x4/jotix"}]
+[{"name": "default", "path": "keyboards/keycapsss/plaid_pad/keymaps/default"}, {"name": "oled", "path": "keyboards/keycapsss/plaid_pad/keymaps/oled"}, {"name": "via", "path": "keyboards/keycapsss/plaid_pad/keymaps/via"}, {"name": "jotix", "path": "layouts/community/ortho_4x4/jotix"}]

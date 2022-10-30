@@ -1,1 +1,1 @@
-[{"name": "via", "path": "keyboards/senselessclay/ck60/keymaps/via"}, {"name": "default", "path": "keyboards/senselessclay/ck60/keymaps/default"}]
+[{"name": "default", "path": "keyboards/senselessclay/ck60/keymaps/default"}, {"name": "via", "path": "keyboards/senselessclay/ck60/keymaps/via"}, {"name": "bifbofii", "path": "layouts/community/60_iso/bifbofii"}, {"name": "unxmaal", "path": "layouts/community/60_iso/unxmaal", "error": "Unknown"}]

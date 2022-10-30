@@ -1,0 +1,1 @@
+{"keyboard": "frooastboard/nano", "keymap": "via", "layout": "LAYOUT", "layers": [["KC_Z", "KC_X", "LT(1, KC_ESC)", "KC_TILD"], ["KC_F23", "KC_F24", "KC_TRNS", "RGB_TOG"]]}

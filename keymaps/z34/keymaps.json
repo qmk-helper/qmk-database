@@ -1,1 +1,1 @@
-[{"name": "zigotica", "path": "keyboards/z34/keymaps/zigotica", "error": "Unknown"}, {"name": "default", "path": "keyboards/z34/keymaps/default"}]
+[{"name": "default", "path": "keyboards/z34/keymaps/default"}, {"name": "zigotica", "path": "keyboards/z34/keymaps/zigotica", "error": "Unknown"}]

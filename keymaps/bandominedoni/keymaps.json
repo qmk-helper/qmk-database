@@ -1,1 +1,1 @@
-[{"name": "via", "path": "keyboards/bandominedoni/keymaps/via"}, {"name": "led", "path": "keyboards/bandominedoni/keymaps/led"}, {"name": "default", "path": "keyboards/bandominedoni/keymaps/default"}]
+[{"name": "default", "path": "keyboards/bandominedoni/keymaps/default", "error": "Unknown"}, {"name": "led", "path": "keyboards/bandominedoni/keymaps/led", "error": "Unknown"}, {"name": "lednotg", "path": "keyboards/bandominedoni/keymaps/lednotg", "error": "Unknown"}, {"name": "via", "path": "keyboards/bandominedoni/keymaps/via", "error": "Unknown"}]

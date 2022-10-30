@@ -1,0 +1,1 @@
+{"keyboard": "reviung/reviung5", "keymap": "default_rre", "layout": "LAYOUT_reviung5", "layers": [["KC_MUTE", "KC_MPRV", "KC_MPLY", "KC_MNXT", "TG(_LOWER)"], ["RGB_TOG", "LCTL(KC_X)", "LCTL(KC_C)", "LCTL(KC_V)", "KC_TRNS"]]}

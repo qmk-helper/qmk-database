@@ -1,1 +1,1 @@
-[{"name": "daliusd", "path": "keyboards/a_dux/keymaps/daliusd"}, {"name": "jcmkk3", "path": "keyboards/a_dux/keymaps/jcmkk3"}, {"name": "default", "path": "keyboards/a_dux/keymaps/default", "error": "No C file"}]
+[{"name": "daliusd", "path": "keyboards/a_dux/keymaps/daliusd"}, {"name": "default", "path": "keyboards/a_dux/keymaps/default"}, {"name": "jcmkk3", "path": "keyboards/a_dux/keymaps/jcmkk3"}, {"name": "manna-harbour_miryoku", "path": "keyboards/a_dux/keymaps/manna-harbour_miryoku", "no-cpp": true, "error": "Unknown Error"}]

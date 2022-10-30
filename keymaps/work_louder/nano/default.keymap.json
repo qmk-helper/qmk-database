@@ -1,1 +1,1 @@
-{"keyboard": "work_louder/nano", "keymap": "default", "layout": "LAYOUT", "layers": [["KC_PSCR", "KC_LSFT", "MO(1)"], ["RESET", "KC_LCTL", "KC_TRNS"]]}
+{"keyboard": "work_louder/nano", "keymap": "default", "layout": "LAYOUT", "layers": [["KC_PSCR", "KC_LSFT", "MO(1)"], ["QK_BOOT", "KC_LCTL", "KC_TRNS"]]}

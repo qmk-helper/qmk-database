@@ -1,1 +1,1 @@
-[{"name": "default_tapdance", "path": "keyboards/handwired/2x5keypad/keymaps/default_tapdance"}, {"name": "default", "path": "keyboards/handwired/2x5keypad/keymaps/default", "error": "No C file"}]
+[{"name": "default", "path": "keyboards/handwired/2x5keypad/keymaps/default", "error": "No C file"}, {"name": "default_tapdance", "path": "keyboards/handwired/2x5keypad/keymaps/default_tapdance"}]

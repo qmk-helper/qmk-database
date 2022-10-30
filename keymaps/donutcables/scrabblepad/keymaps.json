@@ -1,1 +1,1 @@
-[{"name": "random", "path": "keyboards/donutcables/scrabblepad/keymaps/random", "error": "Unknown"}, {"name": "via", "path": "keyboards/donutcables/scrabblepad/keymaps/via"}, {"name": "default", "path": "keyboards/donutcables/scrabblepad/keymaps/default"}]
+[{"name": "default", "path": "keyboards/donutcables/scrabblepad/keymaps/default"}, {"name": "random", "path": "keyboards/donutcables/scrabblepad/keymaps/random", "error": "Unknown"}, {"name": "via", "path": "keyboards/donutcables/scrabblepad/keymaps/via"}]

@@ -1,1 +1,1 @@
-[{"name": "macro", "path": "keyboards/40percentclub/foobar/keymaps/macro"}, {"name": "default", "path": "keyboards/40percentclub/foobar/keymaps/default"}, {"name": "wanleg", "path": "layouts/community/ortho_3x10/wanleg", "error": "Unknown"}]
+[{"name": "default", "path": "keyboards/40percentclub/foobar/keymaps/default"}, {"name": "macro", "path": "keyboards/40percentclub/foobar/keymaps/macro"}, {"name": "bbaserdem", "path": "layouts/community/ortho_3x10/bbaserdem", "error": "Unknown"}, {"name": "wanleg", "path": "layouts/community/ortho_3x10/wanleg", "error": "Unknown"}]

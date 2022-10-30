@@ -1,1 +1,1 @@
-[{"name": "default_json", "path": "keyboards/handwired/pytest/basic/keymaps/default_json", "error": "No C file"}, {"name": "default", "path": "keyboards/handwired/pytest/basic/keymaps/default"}]
+[{"name": "default", "path": "keyboards/handwired/pytest/basic/keymaps/default"}, {"name": "default_json", "path": "keyboards/handwired/pytest/basic/keymaps/default_json", "error": "No C file"}]

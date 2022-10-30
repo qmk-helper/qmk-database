@@ -1,1 +1,1 @@
-[{"name": "default", "path": "keyboards/pluckey/keymaps/default"}]
+[{"name": "default", "path": "keyboards/pluckey/keymaps/default"}, {"name": "default_ergo", "path": "keyboards/pluckey/keymaps/default_ergo"}, {"name": "manna-harbour_miryoku", "path": "keyboards/pluckey/keymaps/manna-harbour_miryoku", "no-cpp": true, "error": "Unknown Error"}]

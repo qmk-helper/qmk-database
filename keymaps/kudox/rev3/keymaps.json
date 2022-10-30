@@ -1,1 +1,1 @@
-[{"name": "jis", "path": "keyboards/kudox/rev3/keymaps/jis", "error": "Unknown"}, {"name": "via", "path": "keyboards/kudox/rev3/keymaps/via"}, {"name": "default", "path": "keyboards/kudox/rev3/keymaps/default"}]
+[{"name": "default", "path": "keyboards/kudox/rev3/keymaps/default"}, {"name": "jis", "path": "keyboards/kudox/rev3/keymaps/jis", "error": "Unknown"}, {"name": "via", "path": "keyboards/kudox/rev3/keymaps/via"}]

@@ -1,1 +1,1 @@
-[{"name": "via", "path": "keyboards/geekboards/macropad_v2/keymaps/via"}, {"name": "default", "path": "keyboards/geekboards/macropad_v2/keymaps/default", "no-cpp": true, "error": "Unknown Error"}]
+[{"name": "default", "path": "keyboards/geekboards/macropad_v2/keymaps/default", "no-cpp": true, "error": "Unknown Error"}, {"name": "via", "path": "keyboards/geekboards/macropad_v2/keymaps/via"}]

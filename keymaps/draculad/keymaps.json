@@ -1,1 +1,1 @@
-[{"name": "pimoroni", "path": "keyboards/draculad/keymaps/pimoroni", "error": "Unknown"}, {"name": "default", "path": "keyboards/draculad/keymaps/default"}]
+[{"name": "default", "path": "keyboards/draculad/keymaps/default"}, {"name": "manna-harbour_miryoku", "path": "keyboards/draculad/keymaps/manna-harbour_miryoku", "no-cpp": true, "error": "Unknown Error"}, {"name": "pimoroni", "path": "keyboards/draculad/keymaps/pimoroni"}]

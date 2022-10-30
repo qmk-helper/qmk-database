@@ -1,0 +1,1 @@
+{"keyboard": "handwired/nozbe_macro", "keymap": "default", "layout": "LAYOUT", "layers": [["LT(_FN, KC_N)", "LALT(KC_UP)", "LALT(KC_DOWN)", "LALT(KC_D)"], ["KC_TRNS", "KC_1", "KC_2", "BL_STEP"]]}

@@ -1,1 +1,1 @@
-[{"name": "iso", "path": "keyboards/barleycorn_smd/keymaps/iso"}, {"name": "via", "path": "keyboards/barleycorn_smd/keymaps/via"}, {"name": "default", "path": "keyboards/barleycorn_smd/keymaps/default"}]
+[{"name": "default", "path": "keyboards/barleycorn_smd/keymaps/default"}, {"name": "iso", "path": "keyboards/barleycorn_smd/keymaps/iso"}, {"name": "via", "path": "keyboards/barleycorn_smd/keymaps/via"}]

@@ -1,1 +1,1 @@
-[{"name": "right", "path": "keyboards/handwired/k8split/keymaps/right"}, {"name": "left", "path": "keyboards/handwired/k8split/keymaps/left"}, {"name": "default", "path": "keyboards/handwired/k8split/keymaps/default"}]
+[{"name": "default", "path": "keyboards/handwired/k8split/keymaps/default"}, {"name": "left", "path": "keyboards/handwired/k8split/keymaps/left"}, {"name": "right", "path": "keyboards/handwired/k8split/keymaps/right"}]

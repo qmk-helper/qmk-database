@@ -1,0 +1,1 @@
+{"keyboard": "ploopyco/trackball_thumb/rev1_001", "keymap": "drag_scroll", "layout": "LAYOUT", "layers": [["KC_BTN4", "KC_BTN1", "KC_BTN3", "KC_BTN2", "KC_BTN5", "MO(1)"], ["KC_TRNS", "KC_TRNS", "KC_TRNS", "KC_TRNS", "KC_TRNS", "DRAG_SCROLL"]]}

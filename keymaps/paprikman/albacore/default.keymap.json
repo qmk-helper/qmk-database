@@ -1,0 +1,1 @@
+{"keyboard": "paprikman/albacore", "keymap": "default", "layout": "LAYOUT", "layers": [["KC_VOLD", "KC_MUTE", "KC_VOLU", "MO(1)", "KC_MPRV", "KC_MPLY", "KC_MNXT"], ["RGB_TOG", "RGB_MOD", "RGB_VAI", "KC_TRNS", "RGB_SPI", "RGB_SPD", "RGB_VAD"]]}

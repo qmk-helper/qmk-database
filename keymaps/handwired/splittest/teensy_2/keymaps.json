@@ -1,1 +1,1 @@
-[{"name": "default", "path": "keyboards/handwired/splittest/keymaps/default"}]
+[{"name": "bitbang", "path": "keyboards/handwired/splittest/keymaps/bitbang"}, {"name": "default", "path": "keyboards/handwired/splittest/keymaps/default"}, {"name": "rgb", "path": "keyboards/handwired/splittest/keymaps/rgb"}, {"name": "serial_fullduplex", "path": "keyboards/handwired/splittest/keymaps/serial_fullduplex"}, {"name": "serial_halfduplex", "path": "keyboards/handwired/splittest/keymaps/serial_halfduplex"}]

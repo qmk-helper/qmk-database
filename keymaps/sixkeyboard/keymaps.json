@@ -1,1 +1,1 @@
-[{"name": "semicolonsnet", "path": "keyboards/sixkeyboard/keymaps/semicolonsnet"}, {"name": "via", "path": "keyboards/sixkeyboard/keymaps/via"}, {"name": "default", "path": "keyboards/sixkeyboard/keymaps/default", "error": "Unknown"}]
+[{"name": "default", "path": "keyboards/sixkeyboard/keymaps/default", "error": "Unknown"}, {"name": "semicolonsnet", "path": "keyboards/sixkeyboard/keymaps/semicolonsnet"}, {"name": "via", "path": "keyboards/sixkeyboard/keymaps/via"}]
