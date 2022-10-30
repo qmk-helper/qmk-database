@@ -1,1 +1,0 @@
-{"keyboard": "handwired/bento", "keymap": "mac", "layout": "LAYOUT", "layers": [["LT(1, KC_MPRV)", "KC_MNXT", "KC_MUTE", "C(KC_LEFT)", "C(KC_UP)", "C(KC_RIGHT)"], ["KC_TRNS", "S(G(KC_B))", "RESET", "G(A(KC_C))", "C(A(KC_U))", "C(A(KC_S))"]]}

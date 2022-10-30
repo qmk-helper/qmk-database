@@ -267,11 +267,11 @@ blockey,keyboards/blockey/info.json,2,0,0
 bluebell/swoop,keyboards/bluebell/swoop/info.json,4,1,3
 boardrun/bizarre,keyboards/boardrun/bizarre/info.json,3,0,0
 boardrun/classic,keyboards/boardrun/classic/info.json,2,0,0
-boardsource/3x4,keyboards/boardsource/3x4/info.json,2,0,0
-boardsource/4x12,keyboards/boardsource/4x12/info.json,32,3,19
-boardsource/5x12,keyboards/boardsource/5x12/info.json,12,1,9
+
+
+
 boardsource/beiwagon,keyboards/boardsource/beiwagon/info.json,2,0,0
-boardsource/holiday/spooky,keyboards/boardsource/holiday/spooky/info.json,3,0,0
+
 
 boardsource/lulu/rp2040,keyboards/boardsource/lulu/rp2040/info.json,3,1,1
 
@@ -429,7 +429,7 @@ clueboard/60,keyboards/clueboard/60/info.json,2,0,0
 clueboard/66/rev2,keyboards/clueboard/66/rev2/info.json,22,0,1
 clueboard/66/rev3,keyboards/clueboard/66/rev3/info.json,22,0,1
 
-clueboard/66_hotswap/gen1,keyboards/clueboard/66_hotswap/gen1/info.json,3,0,1
+
 clueboard/66_hotswap/prototype,keyboards/clueboard/66_hotswap/prototype/info.json,2,0,0
 
 clueboard/card,keyboards/clueboard/card/info.json,2,0,0
@@ -1623,7 +1623,7 @@ matthewdias/model_v,keyboards/matthewdias/model_v/info.json,2,0,0
 matthewdias/txuu,keyboards/matthewdias/txuu/info.json,2,0,0
 maxipad/promicro,keyboards/maxipad/info.json,1,0,0
 maxipad/teensy2,keyboards/maxipad/info.json,1,0,0
-maxr1998/phoebe,keyboards/maxr1998/phoebe/info.json,1,0,1
+
 maxr1998/pulse4k,keyboards/maxr1998/pulse4k/info.json,2,0,0
 mb44,keyboards/mb44/info.json,5,0,0
 mc_76k,keyboards/mc_76k/info.json,2,0,0
@@ -1662,7 +1662,7 @@ mechlovin/hex4b/rev2,keyboards/mechlovin/hex4b/rev2/info.json,3,0,0
 mechlovin/hex6c,keyboards/mechlovin/hex6c/info.json,2,0,0
 mechlovin/infinity87/rev1/rogue87,keyboards/mechlovin/infinity87/rev1/rogue87/info.json,2,0,0
 mechlovin/infinity87/rev1/rouge87,keyboards/mechlovin/infinity87/rev1/rouge87/info.json,2,0,0
-mechlovin/infinity87/rev1/standard,keyboards/mechlovin/infinity87/rev1/standard/info.json,2,0,0
+
 mechlovin/infinity87/rev2,keyboards/mechlovin/infinity87/rev2/info.json,2,0,0
 mechlovin/infinity87/rgb_rev1,keyboards/mechlovin/infinity87/rgb_rev1/info.json,2,0,0
 mechlovin/infinity875,keyboards/mechlovin/infinity875/info.json,2,0,0
