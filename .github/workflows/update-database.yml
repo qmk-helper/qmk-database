@@ -1,0 +1,38 @@
+name: Update Database
+
+on:
+  workflow_dispatch:
+  schedule:
+    # At 10:17 on Tuesday
+    - cron: "17 10 * * 2"
+
+jobs:
+  update-database:
+    name: update database
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout db
+        uses: actions/checkout@v3
+      - name: Checkout qmk firmware
+        uses: actions/checkout@v3
+        with:
+          repository: qmk/qmk_firmware.git
+          path: qmk_firmware
+          ref: master
+      - name: Setup qmk cli
+        run: python3 -m pip install qmk
+      - name: clear existing keymaps
+        run: rm -r keymaps
+      - name: generate keyboard list
+        run: python3 ./generator/main.py store-keyboards
+      - name: generate keymaps
+        run: python3 ./generator/main.py create-all-keymaps
+      - name: generate stats
+        run: python3 ./generator/main.py generate-stats
+      - name: Create Pull Request
+        uses: peter-evans/create-pull-request@v4
+        with:
+          commit-message: AutoUpdated Keymaps
+          branch: update-keymaps
+          title: Update Keymaps
+          base: master
