@@ -1157,6 +1157,7 @@ hs60/v2/hhkb,keyboards/hs60/v2/hhkb/info.json,3,0,0
 hs60/v2/iso,keyboards/hs60/v2/iso/info.json,6,0,1
 hub16,keyboards/hub16/info.json,5,0,0
 hub20,keyboards/hub20/info.json,5,0,0
+
 huytbt/h50,keyboards/huytbt/h50/info.json,2,0,0
 ianklug/grooveboard,keyboards/ianklug/grooveboard/info.json,2,0,0
 ibm/model_m_4th_gen/overnumpad_1xb,keyboards/ibm/model_m_4th_gen/overnumpad_1xb/info.json,1,0,0

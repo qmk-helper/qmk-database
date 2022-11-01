@@ -4632,6 +4632,10 @@
     "path": "keyboards/hub20/info.json"
   },
   {
+    "name": "hubble",
+    "path": "keyboards/hubble/info.json"
+  },
+  {
     "name": "huytbt/h50",
     "path": "keyboards/huytbt/h50/info.json"
   },
