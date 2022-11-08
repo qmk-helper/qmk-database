@@ -1150,6 +1150,7 @@ horrortroll/handwired_k552,keyboards/horrortroll/handwired_k552/info.json,6,1,4
 horrortroll/lemon40,keyboards/horrortroll/lemon40/info.json,2,0,0
 horrortroll/paws60,keyboards/horrortroll/paws60/info.json,18,3,11
 hotdox,keyboards/hotdox/info.json,117,1,106
+hotdox76v2,keyboards/hotdox76v2/info.json,2,0,0
 hp69,keyboards/hp69/info.json,2,0,0
 hs60/v1,keyboards/hs60/v1/info.json,10,2,6
 hs60/v2/ansi,keyboards/hs60/v2/ansi/info.json,9,2,6
@@ -2272,10 +2273,10 @@ specskeys,keyboards/specskeys/info.json,1,0,0
 spiderisland/split78,keyboards/spiderisland/split78/info.json,1,0,0
 splitish,keyboards/splitish/info.json,1,0,0
 splitkb/aurora/sweep/rev1,keyboards/splitkb/aurora/sweep/rev1/info.json,2,0,1
-splitkb/kyria/rev1,keyboards/splitkb/kyria/rev1/info.json,35,2,16
-splitkb/kyria/rev1/proton_c,keyboards/splitkb/kyria/rev1/info.json,35,2,16
-splitkb/kyria/rev2,keyboards/splitkb/kyria/rev2/info.json,35,2,16
-splitkb/kyria/rev2/proton_c,keyboards/splitkb/kyria/rev2/info.json,35,2,16
+splitkb/kyria/rev1,keyboards/splitkb/kyria/rev1/info.json,36,2,16
+splitkb/kyria/rev1/proton_c,keyboards/splitkb/kyria/rev1/info.json,36,2,16
+splitkb/kyria/rev2,keyboards/splitkb/kyria/rev2/info.json,36,2,16
+splitkb/kyria/rev2/proton_c,keyboards/splitkb/kyria/rev2/info.json,36,2,16
 splitkb/zima,keyboards/splitkb/zima/info.json,3,0,0
 splitography,keyboards/splitography/info.json,5,0,5
 splitty/rev1,keyboards/splitty/info.json,1,0,0
@@ -2528,6 +2529,7 @@ work_louder/loop/rev1,keyboards/work_louder/loop/rev1/info.json,2,0,0
 work_louder/loop/rev3,keyboards/work_louder/loop/rev3/info.json,2,0,0
 work_louder/micro,keyboards/work_louder/micro/info.json,2,0,0
 work_louder/nano,keyboards/work_louder/nano/info.json,2,0,0
+work_louder/numpad,keyboards/work_louder/numpad/info.json,2,0,0
 work_louder/work_board/rev1,keyboards/work_louder/work_board/rev1/info.json,3,0,1
 work_louder/work_board/rev3,keyboards/work_louder/work_board/rev3/info.json,3,0,1
 wren,keyboards/wren/info.json,2,0,0

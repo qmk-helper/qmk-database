@@ -4604,6 +4604,10 @@
     "path": "keyboards/hotdox/info.json"
   },
   {
+    "name": "hotdox76v2",
+    "path": "keyboards/hotdox76v2/info.json"
+  },
+  {
     "name": "hp69",
     "path": "keyboards/hp69/info.json"
   },
@@ -10114,6 +10118,10 @@
   {
     "name": "work_louder/nano",
     "path": "keyboards/work_louder/nano/info.json"
+  },
+  {
+    "name": "work_louder/numpad",
+    "path": "keyboards/work_louder/numpad/info.json"
   },
   {
     "name": "work_louder/work_board/rev1",
