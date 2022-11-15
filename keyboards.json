@@ -400,6 +400,10 @@
     "path": "keyboards/aeboards/constellation/rev2/info.json"
   },
   {
+    "name": "aeboards/constellation/rev3",
+    "path": "keyboards/aeboards/constellation/rev3/info.json"
+  },
+  {
     "name": "aeboards/ext65/rev1",
     "path": "keyboards/aeboards/ext65/rev1/info.json"
   },
@@ -868,6 +872,18 @@
     "path": "keyboards/bastardkb/charybdis/3x5/v2/splinky/info.json"
   },
   {
+    "name": "bastardkb/charybdis/3x5/v2/splinky/v2",
+    "path": "keyboards/bastardkb/charybdis/3x5/v2/splinky/info.json"
+  },
+  {
+    "name": "bastardkb/charybdis/3x5/v2/splinky/v3",
+    "path": "keyboards/bastardkb/charybdis/3x5/v2/splinky/info.json"
+  },
+  {
+    "name": "bastardkb/charybdis/3x5/v2/stemcell",
+    "path": "keyboards/bastardkb/charybdis/3x5/v2/stemcell/info.json"
+  },
+  {
     "name": "bastardkb/charybdis/3x6/blackpill",
     "path": "keyboards/bastardkb/charybdis/3x6/blackpill/info.json"
   },
@@ -882,6 +898,18 @@
   {
     "name": "bastardkb/charybdis/3x6/v2/splinky",
     "path": "keyboards/bastardkb/charybdis/3x6/v2/splinky/info.json"
+  },
+  {
+    "name": "bastardkb/charybdis/3x6/v2/splinky/v2",
+    "path": "keyboards/bastardkb/charybdis/3x6/v2/splinky/info.json"
+  },
+  {
+    "name": "bastardkb/charybdis/3x6/v2/splinky/v3",
+    "path": "keyboards/bastardkb/charybdis/3x6/v2/splinky/info.json"
+  },
+  {
+    "name": "bastardkb/charybdis/3x6/v2/stemcell",
+    "path": "keyboards/bastardkb/charybdis/3x6/v2/stemcell/info.json"
   },
   {
     "name": "bastardkb/charybdis/4x6/blackpill",
@@ -900,12 +928,28 @@
     "path": "keyboards/bastardkb/charybdis/4x6/v2/splinky/info.json"
   },
   {
-    "name": "bastardkb/dilemma/elitec",
-    "path": "keyboards/bastardkb/dilemma/elitec/info.json"
+    "name": "bastardkb/charybdis/4x6/v2/splinky/v2",
+    "path": "keyboards/bastardkb/charybdis/4x6/v2/splinky/info.json"
   },
   {
-    "name": "bastardkb/dilemma/splinky",
-    "path": "keyboards/bastardkb/dilemma/splinky/info.json"
+    "name": "bastardkb/charybdis/4x6/v2/splinky/v3",
+    "path": "keyboards/bastardkb/charybdis/4x6/v2/splinky/info.json"
+  },
+  {
+    "name": "bastardkb/charybdis/4x6/v2/stemcell",
+    "path": "keyboards/bastardkb/charybdis/4x6/v2/stemcell/info.json"
+  },
+  {
+    "name": "bastardkb/dilemma/3x5_2/assembled",
+    "path": "keyboards/bastardkb/dilemma/3x5_2/assembled/info.json"
+  },
+  {
+    "name": "bastardkb/dilemma/3x5_2/splinky",
+    "path": "keyboards/bastardkb/dilemma/3x5_2/splinky/info.json"
+  },
+  {
+    "name": "bastardkb/dilemma/3x5_3",
+    "path": "keyboards/bastardkb/dilemma/3x5_3/info.json"
   },
   {
     "name": "bastardkb/scylla/blackpill",
@@ -924,6 +968,18 @@
     "path": "keyboards/bastardkb/scylla/v2/splinky/info.json"
   },
   {
+    "name": "bastardkb/scylla/v2/splinky/v2",
+    "path": "keyboards/bastardkb/scylla/v2/splinky/info.json"
+  },
+  {
+    "name": "bastardkb/scylla/v2/splinky/v3",
+    "path": "keyboards/bastardkb/scylla/v2/splinky/info.json"
+  },
+  {
+    "name": "bastardkb/scylla/v2/stemcell",
+    "path": "keyboards/bastardkb/scylla/v2/stemcell/info.json"
+  },
+  {
     "name": "bastardkb/skeletyl/blackpill",
     "path": "keyboards/bastardkb/skeletyl/blackpill/info.json"
   },
@@ -938,6 +994,18 @@
   {
     "name": "bastardkb/skeletyl/v2/splinky",
     "path": "keyboards/bastardkb/skeletyl/v2/splinky/info.json"
+  },
+  {
+    "name": "bastardkb/skeletyl/v2/splinky/v2",
+    "path": "keyboards/bastardkb/skeletyl/v2/splinky/info.json"
+  },
+  {
+    "name": "bastardkb/skeletyl/v2/splinky/v3",
+    "path": "keyboards/bastardkb/skeletyl/v2/splinky/info.json"
+  },
+  {
+    "name": "bastardkb/skeletyl/v2/stemcell",
+    "path": "keyboards/bastardkb/skeletyl/v2/stemcell/info.json"
   },
   {
     "name": "bastardkb/tbk",
@@ -958,6 +1026,18 @@
   {
     "name": "bastardkb/tbkmini/v2/splinky",
     "path": "keyboards/bastardkb/tbkmini/v2/splinky/info.json"
+  },
+  {
+    "name": "bastardkb/tbkmini/v2/splinky/v2",
+    "path": "keyboards/bastardkb/tbkmini/v2/splinky/info.json"
+  },
+  {
+    "name": "bastardkb/tbkmini/v2/splinky/v3",
+    "path": "keyboards/bastardkb/tbkmini/v2/splinky/info.json"
+  },
+  {
+    "name": "bastardkb/tbkmini/v2/stemcell",
+    "path": "keyboards/bastardkb/tbkmini/v2/stemcell/info.json"
   },
   {
     "name": "bbrfkr/dynamis",
@@ -1006,6 +1086,10 @@
   {
     "name": "binepad/bn003",
     "path": "keyboards/binepad/bn003/info.json"
+  },
+  {
+    "name": "binepad/bn006",
+    "path": "keyboards/binepad/bn006/info.json"
   },
   {
     "name": "binepad/bn009",
@@ -1260,6 +1344,10 @@
     "path": "keyboards/cannonkeys/balance/info.json"
   },
   {
+    "name": "cannonkeys/brutalv2_1800",
+    "path": "keyboards/cannonkeys/brutalv2_1800/info.json"
+  },
+  {
     "name": "cannonkeys/brutalv2_65",
     "path": "keyboards/cannonkeys/brutalv2_65/info.json"
   },
@@ -1386,6 +1474,10 @@
   {
     "name": "cannonkeys/savage65",
     "path": "keyboards/cannonkeys/savage65/info.json"
+  },
+  {
+    "name": "cannonkeys/serenity",
+    "path": "keyboards/cannonkeys/serenity/info.json"
   },
   {
     "name": "cannonkeys/tmov2",
@@ -3424,6 +3516,10 @@
     "path": "keyboards/handwired/aim65/info.json"
   },
   {
+    "name": "handwired/alcor_dactyl",
+    "path": "keyboards/handwired/alcor_dactyl/info.json"
+  },
+  {
     "name": "handwired/amigopunk",
     "path": "keyboards/handwired/amigopunk/info.json"
   },
@@ -3598,6 +3694,10 @@
   {
     "name": "handwired/dactyl_manuform/5x6_5",
     "path": "keyboards/handwired/dactyl_manuform/5x6_5/info.json"
+  },
+  {
+    "name": "handwired/dactyl_manuform/5x6_6",
+    "path": "keyboards/handwired/dactyl_manuform/5x6_6/info.json"
   },
   {
     "name": "handwired/dactyl_manuform/5x7",
@@ -5532,6 +5632,10 @@
     "path": "keyboards/keychron/q0/rev_0130/info.json"
   },
   {
+    "name": "keychron/q1/iso_encoder",
+    "path": "keyboards/keychron/q1/iso_encoder/info.json"
+  },
+  {
     "name": "keychron/q1/rev_0100",
     "path": "keyboards/keychron/q1/rev_0100/info.json"
   },
@@ -5582,6 +5686,22 @@
   {
     "name": "keychron/q3/jis_encoder",
     "path": "keyboards/keychron/q3/jis_encoder/info.json"
+  },
+  {
+    "name": "keychron/q6/ansi",
+    "path": "keyboards/keychron/q6/ansi/info.json"
+  },
+  {
+    "name": "keychron/q6/ansi_encoder",
+    "path": "keyboards/keychron/q6/ansi_encoder/info.json"
+  },
+  {
+    "name": "keychron/q6/iso",
+    "path": "keyboards/keychron/q6/iso/info.json"
+  },
+  {
+    "name": "keychron/q6/iso_encoder",
+    "path": "keyboards/keychron/q6/iso_encoder/info.json"
   },
   {
     "name": "keygem/kg60ansi",
@@ -6046,6 +6166,10 @@
   {
     "name": "labyrinth75",
     "path": "keyboards/labyrinth75/info.json"
+  },
+  {
+    "name": "laser_ninja/pumpkin_pad",
+    "path": "keyboards/laser_ninja/pumpkin_pad/info.json"
   },
   {
     "name": "late9/rev1",
@@ -7434,6 +7558,10 @@
   {
     "name": "nix_studio/oxalys80",
     "path": "keyboards/nix_studio/oxalys80/info.json"
+  },
+  {
+    "name": "nixkeyboards/day_off",
+    "path": "keyboards/nixkeyboards/day_off/info.json"
   },
   {
     "name": "nopunin10did/jabberwocky",
@@ -9222,6 +9350,10 @@
   {
     "name": "synapse",
     "path": "keyboards/synapse/info.json"
+  },
+  {
+    "name": "synthandkeys/the_debit_card",
+    "path": "keyboards/synthandkeys/the_debit_card/info.json"
   },
   {
     "name": "synthlabs/solo",
