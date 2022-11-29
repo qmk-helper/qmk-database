@@ -1,1 +1,1 @@
-{"keyboard": "arrayperipherals/1x4p1", "keymap": "default", "layout": "LAYOUT_ortho_1x5", "layers": [["KC_ESC", "KC_TAB", "KC_LSHIFT", "KC_LCTRL", "TG(1)"], ["KC_TRNS", "KC_TRNS", "KC_TRNS", "KC_TRNS", "TG(0)"]]}
+{"keyboard": "arrayperipherals/1x4p1", "keymap": "default", "layout": "LAYOUT_ortho_1x5", "layers": [["KC_ESC", "KC_TAB", "KC_LSFT", "KC_LCTL", "TG(1)"], ["KC_TRNS", "KC_TRNS", "KC_TRNS", "KC_TRNS", "TG(0)"]]}

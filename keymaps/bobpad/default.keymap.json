@@ -1,1 +1,1 @@
-{"keyboard": "bobpad", "keymap": "default", "layout": "LAYOUT_ortho_2x3", "layers": [["KC_CAPSLOCK", "MO(1)", "KC_PGUP", "KC_DEL", "KC_END", "KC_PGDN"], ["KC_CAPSLOCK", "MO(1)", "KC_PGUP", "KC_DEL", "KC_END", "KC_PGDN"]]}
+{"keyboard": "bobpad", "keymap": "default", "layout": "LAYOUT_ortho_2x3", "layers": [["KC_CAPS", "MO(1)", "KC_PGUP", "KC_DEL", "KC_END", "KC_PGDN"], ["KC_CAPS", "MO(1)", "KC_PGUP", "KC_DEL", "KC_END", "KC_PGDN"]]}

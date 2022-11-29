@@ -412,6 +412,14 @@
     "path": "keyboards/aeboards/ext65/rev2/info.json"
   },
   {
+    "name": "aeboards/ext65/rev3",
+    "path": "keyboards/aeboards/ext65/rev3/info.json"
+  },
+  {
+    "name": "aeboards/satellite/rev1",
+    "path": "keyboards/aeboards/satellite/rev1/info.json"
+  },
+  {
     "name": "afternoonlabs/breeze/rev0",
     "path": "keyboards/afternoonlabs/breeze/rev0/info.json"
   },
@@ -602,6 +610,10 @@
   {
     "name": "an_achronism/tetromino",
     "path": "keyboards/an_achronism/tetromino/info.json"
+  },
+  {
+    "name": "anavi/knob1",
+    "path": "keyboards/anavi/knob1/info.json"
   },
   {
     "name": "anavi/macropad10",
@@ -868,10 +880,6 @@
     "path": "keyboards/bastardkb/charybdis/3x5/v2/elitec/info.json"
   },
   {
-    "name": "bastardkb/charybdis/3x5/v2/splinky",
-    "path": "keyboards/bastardkb/charybdis/3x5/v2/splinky/info.json"
-  },
-  {
     "name": "bastardkb/charybdis/3x5/v2/splinky/v2",
     "path": "keyboards/bastardkb/charybdis/3x5/v2/splinky/info.json"
   },
@@ -896,10 +904,6 @@
     "path": "keyboards/bastardkb/charybdis/3x6/v2/elitec/info.json"
   },
   {
-    "name": "bastardkb/charybdis/3x6/v2/splinky",
-    "path": "keyboards/bastardkb/charybdis/3x6/v2/splinky/info.json"
-  },
-  {
     "name": "bastardkb/charybdis/3x6/v2/splinky/v2",
     "path": "keyboards/bastardkb/charybdis/3x6/v2/splinky/info.json"
   },
@@ -922,10 +926,6 @@
   {
     "name": "bastardkb/charybdis/4x6/v2/elitec",
     "path": "keyboards/bastardkb/charybdis/4x6/v2/elitec/info.json"
-  },
-  {
-    "name": "bastardkb/charybdis/4x6/v2/splinky",
-    "path": "keyboards/bastardkb/charybdis/4x6/v2/splinky/info.json"
   },
   {
     "name": "bastardkb/charybdis/4x6/v2/splinky/v2",
@@ -964,10 +964,6 @@
     "path": "keyboards/bastardkb/scylla/v2/elitec/info.json"
   },
   {
-    "name": "bastardkb/scylla/v2/splinky",
-    "path": "keyboards/bastardkb/scylla/v2/splinky/info.json"
-  },
-  {
     "name": "bastardkb/scylla/v2/splinky/v2",
     "path": "keyboards/bastardkb/scylla/v2/splinky/info.json"
   },
@@ -990,10 +986,6 @@
   {
     "name": "bastardkb/skeletyl/v2/elitec",
     "path": "keyboards/bastardkb/skeletyl/v2/elitec/info.json"
-  },
-  {
-    "name": "bastardkb/skeletyl/v2/splinky",
-    "path": "keyboards/bastardkb/skeletyl/v2/splinky/info.json"
   },
   {
     "name": "bastardkb/skeletyl/v2/splinky/v2",
@@ -1024,10 +1016,6 @@
     "path": "keyboards/bastardkb/tbkmini/v2/elitec/info.json"
   },
   {
-    "name": "bastardkb/tbkmini/v2/splinky",
-    "path": "keyboards/bastardkb/tbkmini/v2/splinky/info.json"
-  },
-  {
     "name": "bastardkb/tbkmini/v2/splinky/v2",
     "path": "keyboards/bastardkb/tbkmini/v2/splinky/info.json"
   },
@@ -1054,6 +1042,10 @@
   {
     "name": "beatervan",
     "path": "keyboards/beatervan/info.json"
+  },
+  {
+    "name": "beekeeb/piantor",
+    "path": "keyboards/beekeeb/piantor/info.json"
   },
   {
     "name": "bemeier/bmek/rev1",
@@ -1916,8 +1908,8 @@
     "path": "keyboards/converter/modelm_ssk/info.json"
   },
   {
-    "name": "converter/numeric_keypad_IIe",
-    "path": "keyboards/converter/numeric_keypad_IIe/info.json"
+    "name": "converter/numeric_keypad_iie",
+    "path": "keyboards/converter/numeric_keypad_iie/info.json"
   },
   {
     "name": "converter/palm_usb/stowaway",
@@ -2432,12 +2424,12 @@
     "path": "keyboards/durgod/dgk6x/venus/info.json"
   },
   {
-    "name": "durgod/k3x0/k310/base",
-    "path": "keyboards/durgod/k3x0/k310/info.json"
+    "name": "durgod/k310/base",
+    "path": "keyboards/durgod/k310/info.json"
   },
   {
-    "name": "durgod/k3x0/k320/base",
-    "path": "keyboards/durgod/k3x0/k320/info.json"
+    "name": "durgod/k320/base",
+    "path": "keyboards/durgod/k320/info.json"
   },
   {
     "name": "dyz/dyz40",
@@ -2536,6 +2528,10 @@
     "path": "keyboards/dztech/endless80/info.json"
   },
   {
+    "name": "dztech/og60",
+    "path": "keyboards/dztech/og60/info.json"
+  },
+  {
     "name": "e88",
     "path": "keyboards/e88/info.json"
   },
@@ -2624,8 +2620,8 @@
     "path": "keyboards/emi20/info.json"
   },
   {
-    "name": "emptystring/NQG",
-    "path": "keyboards/emptystring/NQG/info.json"
+    "name": "emptystring/nqg",
+    "path": "keyboards/emptystring/nqg/info.json"
   },
   {
     "name": "eniigmakeyboards/ek60",
@@ -3392,6 +3388,10 @@
     "path": "keyboards/gowla/info.json"
   },
   {
+    "name": "gray_studio/aero75",
+    "path": "keyboards/gray_studio/aero75/info.json"
+  },
+  {
     "name": "gray_studio/apollo80",
     "path": "keyboards/gray_studio/apollo80/info.json"
   },
@@ -3736,6 +3736,10 @@
     "path": "keyboards/handwired/dactyl_rah/info.json"
   },
   {
+    "name": "handwired/dactylmacropad",
+    "path": "keyboards/handwired/dactylmacropad/info.json"
+  },
+  {
     "name": "handwired/daishi",
     "path": "keyboards/handwired/daishi/info.json"
   },
@@ -3824,18 +3828,6 @@
     "path": "keyboards/handwired/hexon38/info.json"
   },
   {
-    "name": "handwired/hillside/46",
-    "path": "keyboards/handwired/hillside/46/info.json"
-  },
-  {
-    "name": "handwired/hillside/48",
-    "path": "keyboards/handwired/hillside/48/info.json"
-  },
-  {
-    "name": "handwired/hillside/52",
-    "path": "keyboards/handwired/hillside/52/info.json"
-  },
-  {
     "name": "handwired/hnah108",
     "path": "keyboards/handwired/hnah108/info.json"
   },
@@ -3890,6 +3882,10 @@
   {
     "name": "handwired/jscotto/scottocmd",
     "path": "keyboards/handwired/jscotto/scottocmd/info.json"
+  },
+  {
+    "name": "handwired/jscotto/scottostarter",
+    "path": "keyboards/handwired/jscotto/scottostarter/info.json"
   },
   {
     "name": "handwired/jtallbean/split_65",
@@ -4429,7 +4425,7 @@
   },
   {
     "name": "handwired/tractyl_manuform/5x6_right/arduinomicro",
-    "path": "keyboards/handwired/tractyl_manuform/5x6_right/info.json"
+    "path": "keyboards/handwired/tractyl_manuform/5x6_right/arduinomicro/info.json"
   },
   {
     "name": "handwired/tractyl_manuform/5x6_right/elite_c",
@@ -4602,6 +4598,18 @@
   {
     "name": "hifumi",
     "path": "keyboards/hifumi/info.json"
+  },
+  {
+    "name": "hillside/46/0_1",
+    "path": "keyboards/hillside/46/0_1/info.json"
+  },
+  {
+    "name": "hillside/48/0_1",
+    "path": "keyboards/hillside/48/0_1/info.json"
+  },
+  {
+    "name": "hillside/52/0_1",
+    "path": "keyboards/hillside/52/0_1/info.json"
   },
   {
     "name": "hineybush/h08_ocelot",
@@ -4962,6 +4970,10 @@
   {
     "name": "jd45",
     "path": "keyboards/jd45/info.json"
+  },
+  {
+    "name": "jels/boaty",
+    "path": "keyboards/jels/boaty/info.json"
   },
   {
     "name": "jels/jels60",
@@ -5336,6 +5348,10 @@
     "path": "keyboards/kbdfans/odin/soldered/info.json"
   },
   {
+    "name": "kbdfans/odin/v2",
+    "path": "keyboards/kbdfans/odin/v2/info.json"
+  },
+  {
     "name": "kbdfans/phaseone",
     "path": "keyboards/kbdfans/phaseone/info.json"
   },
@@ -5556,6 +5572,10 @@
     "path": "keyboards/keebsforall/freebird60/info.json"
   },
   {
+    "name": "keebsforall/freebird75",
+    "path": "keyboards/keebsforall/freebird75/info.json"
+  },
+  {
     "name": "keebsforall/freebirdnp/lite",
     "path": "keyboards/keebsforall/freebirdnp/lite/info.json"
   },
@@ -5686,6 +5706,22 @@
   {
     "name": "keychron/q3/jis_encoder",
     "path": "keyboards/keychron/q3/jis_encoder/info.json"
+  },
+  {
+    "name": "keychron/q5/ansi",
+    "path": "keyboards/keychron/q5/ansi/info.json"
+  },
+  {
+    "name": "keychron/q5/ansi_encoder",
+    "path": "keyboards/keychron/q5/ansi_encoder/info.json"
+  },
+  {
+    "name": "keychron/q5/iso",
+    "path": "keyboards/keychron/q5/iso/info.json"
+  },
+  {
+    "name": "keychron/q5/iso_encoder",
+    "path": "keyboards/keychron/q5/iso_encoder/info.json"
   },
   {
     "name": "keychron/q6/ansi",
@@ -6496,8 +6532,8 @@
     "path": "keyboards/maple_computing/c39/info.json"
   },
   {
-    "name": "maple_computing/christmas_tree/V2017",
-    "path": "keyboards/maple_computing/christmas_tree/V2017/info.json"
+    "name": "maple_computing/christmas_tree/v2017",
+    "path": "keyboards/maple_computing/christmas_tree/v2017/info.json"
   },
   {
     "name": "maple_computing/ivy/rev1",
@@ -7396,6 +7432,10 @@
     "path": "keyboards/mwstudio/mw65_rgb/info.json"
   },
   {
+    "name": "mwstudio/mw660",
+    "path": "keyboards/mwstudio/mw660/info.json"
+  },
+  {
     "name": "mwstudio/mw75",
     "path": "keyboards/mwstudio/mw75/info.json"
   },
@@ -7564,8 +7604,12 @@
     "path": "keyboards/nixkeyboards/day_off/info.json"
   },
   {
-    "name": "nopunin10did/jabberwocky",
-    "path": "keyboards/nopunin10did/jabberwocky/info.json"
+    "name": "nopunin10did/jabberwocky/v1",
+    "path": "keyboards/nopunin10did/jabberwocky/v1/info.json"
+  },
+  {
+    "name": "nopunin10did/jabberwocky/v2",
+    "path": "keyboards/nopunin10did/jabberwocky/v2/info.json"
   },
   {
     "name": "nopunin10did/kastenwagen1840",
@@ -8444,6 +8488,10 @@
     "path": "keyboards/rainkeebs/yasui/info.json"
   },
   {
+    "name": "ramlord/witf",
+    "path": "keyboards/ramlord/witf/info.json"
+  },
+  {
     "name": "ramonimbao/aelith",
     "path": "keyboards/ramonimbao/aelith/info.json"
   },
@@ -8758,6 +8806,10 @@
   {
     "name": "runes/vaengr",
     "path": "keyboards/runes/vaengr/info.json"
+  },
+  {
+    "name": "ryanbaekr/rb1",
+    "path": "keyboards/ryanbaekr/rb1/info.json"
   },
   {
     "name": "ryanbaekr/rb18",
@@ -9218,6 +9270,10 @@
   {
     "name": "splitish",
     "path": "keyboards/splitish/info.json"
+  },
+  {
+    "name": "splitkb/aurora/corne/rev1",
+    "path": "keyboards/splitkb/aurora/corne/rev1/info.json"
   },
   {
     "name": "splitkb/aurora/sweep/rev1",
@@ -10456,6 +10512,10 @@
     "path": "keyboards/xelus/valor_frl_tkl/rev2_1/info.json"
   },
   {
+    "name": "xelus/xs108",
+    "path": "keyboards/xelus/xs108/info.json"
+  },
+  {
     "name": "xelus/xs60",
     "path": "keyboards/xelus/xs60/info.json"
   },
@@ -10554,6 +10614,10 @@
   {
     "name": "yandrstudio/yr6095",
     "path": "keyboards/yandrstudio/yr6095/info.json"
+  },
+  {
+    "name": "yandrstudio/yr80",
+    "path": "keyboards/yandrstudio/yr80/info.json"
   },
   {
     "name": "yandrstudio/zhou65",
