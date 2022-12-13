@@ -208,6 +208,10 @@
     "path": "keyboards/4pplet/aekiso60/rev_a/info.json"
   },
   {
+    "name": "4pplet/aekiso60/rev_b",
+    "path": "keyboards/4pplet/aekiso60/rev_b/info.json"
+  },
+  {
     "name": "4pplet/bootleg/rev_a",
     "path": "keyboards/4pplet/bootleg/rev_a/info.json"
   },
@@ -880,12 +884,12 @@
     "path": "keyboards/bastardkb/charybdis/3x5/v2/elitec/info.json"
   },
   {
-    "name": "bastardkb/charybdis/3x5/v2/splinky/v2",
-    "path": "keyboards/bastardkb/charybdis/3x5/v2/splinky/info.json"
+    "name": "bastardkb/charybdis/3x5/v2/splinky_2",
+    "path": "keyboards/bastardkb/charybdis/3x5/v2/splinky_2/info.json"
   },
   {
-    "name": "bastardkb/charybdis/3x5/v2/splinky/v3",
-    "path": "keyboards/bastardkb/charybdis/3x5/v2/splinky/info.json"
+    "name": "bastardkb/charybdis/3x5/v2/splinky_3",
+    "path": "keyboards/bastardkb/charybdis/3x5/v2/splinky_3/info.json"
   },
   {
     "name": "bastardkb/charybdis/3x5/v2/stemcell",
@@ -904,12 +908,12 @@
     "path": "keyboards/bastardkb/charybdis/3x6/v2/elitec/info.json"
   },
   {
-    "name": "bastardkb/charybdis/3x6/v2/splinky/v2",
-    "path": "keyboards/bastardkb/charybdis/3x6/v2/splinky/info.json"
+    "name": "bastardkb/charybdis/3x6/v2/splinky_2",
+    "path": "keyboards/bastardkb/charybdis/3x6/v2/splinky_2/info.json"
   },
   {
-    "name": "bastardkb/charybdis/3x6/v2/splinky/v3",
-    "path": "keyboards/bastardkb/charybdis/3x6/v2/splinky/info.json"
+    "name": "bastardkb/charybdis/3x6/v2/splinky_3",
+    "path": "keyboards/bastardkb/charybdis/3x6/v2/splinky_3/info.json"
   },
   {
     "name": "bastardkb/charybdis/3x6/v2/stemcell",
@@ -928,12 +932,12 @@
     "path": "keyboards/bastardkb/charybdis/4x6/v2/elitec/info.json"
   },
   {
-    "name": "bastardkb/charybdis/4x6/v2/splinky/v2",
-    "path": "keyboards/bastardkb/charybdis/4x6/v2/splinky/info.json"
+    "name": "bastardkb/charybdis/4x6/v2/splinky_2",
+    "path": "keyboards/bastardkb/charybdis/4x6/v2/splinky_2/info.json"
   },
   {
-    "name": "bastardkb/charybdis/4x6/v2/splinky/v3",
-    "path": "keyboards/bastardkb/charybdis/4x6/v2/splinky/info.json"
+    "name": "bastardkb/charybdis/4x6/v2/splinky_3",
+    "path": "keyboards/bastardkb/charybdis/4x6/v2/splinky_3/info.json"
   },
   {
     "name": "bastardkb/charybdis/4x6/v2/stemcell",
@@ -964,12 +968,12 @@
     "path": "keyboards/bastardkb/scylla/v2/elitec/info.json"
   },
   {
-    "name": "bastardkb/scylla/v2/splinky/v2",
-    "path": "keyboards/bastardkb/scylla/v2/splinky/info.json"
+    "name": "bastardkb/scylla/v2/splinky_2",
+    "path": "keyboards/bastardkb/scylla/v2/splinky_2/info.json"
   },
   {
-    "name": "bastardkb/scylla/v2/splinky/v3",
-    "path": "keyboards/bastardkb/scylla/v2/splinky/info.json"
+    "name": "bastardkb/scylla/v2/splinky_3",
+    "path": "keyboards/bastardkb/scylla/v2/splinky_3/info.json"
   },
   {
     "name": "bastardkb/scylla/v2/stemcell",
@@ -988,12 +992,12 @@
     "path": "keyboards/bastardkb/skeletyl/v2/elitec/info.json"
   },
   {
-    "name": "bastardkb/skeletyl/v2/splinky/v2",
-    "path": "keyboards/bastardkb/skeletyl/v2/splinky/info.json"
+    "name": "bastardkb/skeletyl/v2/splinky_2",
+    "path": "keyboards/bastardkb/skeletyl/v2/splinky_2/info.json"
   },
   {
-    "name": "bastardkb/skeletyl/v2/splinky/v3",
-    "path": "keyboards/bastardkb/skeletyl/v2/splinky/info.json"
+    "name": "bastardkb/skeletyl/v2/splinky_3",
+    "path": "keyboards/bastardkb/skeletyl/v2/splinky_3/info.json"
   },
   {
     "name": "bastardkb/skeletyl/v2/stemcell",
@@ -1016,12 +1020,12 @@
     "path": "keyboards/bastardkb/tbkmini/v2/elitec/info.json"
   },
   {
-    "name": "bastardkb/tbkmini/v2/splinky/v2",
-    "path": "keyboards/bastardkb/tbkmini/v2/splinky/info.json"
+    "name": "bastardkb/tbkmini/v2/splinky_2",
+    "path": "keyboards/bastardkb/tbkmini/v2/splinky_2/info.json"
   },
   {
-    "name": "bastardkb/tbkmini/v2/splinky/v3",
-    "path": "keyboards/bastardkb/tbkmini/v2/splinky/info.json"
+    "name": "bastardkb/tbkmini/v2/splinky_3",
+    "path": "keyboards/bastardkb/tbkmini/v2/splinky_3/info.json"
   },
   {
     "name": "bastardkb/tbkmini/v2/stemcell",
@@ -2040,6 +2044,10 @@
     "path": "keyboards/crkbd/info.json"
   },
   {
+    "name": "crypt_macro",
+    "path": "keyboards/crypt_macro/info.json"
+  },
+  {
     "name": "custommk/evo70",
     "path": "keyboards/custommk/evo70/info.json"
   },
@@ -2198,6 +2206,10 @@
   {
     "name": "deng/djam",
     "path": "keyboards/deng/djam/info.json"
+  },
+  {
+    "name": "deng/thirty",
+    "path": "keyboards/deng/thirty/info.json"
   },
   {
     "name": "dichotomy",
@@ -2530,6 +2542,10 @@
   {
     "name": "dztech/og60",
     "path": "keyboards/dztech/og60/info.json"
+  },
+  {
+    "name": "dztech/tofu/ii/v1",
+    "path": "keyboards/dztech/tofu/ii/v1/info.json"
   },
   {
     "name": "e88",
@@ -3296,6 +3312,10 @@
     "path": "keyboards/ghs/rar/info.json"
   },
   {
+    "name": "ghs/xls",
+    "path": "keyboards/ghs/xls/info.json"
+  },
+  {
     "name": "giabalanai",
     "path": "keyboards/giabalanai/info.json"
   },
@@ -3744,6 +3764,10 @@
     "path": "keyboards/handwired/daishi/info.json"
   },
   {
+    "name": "handwired/daskeyboard/daskeyboard4",
+    "path": "keyboards/handwired/daskeyboard/daskeyboard4/info.json"
+  },
+  {
     "name": "handwired/datahand",
     "path": "keyboards/handwired/datahand/info.json"
   },
@@ -4018,6 +4042,10 @@
   {
     "name": "handwired/onekey/blackpill_f401",
     "path": "keyboards/handwired/onekey/blackpill_f401/info.json"
+  },
+  {
+    "name": "handwired/onekey/blackpill_f401_tinyuf2",
+    "path": "keyboards/handwired/onekey/blackpill_f401_tinyuf2/info.json"
   },
   {
     "name": "handwired/onekey/blackpill_f411",
@@ -4524,6 +4552,10 @@
     "path": "keyboards/heliar/wm1_hotswap/info.json"
   },
   {
+    "name": "heliotrope",
+    "path": "keyboards/heliotrope/info.json"
+  },
+  {
     "name": "helix/pico",
     "path": "keyboards/helix/pico/info.json"
   },
@@ -4686,6 +4718,14 @@
   {
     "name": "horizon",
     "path": "keyboards/horizon/info.json"
+  },
+  {
+    "name": "horrortroll/caticorn/rev1/hotswap",
+    "path": "keyboards/horrortroll/caticorn/rev1/hotswap/info.json"
+  },
+  {
+    "name": "horrortroll/caticorn/rev1/solder",
+    "path": "keyboards/horrortroll/caticorn/rev1/solder/info.json"
   },
   {
     "name": "horrortroll/chinese_pcb/black_e65",
@@ -5240,6 +5280,10 @@
     "path": "keyboards/kbdfans/bounce/pad/info.json"
   },
   {
+    "name": "kbdfans/d45/lite",
+    "path": "keyboards/kbdfans/d45/lite/info.json"
+  },
+  {
     "name": "kbdfans/kbd19x",
     "path": "keyboards/kbdfans/kbd19x/info.json"
   },
@@ -5328,6 +5372,10 @@
     "path": "keyboards/kbdfans/kbdpad/mk2/info.json"
   },
   {
+    "name": "kbdfans/kbdpad/mk3",
+    "path": "keyboards/kbdfans/kbdpad/mk3/info.json"
+  },
+  {
     "name": "kbdfans/maja",
     "path": "keyboards/kbdfans/maja/info.json"
   },
@@ -5350,6 +5398,10 @@
   {
     "name": "kbdfans/odin/v2",
     "path": "keyboards/kbdfans/odin/v2/info.json"
+  },
+  {
+    "name": "kbdfans/odinmini",
+    "path": "keyboards/kbdfans/odinmini/info.json"
   },
   {
     "name": "kbdfans/phaseone",
@@ -5402,6 +5454,10 @@
   {
     "name": "keebio/chocopad",
     "path": "keyboards/keebio/chocopad/info.json"
+  },
+  {
+    "name": "keebio/convolution/rev1",
+    "path": "keyboards/keebio/convolution/rev1/info.json"
   },
   {
     "name": "keebio/dilly",
@@ -5652,36 +5708,44 @@
     "path": "keyboards/keychron/q0/rev_0130/info.json"
   },
   {
+    "name": "keychron/q1/ansi",
+    "path": "keyboards/keychron/q1/ansi/info.json"
+  },
+  {
+    "name": "keychron/q1/ansi_encoder",
+    "path": "keyboards/keychron/q1/ansi_encoder/info.json"
+  },
+  {
+    "name": "keychron/q1/iso",
+    "path": "keyboards/keychron/q1/iso/info.json"
+  },
+  {
     "name": "keychron/q1/iso_encoder",
     "path": "keyboards/keychron/q1/iso_encoder/info.json"
   },
   {
-    "name": "keychron/q1/rev_0100",
-    "path": "keyboards/keychron/q1/rev_0100/info.json"
+    "name": "keychron/q10/ansi_encoder",
+    "path": "keyboards/keychron/q10/ansi_encoder/info.json"
   },
   {
-    "name": "keychron/q1/rev_0101",
-    "path": "keyboards/keychron/q1/rev_0101/info.json"
+    "name": "keychron/q10/iso_encoder",
+    "path": "keyboards/keychron/q10/iso_encoder/info.json"
   },
   {
-    "name": "keychron/q1/rev_0102",
-    "path": "keyboards/keychron/q1/rev_0102/info.json"
+    "name": "keychron/q2/ansi",
+    "path": "keyboards/keychron/q2/ansi/info.json"
   },
   {
-    "name": "keychron/q2/rev_0110",
-    "path": "keyboards/keychron/q2/rev_0110/info.json"
+    "name": "keychron/q2/ansi_encoder",
+    "path": "keyboards/keychron/q2/ansi_encoder/info.json"
   },
   {
-    "name": "keychron/q2/rev_0111",
-    "path": "keyboards/keychron/q2/rev_0111/info.json"
+    "name": "keychron/q2/iso",
+    "path": "keyboards/keychron/q2/iso/info.json"
   },
   {
-    "name": "keychron/q2/rev_0112",
-    "path": "keyboards/keychron/q2/rev_0112/info.json"
-  },
-  {
-    "name": "keychron/q2/rev_0113",
-    "path": "keyboards/keychron/q2/rev_0113/info.json"
+    "name": "keychron/q2/iso_encoder",
+    "path": "keyboards/keychron/q2/iso_encoder/info.json"
   },
   {
     "name": "keychron/q3/ansi",
@@ -5706,6 +5770,18 @@
   {
     "name": "keychron/q3/jis_encoder",
     "path": "keyboards/keychron/q3/jis_encoder/info.json"
+  },
+  {
+    "name": "keychron/q4/ansi_v1",
+    "path": "keyboards/keychron/q4/ansi_v1/info.json"
+  },
+  {
+    "name": "keychron/q4/ansi_v2",
+    "path": "keyboards/keychron/q4/ansi_v2/info.json"
+  },
+  {
+    "name": "keychron/q4/iso",
+    "path": "keyboards/keychron/q4/iso/info.json"
   },
   {
     "name": "keychron/q5/ansi",
@@ -5738,6 +5814,22 @@
   {
     "name": "keychron/q6/iso_encoder",
     "path": "keyboards/keychron/q6/iso_encoder/info.json"
+  },
+  {
+    "name": "keychron/q8/ansi",
+    "path": "keyboards/keychron/q8/ansi/info.json"
+  },
+  {
+    "name": "keychron/q8/ansi_encoder",
+    "path": "keyboards/keychron/q8/ansi_encoder/info.json"
+  },
+  {
+    "name": "keychron/q8/iso",
+    "path": "keyboards/keychron/q8/iso/info.json"
+  },
+  {
+    "name": "keychron/q8/iso_encoder",
+    "path": "keyboards/keychron/q8/iso_encoder/info.json"
   },
   {
     "name": "keygem/kg60ansi",
@@ -6018,6 +6110,10 @@
   {
     "name": "kopibeng/mnk65",
     "path": "keyboards/kopibeng/mnk65/info.json"
+  },
+  {
+    "name": "kopibeng/mnk65_stm32",
+    "path": "keyboards/kopibeng/mnk65_stm32/info.json"
   },
   {
     "name": "kopibeng/mnk88",
@@ -6876,6 +6972,14 @@
     "path": "keyboards/mechlovin/olly/jf/info.json"
   },
   {
+    "name": "mechlovin/olly/octagon",
+    "path": "keyboards/mechlovin/olly/octagon/info.json"
+  },
+  {
+    "name": "mechlovin/olly/orion",
+    "path": "keyboards/mechlovin/olly/orion/info.json"
+  },
+  {
     "name": "mechlovin/pisces",
     "path": "keyboards/mechlovin/pisces/info.json"
   },
@@ -6896,12 +7000,20 @@
     "path": "keyboards/mechlovin/zed60/info.json"
   },
   {
-    "name": "mechlovin/zed65/retro66",
-    "path": "keyboards/mechlovin/zed65/retro66/info.json"
+    "name": "mechlovin/zed65/mono_led",
+    "path": "keyboards/mechlovin/zed65/mono_led/info.json"
   },
   {
-    "name": "mechlovin/zed65/wearhaus66",
-    "path": "keyboards/mechlovin/zed65/wearhaus66/info.json"
+    "name": "mechlovin/zed65/no_backlight/cor65",
+    "path": "keyboards/mechlovin/zed65/no_backlight/cor65/info.json"
+  },
+  {
+    "name": "mechlovin/zed65/no_backlight/retro66",
+    "path": "keyboards/mechlovin/zed65/no_backlight/retro66/info.json"
+  },
+  {
+    "name": "mechlovin/zed65/no_backlight/wearhaus66",
+    "path": "keyboards/mechlovin/zed65/no_backlight/wearhaus66/info.json"
   },
   {
     "name": "mechstudio/dawn",
@@ -7062,6 +7174,10 @@
   {
     "name": "meme",
     "path": "keyboards/meme/info.json"
+  },
+  {
+    "name": "meow48",
+    "path": "keyboards/meow48/info.json"
   },
   {
     "name": "meow65",
@@ -7304,6 +7420,10 @@
     "path": "keyboards/momoka_ergo/info.json"
   },
   {
+    "name": "momokai/tap_duo",
+    "path": "keyboards/momokai/tap_duo/info.json"
+  },
+  {
     "name": "momokai/tap_trio",
     "path": "keyboards/momokai/tap_trio/info.json"
   },
@@ -7404,6 +7524,14 @@
     "path": "keyboards/mt/mt980/info.json"
   },
   {
+    "name": "mt/ncr80/hotswap",
+    "path": "keyboards/mt/ncr80/hotswap/info.json"
+  },
+  {
+    "name": "mt/ncr80/solder",
+    "path": "keyboards/mt/ncr80/solder/info.json"
+  },
+  {
     "name": "mt/split75",
     "path": "keyboards/mt/split75/info.json"
   },
@@ -7444,6 +7572,10 @@
     "path": "keyboards/mwstudio/mw75r2/info.json"
   },
   {
+    "name": "mwstudio/mw80",
+    "path": "keyboards/mwstudio/mw80/info.json"
+  },
+  {
     "name": "mxss",
     "path": "keyboards/mxss/info.json"
   },
@@ -7478,6 +7610,10 @@
   {
     "name": "nasu",
     "path": "keyboards/nasu/info.json"
+  },
+  {
+    "name": "navi60",
+    "path": "keyboards/navi60/info.json"
   },
   {
     "name": "ncc1701kb",
@@ -7546,6 +7682,14 @@
   {
     "name": "nightly_boards/conde60",
     "path": "keyboards/nightly_boards/conde60/info.json"
+  },
+  {
+    "name": "nightly_boards/daily60",
+    "path": "keyboards/nightly_boards/daily60/info.json"
+  },
+  {
+    "name": "nightly_boards/jisoo",
+    "path": "keyboards/nightly_boards/jisoo/info.json"
   },
   {
     "name": "nightly_boards/n2",
@@ -8808,6 +8952,10 @@
     "path": "keyboards/runes/vaengr/info.json"
   },
   {
+    "name": "rura66/rev1",
+    "path": "keyboards/rura66/rev1/info.json"
+  },
+  {
     "name": "ryanbaekr/rb1",
     "path": "keyboards/ryanbaekr/rb1/info.json"
   },
@@ -9276,6 +9424,10 @@
     "path": "keyboards/splitkb/aurora/corne/rev1/info.json"
   },
   {
+    "name": "splitkb/aurora/lily58/rev1",
+    "path": "keyboards/splitkb/aurora/lily58/rev1/info.json"
+  },
+  {
     "name": "splitkb/aurora/sweep/rev1",
     "path": "keyboards/splitkb/aurora/sweep/rev1/info.json"
   },
@@ -9326,6 +9478,14 @@
   {
     "name": "stello65/sl_rev1",
     "path": "keyboards/stello65/sl_rev1/info.json"
+  },
+  {
+    "name": "sthlmkb/lagom",
+    "path": "keyboards/sthlmkb/lagom/info.json"
+  },
+  {
+    "name": "sthlmkb/litl",
+    "path": "keyboards/sthlmkb/litl/info.json"
   },
   {
     "name": "stratos",
@@ -10648,6 +10808,10 @@
     "path": "keyboards/ydkb/yd68/info.json"
   },
   {
+    "name": "ydkb/ydpm40",
+    "path": "keyboards/ydkb/ydpm40/info.json"
+  },
+  {
     "name": "yeehaw",
     "path": "keyboards/yeehaw/info.json"
   },
@@ -10842,5 +11006,9 @@
   {
     "name": "zvecr/zv48/f411",
     "path": "keyboards/zvecr/zv48/info.json"
+  },
+  {
+    "name": "zykrah/fuyu",
+    "path": "keyboards/zykrah/fuyu/info.json"
   }
 ]
