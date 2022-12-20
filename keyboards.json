@@ -220,6 +220,10 @@
     "path": "keyboards/4pplet/eagle_viper_rep/rev_a/info.json"
   },
   {
+    "name": "4pplet/eagle_viper_rep/rev_b",
+    "path": "keyboards/4pplet/eagle_viper_rep/rev_b/info.json"
+  },
+  {
     "name": "4pplet/perk60_iso/rev_a",
     "path": "keyboards/4pplet/perk60_iso/rev_a/info.json"
   },
@@ -1948,6 +1952,10 @@
     "path": "keyboards/converter/usb_usb/info.json"
   },
   {
+    "name": "converter/xmk",
+    "path": "keyboards/converter/xmk/info.json"
+  },
+  {
     "name": "converter/xt_usb",
     "path": "keyboards/converter/xt_usb/info.json"
   },
@@ -1982,6 +1990,10 @@
   {
     "name": "coseyfannitutti/romeo",
     "path": "keyboards/coseyfannitutti/romeo/info.json"
+  },
+  {
+    "name": "cosmo65",
+    "path": "keyboards/cosmo65/info.json"
   },
   {
     "name": "cozykeys/bloomer/v2",
@@ -2546,6 +2558,10 @@
   {
     "name": "dztech/tofu/ii/v1",
     "path": "keyboards/dztech/tofu/ii/v1/info.json"
+  },
+  {
+    "name": "dztech/tofu/jr/v1",
+    "path": "keyboards/dztech/tofu/jr/v1/info.json"
   },
   {
     "name": "e88",
@@ -4876,6 +4892,10 @@
     "path": "keyboards/idobao/montex/v2/info.json"
   },
   {
+    "name": "idyllic/tinny50_rgb",
+    "path": "keyboards/idyllic/tinny50_rgb/info.json"
+  },
+  {
     "name": "illuminati/is0",
     "path": "keyboards/illuminati/is0/info.json"
   },
@@ -5280,8 +5300,8 @@
     "path": "keyboards/kbdfans/bounce/pad/info.json"
   },
   {
-    "name": "kbdfans/d45/lite",
-    "path": "keyboards/kbdfans/d45/lite/info.json"
+    "name": "kbdfans/d45/v2",
+    "path": "keyboards/kbdfans/d45/v2/info.json"
   },
   {
     "name": "kbdfans/kbd19x",
@@ -5816,6 +5836,22 @@
     "path": "keyboards/keychron/q6/iso_encoder/info.json"
   },
   {
+    "name": "keychron/q60/ansi",
+    "path": "keyboards/keychron/q60/ansi/info.json"
+  },
+  {
+    "name": "keychron/q65/ansi_encoder",
+    "path": "keyboards/keychron/q65/ansi_encoder/info.json"
+  },
+  {
+    "name": "keychron/q7/ansi",
+    "path": "keyboards/keychron/q7/ansi/info.json"
+  },
+  {
+    "name": "keychron/q7/iso",
+    "path": "keyboards/keychron/q7/iso/info.json"
+  },
+  {
     "name": "keychron/q8/ansi",
     "path": "keyboards/keychron/q8/ansi/info.json"
   },
@@ -5830,6 +5866,150 @@
   {
     "name": "keychron/q8/iso_encoder",
     "path": "keyboards/keychron/q8/iso_encoder/info.json"
+  },
+  {
+    "name": "keychron/q9/ansi",
+    "path": "keyboards/keychron/q9/ansi/info.json"
+  },
+  {
+    "name": "keychron/q9/ansi_encoder",
+    "path": "keyboards/keychron/q9/ansi_encoder/info.json"
+  },
+  {
+    "name": "keychron/q9/iso",
+    "path": "keyboards/keychron/q9/iso/info.json"
+  },
+  {
+    "name": "keychron/q9/iso_encoder",
+    "path": "keyboards/keychron/q9/iso_encoder/info.json"
+  },
+  {
+    "name": "keychron/s1/ansi/rgb",
+    "path": "keyboards/keychron/s1/ansi/rgb/info.json"
+  },
+  {
+    "name": "keychron/s1/ansi/white",
+    "path": "keyboards/keychron/s1/ansi/white/info.json"
+  },
+  {
+    "name": "keychron/v1/ansi",
+    "path": "keyboards/keychron/v1/ansi/info.json"
+  },
+  {
+    "name": "keychron/v1/ansi_encoder",
+    "path": "keyboards/keychron/v1/ansi_encoder/info.json"
+  },
+  {
+    "name": "keychron/v1/iso",
+    "path": "keyboards/keychron/v1/iso/info.json"
+  },
+  {
+    "name": "keychron/v1/iso_encoder",
+    "path": "keyboards/keychron/v1/iso_encoder/info.json"
+  },
+  {
+    "name": "keychron/v1/jis",
+    "path": "keyboards/keychron/v1/jis/info.json"
+  },
+  {
+    "name": "keychron/v1/jis_encoder",
+    "path": "keyboards/keychron/v1/jis_encoder/info.json"
+  },
+  {
+    "name": "keychron/v2/ansi",
+    "path": "keyboards/keychron/v2/ansi/info.json"
+  },
+  {
+    "name": "keychron/v2/ansi_encoder",
+    "path": "keyboards/keychron/v2/ansi_encoder/info.json"
+  },
+  {
+    "name": "keychron/v2/iso",
+    "path": "keyboards/keychron/v2/iso/info.json"
+  },
+  {
+    "name": "keychron/v2/iso_encoder",
+    "path": "keyboards/keychron/v2/iso_encoder/info.json"
+  },
+  {
+    "name": "keychron/v2/jis",
+    "path": "keyboards/keychron/v2/jis/info.json"
+  },
+  {
+    "name": "keychron/v2/jis_encoder",
+    "path": "keyboards/keychron/v2/jis_encoder/info.json"
+  },
+  {
+    "name": "keychron/v3/ansi",
+    "path": "keyboards/keychron/v3/ansi/info.json"
+  },
+  {
+    "name": "keychron/v3/ansi_encoder",
+    "path": "keyboards/keychron/v3/ansi_encoder/info.json"
+  },
+  {
+    "name": "keychron/v3/iso",
+    "path": "keyboards/keychron/v3/iso/info.json"
+  },
+  {
+    "name": "keychron/v3/iso_encoder",
+    "path": "keyboards/keychron/v3/iso_encoder/info.json"
+  },
+  {
+    "name": "keychron/v3/jis",
+    "path": "keyboards/keychron/v3/jis/info.json"
+  },
+  {
+    "name": "keychron/v3/jis_encoder",
+    "path": "keyboards/keychron/v3/jis_encoder/info.json"
+  },
+  {
+    "name": "keychron/v4/ansi",
+    "path": "keyboards/keychron/v4/ansi/info.json"
+  },
+  {
+    "name": "keychron/v4/iso",
+    "path": "keyboards/keychron/v4/iso/info.json"
+  },
+  {
+    "name": "keychron/v5/ansi",
+    "path": "keyboards/keychron/v5/ansi/info.json"
+  },
+  {
+    "name": "keychron/v5/ansi_encoder",
+    "path": "keyboards/keychron/v5/ansi_encoder/info.json"
+  },
+  {
+    "name": "keychron/v5/iso",
+    "path": "keyboards/keychron/v5/iso/info.json"
+  },
+  {
+    "name": "keychron/v5/iso_encoder",
+    "path": "keyboards/keychron/v5/iso_encoder/info.json"
+  },
+  {
+    "name": "keychron/v7/ansi",
+    "path": "keyboards/keychron/v7/ansi/info.json"
+  },
+  {
+    "name": "keychron/v7/iso",
+    "path": "keyboards/keychron/v7/iso/info.json"
+  },
+  {
+    "name": "keychron/v8/ansi",
+    "path": "keyboards/keychron/v8/ansi/info.json"
+  },
+  {
+    "name": "keychron/v8/ansi_encoder",
+    "path": "keyboards/keychron/v8/ansi_encoder/info.json"
+  },
+  {
+    "name": "keychron/v8/iso",
+    "path": "keyboards/keychron/v8/iso/info.json"
+  },
+  {
+    "name": "keychron/v8/iso_encoder",
+    "path": "keyboards/keychron/v8/iso_encoder/info.json"
   },
   {
     "name": "keygem/kg60ansi",
@@ -9012,6 +9192,10 @@
     "path": "keyboards/salicylic_acid3/getta25/rev1/info.json"
   },
   {
+    "name": "salicylic_acid3/guide68",
+    "path": "keyboards/salicylic_acid3/guide68/info.json"
+  },
+  {
     "name": "salicylic_acid3/jisplit89/rev1",
     "path": "keyboards/salicylic_acid3/jisplit89/rev1/info.json"
   },
@@ -9572,6 +9756,10 @@
     "path": "keyboards/synthandkeys/the_debit_card/info.json"
   },
   {
+    "name": "synthlabs/060",
+    "path": "keyboards/synthlabs/060/info.json"
+  },
+  {
     "name": "synthlabs/solo",
     "path": "keyboards/synthlabs/solo/info.json"
   },
@@ -9962,6 +10150,10 @@
   {
     "name": "tzarc/ghoul/rev1/stm32",
     "path": "keyboards/tzarc/ghoul/rev1/stm32/info.json"
+  },
+  {
+    "name": "ubest/vn",
+    "path": "keyboards/ubest/vn/info.json"
   },
   {
     "name": "uk78",
@@ -11010,5 +11202,9 @@
   {
     "name": "zykrah/fuyu",
     "path": "keyboards/zykrah/fuyu/info.json"
+  },
+  {
+    "name": "zykrah/slime88",
+    "path": "keyboards/zykrah/slime88/info.json"
   }
 ]
