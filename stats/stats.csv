@@ -2462,6 +2462,8 @@ tanuki,keyboards/tanuki/info.json,2,0,0
 tau4,keyboards/tau4/info.json,1,0,0
 team0110/p1800fl,keyboards/team0110/p1800fl/info.json,2,0,0
 technika,keyboards/technika/info.json,1,0,0
+teleport/native/ansi,keyboards/teleport/native/ansi/info.json,3,0,0
+teleport/native/iso,keyboards/teleport/native/iso/info.json,3,0,0
 teleport/numpad,keyboards/teleport/numpad/info.json,3,0,0
 telophase,keyboards/telophase/info.json,30,3,18
 tempo_turtle/bradpad,keyboards/tempo_turtle/bradpad/info.json,4,0,0
