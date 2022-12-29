@@ -9852,6 +9852,14 @@
     "path": "keyboards/technika/info.json"
   },
   {
+    "name": "teleport/native/ansi",
+    "path": "keyboards/teleport/native/ansi/info.json"
+  },
+  {
+    "name": "teleport/native/iso",
+    "path": "keyboards/teleport/native/iso/info.json"
+  },
+  {
     "name": "teleport/numpad",
     "path": "keyboards/teleport/numpad/info.json"
   },
