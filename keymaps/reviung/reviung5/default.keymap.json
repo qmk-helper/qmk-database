@@ -1,1 +1,1 @@
-{"keyboard": "reviung/reviung5", "keymap": "default", "layout": "LAYOUT_reviung5", "layers": [["LT(_LOWER, KC_VOLD)", "KC_MPRV", "KC_MPLY", "KC_MNXT", "KC_VOLU"], ["KC_TRNS", "RGB_HUI", "RGB_MOD", "RGB_TOG", "KC_MUTE"]]}
+{"keyboard": "reviung/reviung5", "keymap": "default", "layout": "LAYOUT", "layers": [["LT(_LOWER, KC_VOLD)", "KC_MPRV", "KC_MPLY", "KC_MNXT", "KC_VOLU"], ["KC_TRNS", "RGB_HUI", "RGB_MOD", "RGB_TOG", "KC_MUTE"]]}
