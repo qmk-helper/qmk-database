@@ -283,6 +283,7 @@ bioi/g60,keyboards/bioi/g60/info.json,2,0,0
 bioi/g60ble,keyboards/bioi/g60ble/info.json,22,4,13
 bioi/morgan65,keyboards/bioi/morgan65/info.json,2,0,0
 bioi/s65,keyboards/bioi/s65/info.json,2,0,0
+black_hellebore,keyboards/black_hellebore/info.json,2,0,0
 blackplum,keyboards/blackplum/info.json,3,0,1
 blank/blank01,keyboards/blank/blank01/info.json,2,0,0
 blank_tehnologii/manibus,keyboards/blank_tehnologii/manibus/info.json,2,0,0
@@ -870,7 +871,7 @@ gray_studio/hb85,keyboards/gray_studio/hb85/info.json,3,0,0
 gray_studio/space65,keyboards/gray_studio/space65/info.json,11,0,4
 gray_studio/space65r3,keyboards/gray_studio/space65r3/info.json,6,0,4
 gray_studio/think65/hotswap,keyboards/gray_studio/think65/hotswap/info.json,6,0,4
-gray_studio/think65/solder,keyboards/gray_studio/think65/solder/info.json,9,0,5
+gray_studio/think65/solder,keyboards/gray_studio/think65/solder/info.json,10,0,5
 grid600/press,keyboards/grid600/press/info.json,1,0,0
 gvalchca/ga150,keyboards/gvalchca/ga150/info.json,2,0,0
 gvalchca/spaccboard,keyboards/gvalchca/spaccboard/info.json,2,0,0
@@ -988,6 +989,7 @@ handwired/jot50,keyboards/handwired/jot50/info.json,11,1,9
 handwired/jotanck,keyboards/handwired/jotanck/info.json,31,3,19
 handwired/jotpad16,keyboards/handwired/jotpad16/info.json,2,0,0
 handwired/jscotto/scotto36,keyboards/handwired/jscotto/scotto36/info.json,1,0,0
+handwired/jscotto/scotto40,keyboards/handwired/jscotto/scotto40/info.json,1,0,0
 handwired/jscotto/scotto9,keyboards/handwired/jscotto/scotto9/info.json,1,0,0
 handwired/jscotto/scottocmd,keyboards/handwired/jscotto/scottocmd/info.json,1,0,0
 handwired/jscotto/scottostarter,keyboards/handwired/jscotto/scottostarter/info.json,1,0,0
@@ -1033,6 +1035,7 @@ handwired/onekey/elite_c,keyboards/handwired/onekey/elite_c/info.json,18,0,4
 handwired/onekey/evb_wb32f3g71,keyboards/handwired/onekey/evb_wb32f3g71/info.json,18,0,4
 handwired/onekey/evb_wb32fq95,keyboards/handwired/onekey/evb_wb32fq95/info.json,18,0,4
 handwired/onekey/kb2040,keyboards/handwired/onekey/kb2040/info.json,18,0,4
+handwired/onekey/nucleo_f446re,keyboards/handwired/onekey/nucleo_f446re/info.json,18,0,4
 handwired/onekey/nucleo_l432kc,keyboards/handwired/onekey/nucleo_l432kc/info.json,18,0,4
 handwired/onekey/promicro,keyboards/handwired/onekey/promicro/info.json,18,0,4
 handwired/onekey/proton_c,keyboards/handwired/onekey/proton_c/info.json,18,0,4
@@ -1609,7 +1612,7 @@ kprepublic/bm65hsrgb_iso/rev1,keyboards/kprepublic/bm65hsrgb_iso/rev1/info.json,
 kprepublic/bm68hsrgb/rev1,keyboards/kprepublic/bm68hsrgb/rev1/info.json,5,0,2
 kprepublic/bm68hsrgb/rev2,keyboards/kprepublic/bm68hsrgb/rev2/info.json,2,0,0
 kprepublic/bm80hsrgb,keyboards/kprepublic/bm80hsrgb/info.json,7,1,2
-kprepublic/bm80v2,keyboards/kprepublic/bm80v2/info.json,6,1,2
+kprepublic/bm80v2,keyboards/kprepublic/bm80v2/info.json,7,1,2
 kprepublic/bm80v2_iso,keyboards/kprepublic/bm80v2_iso/info.json,2,0,0
 kprepublic/bm980hsrgb,keyboards/kprepublic/bm980hsrgb/info.json,3,0,0
 kprepublic/cospad,keyboards/kprepublic/cospad/info.json,5,0,1
@@ -1871,6 +1874,7 @@ miniaxe,keyboards/miniaxe/info.json,4,1,2
 minimacro5,keyboards/minimacro5/info.json,5,0,0
 minimon/index_tab,keyboards/minimon/index_tab/info.json,4,0,0
 mino/hotswap,keyboards/mino/hotswap/info.json,2,0,0
+mino_plus/soldered,keyboards/mino_plus/soldered/info.json,2,0,0
 mint60,keyboards/mint60/info.json,2,0,0
 misonoworks/chocolatebar,keyboards/misonoworks/chocolatebar/info.json,2,0,0
 misonoworks/karina,keyboards/misonoworks/karina/info.json,2,0,0
@@ -2424,10 +2428,11 @@ splitish,keyboards/splitish/info.json,1,0,0
 splitkb/aurora/corne/rev1,keyboards/splitkb/aurora/corne/rev1/info.json,3,0,1
 splitkb/aurora/lily58/rev1,keyboards/splitkb/aurora/lily58/rev1/info.json,2,0,1
 splitkb/aurora/sweep/rev1,keyboards/splitkb/aurora/sweep/rev1/info.json,2,0,1
-splitkb/kyria/rev1,keyboards/splitkb/kyria/rev1/info.json,36,3,16
-splitkb/kyria/rev1/proton_c,keyboards/splitkb/kyria/rev1/info.json,36,3,16
-splitkb/kyria/rev2,keyboards/splitkb/kyria/rev2/info.json,36,3,16
-splitkb/kyria/rev2/proton_c,keyboards/splitkb/kyria/rev2/info.json,36,3,16
+splitkb/kyria/rev1,keyboards/splitkb/kyria/rev1/info.json,37,2,16
+splitkb/kyria/rev1/proton_c,keyboards/splitkb/kyria/rev1/info.json,37,2,16
+splitkb/kyria/rev2,keyboards/splitkb/kyria/rev2/info.json,37,2,16
+splitkb/kyria/rev2/proton_c,keyboards/splitkb/kyria/rev2/info.json,37,2,16
+splitkb/kyria/rev3,keyboards/splitkb/kyria/rev3/info.json,37,2,16
 splitkb/zima,keyboards/splitkb/zima/info.json,3,0,0
 splitography,keyboards/splitography/info.json,5,0,5
 splitty/rev1,keyboards/splitty/info.json,1,0,0
@@ -2708,6 +2713,8 @@ wuque/mammoth75x,keyboards/wuque/mammoth75x/info.json,7,0,0
 wuque/promise87/ansi,keyboards/wuque/promise87/ansi/info.json,9,0,0
 wuque/promise87/wkl,keyboards/wuque/promise87/wkl/info.json,9,0,0
 wuque/serneity65,keyboards/wuque/serneity65/info.json,6,0,0
+wuque/tata80/wk,keyboards/wuque/tata80/wk/info.json,2,0,0
+wuque/tata80/wkl,keyboards/wuque/tata80/wkl/info.json,2,0,0
 x16,keyboards/x16/info.json,1,0,0
 xbows/knight,keyboards/xbows/knight/info.json,2,0,0
 xbows/knight_plus,keyboards/xbows/knight_plus/info.json,2,0,0

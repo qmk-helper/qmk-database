@@ -1136,6 +1136,10 @@
     "path": "keyboards/bioi/s65/info.json"
   },
   {
+    "name": "black_hellebore",
+    "path": "keyboards/black_hellebore/info.json"
+  },
+  {
     "name": "blackplum",
     "path": "keyboards/blackplum/info.json"
   },
@@ -3956,6 +3960,10 @@
     "path": "keyboards/handwired/jscotto/scotto36/info.json"
   },
   {
+    "name": "handwired/jscotto/scotto40",
+    "path": "keyboards/handwired/jscotto/scotto40/info.json"
+  },
+  {
     "name": "handwired/jscotto/scotto9",
     "path": "keyboards/handwired/jscotto/scotto9/info.json"
   },
@@ -4134,6 +4142,10 @@
   {
     "name": "handwired/onekey/kb2040",
     "path": "keyboards/handwired/onekey/kb2040/info.json"
+  },
+  {
+    "name": "handwired/onekey/nucleo_f446re",
+    "path": "keyboards/handwired/onekey/nucleo_f446re/info.json"
   },
   {
     "name": "handwired/onekey/nucleo_l432kc",
@@ -7488,6 +7500,10 @@
     "path": "keyboards/mino/hotswap/info.json"
   },
   {
+    "name": "mino_plus/soldered",
+    "path": "keyboards/mino_plus/soldered/info.json"
+  },
+  {
     "name": "mint60",
     "path": "keyboards/mint60/info.json"
   },
@@ -9716,6 +9732,10 @@
     "path": "keyboards/splitkb/kyria/rev2/info.json"
   },
   {
+    "name": "splitkb/kyria/rev3",
+    "path": "keyboards/splitkb/kyria/rev3/info.json"
+  },
+  {
     "name": "splitkb/zima",
     "path": "keyboards/splitkb/zima/info.json"
   },
@@ -10834,6 +10854,14 @@
   {
     "name": "wuque/serneity65",
     "path": "keyboards/wuque/serneity65/info.json"
+  },
+  {
+    "name": "wuque/tata80/wk",
+    "path": "keyboards/wuque/tata80/wk/info.json"
+  },
+  {
+    "name": "wuque/tata80/wkl",
+    "path": "keyboards/wuque/tata80/wkl/info.json"
   },
   {
     "name": "x16",
