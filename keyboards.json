@@ -848,6 +848,10 @@
     "path": "keyboards/baguette/info.json"
   },
   {
+    "name": "baion_808",
+    "path": "keyboards/baion_808/info.json"
+  },
+  {
     "name": "bajjak",
     "path": "keyboards/bajjak/info.json"
   },
@@ -2642,6 +2646,10 @@
   {
     "name": "edi/standaside",
     "path": "keyboards/edi/standaside/info.json"
+  },
+  {
+    "name": "edinburgh41",
+    "path": "keyboards/edinburgh41/info.json"
   },
   {
     "name": "eek/silk_down",
@@ -8096,7 +8104,11 @@
     "path": "keyboards/nullbitsco/nibble/info.json"
   },
   {
-    "name": "nullbitsco/scramble",
+    "name": "nullbitsco/scramble/v1",
+    "path": "keyboards/nullbitsco/scramble/info.json"
+  },
+  {
+    "name": "nullbitsco/scramble/v2",
     "path": "keyboards/nullbitsco/scramble/info.json"
   },
   {
@@ -10706,6 +10718,10 @@
   {
     "name": "winry/winry315",
     "path": "keyboards/winry/winry315/info.json"
+  },
+  {
+    "name": "wolf/frogpad",
+    "path": "keyboards/wolf/frogpad/info.json"
   },
   {
     "name": "wolf/kuku65",
