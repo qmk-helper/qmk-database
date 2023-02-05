@@ -211,6 +211,7 @@ aya,keyboards/aya/info.json,1,0,0
 b_sides/rev41lp,keyboards/b_sides/rev41lp/info.json,3,0,1
 bacca70,keyboards/bacca70/info.json,4,0,0
 baguette,keyboards/baguette/info.json,2,0,0
+baion_808,keyboards/baion_808/info.json,6,1,2
 bajjak,keyboards/bajjak/info.json,2,0,2
 balloondogcaps/tr90,keyboards/balloondogcaps/tr90/info.json,2,0,0
 balloondogcaps/tr90pm,keyboards/balloondogcaps/tr90pm/info.json,2,0,0
@@ -660,6 +661,7 @@ edda,keyboards/edda/info.json,5,2,3
 edi/hardlight/mk1,keyboards/edi/hardlight/mk1/info.json,1,0,0
 edi/hardlight/mk2,keyboards/edi/hardlight/mk2/info.json,2,0,0
 edi/standaside,keyboards/edi/standaside/info.json,1,0,0
+edinburgh41,keyboards/edinburgh41/info.json,2,0,0
 eek/silk_down,keyboards/eek/info.json,3,1,1
 eek/silk_up,keyboards/eek/info.json,3,1,1
 efreet,keyboards/efreet/info.json,34,4,20
@@ -938,7 +940,7 @@ handwired/dactyl_left,keyboards/handwired/dactyl_left/info.json,1,0,0
 handwired/dactyl_manuform/3x5_3,keyboards/handwired/dactyl_manuform/3x5_3/info.json,3,1,1
 handwired/dactyl_manuform/4x5,keyboards/handwired/dactyl_manuform/4x5/info.json,4,1,2
 handwired/dactyl_manuform/4x5_5,keyboards/handwired/dactyl_manuform/4x5_5/info.json,2,0,2
-handwired/dactyl_manuform/4x6,keyboards/handwired/dactyl_manuform/4x6/info.json,4,1,3
+handwired/dactyl_manuform/4x6,keyboards/handwired/dactyl_manuform/4x6/info.json,5,1,3
 handwired/dactyl_manuform/4x6_5,keyboards/handwired/dactyl_manuform/4x6_5/info.json,2,1,1
 handwired/dactyl_manuform/5x6,keyboards/handwired/dactyl_manuform/5x6/info.json,11,1,6
 handwired/dactyl_manuform/5x6_2_5,keyboards/handwired/dactyl_manuform/5x6_2_5/info.json,1,0,1
@@ -2023,7 +2025,8 @@ noxary/vulcan,keyboards/noxary/vulcan/info.json,2,0,0
 noxary/x268,keyboards/noxary/x268/info.json,2,0,0
 np12,keyboards/np12/info.json,2,0,0
 nullbitsco/nibble,keyboards/nullbitsco/nibble/info.json,7,0,0
-nullbitsco/scramble,keyboards/nullbitsco/scramble/info.json,3,0,0
+nullbitsco/scramble/v1,keyboards/nullbitsco/scramble/info.json,3,0,0
+nullbitsco/scramble/v2,keyboards/nullbitsco/scramble/info.json,3,0,0
 nullbitsco/tidbit,keyboards/nullbitsco/tidbit/info.json,4,0,0
 numatreus,keyboards/numatreus/info.json,4,0,2
 nyhxis/nfr_70,keyboards/nyhxis/nfr_70/info.json,3,0,0
@@ -2278,7 +2281,7 @@ redscarf_iiplus/verd,keyboards/redscarf_iiplus/verd/info.json,2,0,0
 retro_75,keyboards/retro_75/info.json,2,0,0
 reversestudio/decadepad,keyboards/reversestudio/decadepad/info.json,2,0,0
 reviung/reviung33,keyboards/reviung/reviung33/info.json,2,0,1
-reviung/reviung34,keyboards/reviung/reviung34/info.json,5,0,1
+reviung/reviung34,keyboards/reviung/reviung34/info.json,6,0,1
 reviung/reviung39,keyboards/reviung/reviung39/info.json,4,0,0
 reviung/reviung41,keyboards/reviung/reviung41/info.json,3,0,1
 reviung/reviung5,keyboards/reviung/reviung5/info.json,3,0,0
@@ -2676,6 +2679,7 @@ winkeyless/bminiex,keyboards/winkeyless/bminiex/info.json,4,0,0
 winkeys/mini_winni,keyboards/winkeys/mini_winni/info.json,2,0,0
 winry/winry25tc,keyboards/winry/winry25tc/info.json,1,0,0
 winry/winry315,keyboards/winry/winry315/info.json,3,1,0
+wolf/frogpad,keyboards/wolf/frogpad/info.json,2,0,0
 wolf/kuku65,keyboards/wolf/kuku65/info.json,2,0,0
 wolf/ryujin,keyboards/wolf/ryujin/info.json,2,0,0
 wolf/sabre,keyboards/wolf/sabre/info.json,2,0,0
