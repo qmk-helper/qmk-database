@@ -11,6 +11,7 @@ name,path,keymap_count,no_cpp_count,error_count
 1upkeyboards/1up60hte,keyboards/1upkeyboards/1up60hte/info.json,11,1,4
 1upkeyboards/1up60rgb,keyboards/1upkeyboards/1up60rgb/info.json,22,4,14
 1upkeyboards/pi40,keyboards/1upkeyboards/pi40/info.json,2,0,0
+1upkeyboards/pi60,keyboards/1upkeyboards/pi60/info.json,2,0,0
 1upkeyboards/pi60_hse,keyboards/1upkeyboards/pi60_hse/info.json,2,0,0
 1upkeyboards/pi60_rgb,keyboards/1upkeyboards/pi60_rgb/info.json,2,0,0
 1upkeyboards/super16,keyboards/1upkeyboards/super16/info.json,6,0,0
@@ -326,6 +327,7 @@ bpiphany/pegasushoof/2015,keyboards/bpiphany/pegasushoof/2015/info.json,8,1,2
 bpiphany/sixshooter,keyboards/bpiphany/sixshooter/info.json,1,0,0
 bpiphany/tiger_lily,keyboards/bpiphany/tiger_lily/info.json,3,0,0
 bpiphany/unloved_bastard,keyboards/bpiphany/unloved_bastard/info.json,7,1,3
+brick,keyboards/brick/info.json,2,0,0
 bt66tech/bt66tech60,keyboards/bt66tech/bt66tech60/info.json,8,2,5
 bthlabs/geekpad,keyboards/bthlabs/geekpad/info.json,1,0,0
 bubble75/hotswap,keyboards/bubble75/hotswap/info.json,2,0,0
@@ -651,6 +653,7 @@ dztech/tofu/jr/v1,keyboards/dztech/tofu/jr/v1/info.json,2,0,0
 e88,keyboards/e88/info.json,2,0,0
 ealdin/quadrant,keyboards/ealdin/quadrant/info.json,4,0,2
 earth_rover,keyboards/earth_rover/info.json,1,0,0
+eason/aeroboard,keyboards/eason/aeroboard/info.json,2,0,0
 eason/capsule65,keyboards/eason/capsule65/info.json,10,0,7
 ebastler/e80_1800,keyboards/ebastler/e80_1800/info.json,7,0,0
 ebastler/isometria_75/rev1,keyboards/ebastler/isometria_75/rev1/info.json,2,0,0
@@ -1050,6 +1053,7 @@ handwired/onekey/teensy_2pp,keyboards/handwired/onekey/teensy_2pp/info.json,18,0
 handwired/onekey/teensy_32,keyboards/handwired/onekey/teensy_32/info.json,18,0,4
 handwired/onekey/teensy_35,keyboards/handwired/onekey/teensy_35/info.json,18,0,4
 handwired/onekey/teensy_lc,keyboards/handwired/onekey/teensy_lc/info.json,18,0,4
+handwired/orbweaver,keyboards/handwired/orbweaver/info.json,1,0,0
 handwired/ortho5x13,keyboards/handwired/ortho5x13/info.json,1,0,0
 handwired/ortho5x14,keyboards/handwired/ortho5x14/info.json,3,0,1
 handwired/ortho_brass,keyboards/handwired/ortho_brass/info.json,31,3,19
@@ -1376,6 +1380,7 @@ kbdfans/tiger80,keyboards/kbdfans/tiger80/info.json,4,0,0
 kbnordic/nordic60/rev_a,keyboards/kbnordic/nordic60/rev_a/info.json,4,0,0
 kc60,keyboards/kc60/info.json,15,2,6
 kc60se,keyboards/kc60se/info.json,15,3,10
+keebformom,keyboards/keebformom/info.json,2,1,1
 keebio/bamfk1,keyboards/keebio/bamfk1/info.json,2,0,0
 keebio/bamfk4,keyboards/keebio/bamfk4/info.json,2,0,0
 keebio/bdn9/rev1,keyboards/keebio/bdn9/rev1/info.json,15,0,2
@@ -1446,7 +1451,8 @@ keycapsss/o4l_5x12,keyboards/keycapsss/o4l_5x12/info.json,12,1,9
 keycapsss/plaid_pad/rev1,keyboards/keycapsss/plaid_pad/rev1/info.json,4,0,0
 keycapsss/plaid_pad/rev2,keyboards/keycapsss/plaid_pad/rev2/info.json,4,0,0
 keycapsss/plaid_pad/rev3,keyboards/keycapsss/plaid_pad/rev3/info.json,4,0,0
-keychron/q0/rev_0130,keyboards/keychron/q0/rev_0130/info.json,2,0,0
+keychron/q0/rev_0130,keyboards/keychron/q0/rev_0130/info.json,3,0,1
+keychron/q0/rev_0131,keyboards/keychron/q0/rev_0131/info.json,3,0,1
 keychron/q1/ansi,keyboards/keychron/q1/ansi/info.json,6,0,1
 keychron/q1/ansi_encoder,keyboards/keychron/q1/ansi_encoder/info.json,3,0,1
 keychron/q1/iso,keyboards/keychron/q1/iso/info.json,6,0,1
@@ -1494,6 +1500,8 @@ keychron/v1/iso,keyboards/keychron/v1/iso/info.json,3,0,1
 keychron/v1/iso_encoder,keyboards/keychron/v1/iso_encoder/info.json,3,0,1
 keychron/v1/jis,keyboards/keychron/v1/jis/info.json,3,0,1
 keychron/v1/jis_encoder,keyboards/keychron/v1/jis_encoder/info.json,3,0,1
+keychron/v10/ansi_encoder,keyboards/keychron/v10/ansi_encoder/info.json,3,0,1
+keychron/v10/iso_encoder,keyboards/keychron/v10/iso_encoder/info.json,3,0,1
 keychron/v2/ansi,keyboards/keychron/v2/ansi/info.json,3,0,1
 keychron/v2/ansi_encoder,keyboards/keychron/v2/ansi_encoder/info.json,3,0,1
 keychron/v2/iso,keyboards/keychron/v2/iso/info.json,3,0,1
@@ -1512,6 +1520,10 @@ keychron/v5/ansi,keyboards/keychron/v5/ansi/info.json,3,0,1
 keychron/v5/ansi_encoder,keyboards/keychron/v5/ansi_encoder/info.json,3,0,1
 keychron/v5/iso,keyboards/keychron/v5/iso/info.json,3,0,1
 keychron/v5/iso_encoder,keyboards/keychron/v5/iso_encoder/info.json,3,0,1
+keychron/v6/ansi,keyboards/keychron/v6/ansi/info.json,3,0,2
+keychron/v6/ansi_encoder,keyboards/keychron/v6/ansi_encoder/info.json,3,0,1
+keychron/v6/iso,keyboards/keychron/v6/iso/info.json,3,0,1
+keychron/v6/iso_encoder,keyboards/keychron/v6/iso_encoder/info.json,3,0,1
 keychron/v7/ansi,keyboards/keychron/v7/ansi/info.json,3,0,1
 keychron/v7/iso,keyboards/keychron/v7/iso/info.json,3,0,1
 keychron/v8/ansi,keyboards/keychron/v8/ansi/info.json,3,0,1
@@ -1657,7 +1669,7 @@ lazydesigners/the40,keyboards/lazydesigners/the40/info.json,3,0,0
 lazydesigners/the50,keyboards/lazydesigners/the50/info.json,2,0,0
 lazydesigners/the60/rev1,keyboards/lazydesigners/the60/rev1/info.json,1,0,0
 lazydesigners/the60/rev2,keyboards/lazydesigners/the60/rev2/info.json,2,0,0
-leafcutterlabs/bigknob,keyboards/leafcutterlabs/bigknob/info.json,1,0,0
+leafcutterlabs/bigknob,keyboards/leafcutterlabs/bigknob/info.json,2,0,0
 leeku/finger65,keyboards/leeku/finger65/info.json,2,0,0
 lefty/rev1,keyboards/lefty/info.json,2,0,0
 lefty/rev2,keyboards/lefty/info.json,2,0,0
@@ -1835,6 +1847,7 @@ mechwild/waka60/f401,keyboards/mechwild/waka60/info.json,3,0,0
 mechwild/waka60/f401/eeprom,keyboards/mechwild/waka60/info.json,3,0,0
 mechwild/waka60/f411,keyboards/mechwild/waka60/info.json,3,0,0
 mechwild/waka60/f411/eeprom,keyboards/mechwild/waka60/info.json,3,0,0
+mecxlabs/mp1,keyboards/mecxlabs/mp1/info.json,1,0,0
 mehkee96,keyboards/mehkee96/info.json,2,0,1
 meletrix/zoom65,keyboards/meletrix/zoom65/info.json,15,0,6
 meletrix/zoom65_lite,keyboards/meletrix/zoom65_lite/info.json,15,0,6
@@ -1886,6 +1899,7 @@ mitosis,keyboards/mitosis/info.json,4,0,0
 miuni32,keyboards/miuni32/info.json,4,0,0
 mixi,keyboards/mixi/info.json,2,0,0
 mk65,keyboards/mk65/info.json,2,0,0
+mkh_studio/bully,keyboards/mkh_studio/bully/info.json,2,0,0
 ml/gas75,keyboards/ml/gas75/info.json,2,0,2
 mlego/m48/rev1,keyboards/mlego/m48/rev1/info.json,32,3,19
 mlego/m60/rev1,keyboards/mlego/m60/rev1/info.json,12,1,9
@@ -2218,6 +2232,8 @@ quad_h/lb75,keyboards/quad_h/lb75/info.json,4,0,0
 quantrik/kyuu,keyboards/quantrik/kyuu/info.json,2,0,0
 quarkeys/z60/hotswap,keyboards/quarkeys/z60/hotswap/info.json,2,0,0
 quarkeys/z60/solder,keyboards/quarkeys/z60/solder/info.json,2,0,0
+quarkeys/z67/hotswap,keyboards/quarkeys/z67/hotswap/info.json,2,0,0
+quarkeys/z67/solder,keyboards/quarkeys/z67/solder/info.json,2,0,0
 qvex/lynepad,keyboards/qvex/lynepad/info.json,1,0,0
 qwertlekeys/calice,keyboards/qwertlekeys/calice/info.json,2,0,0
 qwertykeys/qk65/hotswap,keyboards/qwertykeys/qk65/hotswap/info.json,6,0,4

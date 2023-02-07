@@ -48,6 +48,10 @@
     "path": "keyboards/1upkeyboards/pi40/info.json"
   },
   {
+    "name": "1upkeyboards/pi60",
+    "path": "keyboards/1upkeyboards/pi60/info.json"
+  },
+  {
     "name": "1upkeyboards/pi60_hse",
     "path": "keyboards/1upkeyboards/pi60_hse/info.json"
   },
@@ -1306,6 +1310,10 @@
   {
     "name": "bpiphany/unloved_bastard",
     "path": "keyboards/bpiphany/unloved_bastard/info.json"
+  },
+  {
+    "name": "brick",
+    "path": "keyboards/brick/info.json"
   },
   {
     "name": "bt66tech/bt66tech60",
@@ -2606,6 +2614,10 @@
   {
     "name": "earth_rover",
     "path": "keyboards/earth_rover/info.json"
+  },
+  {
+    "name": "eason/aeroboard",
+    "path": "keyboards/eason/aeroboard/info.json"
   },
   {
     "name": "eason/capsule65",
@@ -4204,6 +4216,10 @@
     "path": "keyboards/handwired/onekey/teensy_lc/info.json"
   },
   {
+    "name": "handwired/orbweaver",
+    "path": "keyboards/handwired/orbweaver/info.json"
+  },
+  {
     "name": "handwired/ortho5x13",
     "path": "keyboards/handwired/ortho5x13/info.json"
   },
@@ -5508,6 +5524,10 @@
     "path": "keyboards/kc60se/info.json"
   },
   {
+    "name": "keebformom",
+    "path": "keyboards/keebformom/info.json"
+  },
+  {
     "name": "keebio/bamfk1",
     "path": "keyboards/keebio/bamfk1/info.json"
   },
@@ -5792,6 +5812,10 @@
     "path": "keyboards/keychron/q0/rev_0130/info.json"
   },
   {
+    "name": "keychron/q0/rev_0131",
+    "path": "keyboards/keychron/q0/rev_0131/info.json"
+  },
+  {
     "name": "keychron/q1/ansi",
     "path": "keyboards/keychron/q1/ansi/info.json"
   },
@@ -5980,6 +6004,14 @@
     "path": "keyboards/keychron/v1/jis_encoder/info.json"
   },
   {
+    "name": "keychron/v10/ansi_encoder",
+    "path": "keyboards/keychron/v10/ansi_encoder/info.json"
+  },
+  {
+    "name": "keychron/v10/iso_encoder",
+    "path": "keyboards/keychron/v10/iso_encoder/info.json"
+  },
+  {
     "name": "keychron/v2/ansi",
     "path": "keyboards/keychron/v2/ansi/info.json"
   },
@@ -6050,6 +6082,22 @@
   {
     "name": "keychron/v5/iso_encoder",
     "path": "keyboards/keychron/v5/iso_encoder/info.json"
+  },
+  {
+    "name": "keychron/v6/ansi",
+    "path": "keyboards/keychron/v6/ansi/info.json"
+  },
+  {
+    "name": "keychron/v6/ansi_encoder",
+    "path": "keyboards/keychron/v6/ansi_encoder/info.json"
+  },
+  {
+    "name": "keychron/v6/iso",
+    "path": "keyboards/keychron/v6/iso/info.json"
+  },
+  {
+    "name": "keychron/v6/iso_encoder",
+    "path": "keyboards/keychron/v6/iso_encoder/info.json"
   },
   {
     "name": "keychron/v7/ansi",
@@ -7344,6 +7392,10 @@
     "path": "keyboards/mechwild/waka60/info.json"
   },
   {
+    "name": "mecxlabs/mp1",
+    "path": "keyboards/mecxlabs/mp1/info.json"
+  },
+  {
     "name": "mehkee96",
     "path": "keyboards/mehkee96/info.json"
   },
@@ -7546,6 +7598,10 @@
   {
     "name": "mk65",
     "path": "keyboards/mk65/info.json"
+  },
+  {
+    "name": "mkh_studio/bully",
+    "path": "keyboards/mkh_studio/bully/info.json"
   },
   {
     "name": "ml/gas75",
@@ -8874,6 +8930,14 @@
   {
     "name": "quarkeys/z60/solder",
     "path": "keyboards/quarkeys/z60/solder/info.json"
+  },
+  {
+    "name": "quarkeys/z67/hotswap",
+    "path": "keyboards/quarkeys/z67/hotswap/info.json"
+  },
+  {
+    "name": "quarkeys/z67/solder",
+    "path": "keyboards/quarkeys/z67/solder/info.json"
   },
   {
     "name": "qvex/lynepad",
