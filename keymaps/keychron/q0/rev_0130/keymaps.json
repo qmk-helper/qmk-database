@@ -1,1 +1,1 @@
-[{"name": "default", "path": "keyboards/keychron/q0/rev_0130/keymaps/default"}, {"name": "via", "path": "keyboards/keychron/q0/rev_0130/keymaps/via"}]
+[{"name": "default", "path": "keyboards/keychron/q0/rev_0130/keymaps/default"}, {"name": "keychron", "path": "keyboards/keychron/q0/rev_0130/keymaps/keychron", "error": "Unknown"}, {"name": "via", "path": "keyboards/keychron/q0/rev_0130/keymaps/via"}]
