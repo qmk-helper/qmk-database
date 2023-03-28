@@ -1,1 +1,1 @@
-[{"name": "default", "path": "keyboards/bpiphany/ghost_squid/keymaps/default"}]
+[{"name": "default", "path": "keyboards/bpiphany/ghost_squid/keymaps/default"}, {"name": "default_fullsize_ansi", "path": "layouts/default/fullsize_ansi/default_fullsize_ansi"}, {"name": "default_fullsize_iso", "path": "layouts/default/fullsize_iso/default_fullsize_iso"}]

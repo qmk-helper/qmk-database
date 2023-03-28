@@ -1,1 +1,1 @@
-[{"name": "default", "path": "keyboards/dztech/tofu/jr/keymaps/default"}, {"name": "via", "path": "keyboards/dztech/tofu/jr/keymaps/via"}]
+[{"name": "default", "path": "keyboards/dztech/tofu/jr/keymaps/default"}, {"name": "via", "path": "keyboards/dztech/tofu/jr/keymaps/via"}, {"name": "mechmerlin", "path": "layouts/community/65_ansi/mechmerlin", "error": "Unknown"}, {"name": "yanfali", "path": "layouts/community/65_ansi/yanfali"}, {"name": "default_65_ansi", "path": "layouts/default/65_ansi/default_65_ansi"}]

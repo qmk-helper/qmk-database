@@ -1,1 +1,1 @@
-[{"name": "default", "path": "keyboards/atset/at16/keymaps/default"}, {"name": "via", "path": "keyboards/atset/at16/keymaps/via"}, {"name": "jotix", "path": "layouts/community/ortho_4x4/jotix"}]
+[{"name": "default", "path": "keyboards/atset/at16/keymaps/default"}, {"name": "via", "path": "keyboards/atset/at16/keymaps/via"}, {"name": "jotix", "path": "layouts/community/ortho_4x4/jotix"}, {"name": "default_ortho_4x4", "path": "layouts/default/ortho_4x4/default_ortho_4x4"}]

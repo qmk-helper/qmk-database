@@ -1,1 +1,1 @@
-[{"name": "default", "path": "keyboards/lfkeyboards/lfkpad/keymaps/default"}, {"name": "pascalpfeil", "path": "keyboards/lfkeyboards/lfkpad/keymaps/pascalpfeil"}, {"name": "via", "path": "keyboards/lfkeyboards/lfkpad/keymaps/via"}]
+[{"name": "default", "path": "keyboards/lfkeyboards/lfkpad/keymaps/default"}, {"name": "pascalpfeil", "path": "keyboards/lfkeyboards/lfkpad/keymaps/pascalpfeil"}, {"name": "via", "path": "keyboards/lfkeyboards/lfkpad/keymaps/via"}, {"name": "default_numpad_6x4", "path": "layouts/default/numpad_6x4/default_numpad_6x4"}]
