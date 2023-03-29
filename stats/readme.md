@@ -1,9 +1,9 @@
 # Statistics of last Build
 
-Date: 2023-02-14 10:34:27.332217
+Date: 2023-03-28 10:34:13.649222
 
-- Keyboards: 2872
+- Keyboards: 2936
   - without info.json: 0
-- Keymaps: 16317
-  - no-cpp: 876
-  - error: 5998
+- Keymaps: 18595
+  - no-cpp: 963
+  - error: 6544
