@@ -1,0 +1,1 @@
+{"keyboard": "handwired/phantagom/baragon", "keymap": "via", "layout": "LAYOUT", "layers": [["KC_P1", "KC_P2", "KC_P3", "KC_P4", "KC_P5", "KC_P6", "KC_P7", "KC_P8", "MO(1)", "KC_P9"], ["RGB_TOG", "RGB_MOD", "RGB_HUI", "KC_TRNS", "KC_TRNS", "KC_TRNS", "KC_TRNS", "KC_TRNS", "KC_TRNS", "KC_TRNS"]]}
