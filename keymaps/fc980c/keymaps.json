@@ -1,1 +1,1 @@
-[{"name": "actuation-point-example", "path": "keyboards/fc980c/keymaps/actuation-point-example", "error": "Unknown"}, {"name": "coloneljesus", "path": "keyboards/fc980c/keymaps/coloneljesus"}, {"name": "default", "path": "keyboards/fc980c/keymaps/default"}, {"name": "via", "path": "keyboards/fc980c/keymaps/via"}]
+[{"name": "default", "path": "/home/runner/work/qmk-database/qmk-database/qmk_firmware/keyboards/fc980c/keymaps/default"}, {"name": "via", "path": "/home/runner/work/qmk-database/qmk-database/qmk_firmware/keyboards/fc980c/keymaps/via"}]

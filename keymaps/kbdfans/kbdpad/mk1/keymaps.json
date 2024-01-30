@@ -1,1 +1,1 @@
-[{"name": "default", "path": "keyboards/kbdfans/kbdpad/mk1/keymaps/default"}, {"name": "default_numpad_6x4", "path": "layouts/default/numpad_6x4/default_numpad_6x4"}, {"name": "default_ortho_6x4", "path": "layouts/default/ortho_6x4/default_ortho_6x4"}]
+[{"name": "default", "path": "/home/runner/work/qmk-database/qmk-database/qmk_firmware/keyboards/kbdfans/kbdpad/mk1/keymaps/default"}, {"name": "default_numpad_6x4", "path": "layouts/default/numpad_6x4/default_numpad_6x4"}, {"name": "default_ortho_6x4", "path": "layouts/default/ortho_6x4/default_ortho_6x4"}]

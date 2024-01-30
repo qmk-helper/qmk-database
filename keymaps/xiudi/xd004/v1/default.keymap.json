@@ -1,1 +1,1 @@
-{"keyboard": "xiudi/xd004/v1", "keymap": "default", "layout": "LAYOUT_all", "layers": [["KC_L", "KC_O", "KC_V", "KC_E"]]}
+{"keyboard": "xiudi/xd004/v1", "keymap": "default", "layout": "LAYOUT_ortho_1x4", "layers": [["KC_L", "KC_O", "KC_V", "KC_E"]]}

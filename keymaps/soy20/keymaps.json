@@ -1,1 +1,1 @@
-[{"name": "default", "path": "keyboards/soy20/keymaps/default"}, {"name": "via", "path": "keyboards/soy20/keymaps/via"}, {"name": "default_ortho_5x4", "path": "layouts/default/ortho_5x4/default_ortho_5x4"}]
+[{"name": "default", "path": "/home/runner/work/qmk-database/qmk-database/qmk_firmware/keyboards/soy20/keymaps/default"}, {"name": "via", "path": "/home/runner/work/qmk-database/qmk-database/qmk_firmware/keyboards/soy20/keymaps/via"}, {"name": "default_ortho_5x4", "path": "layouts/default/ortho_5x4/default_ortho_5x4"}]

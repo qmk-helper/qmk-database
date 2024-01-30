@@ -1,1 +1,0 @@
-{"keyboard": "keebio/bdn9/rev1", "keymap": "codecoffeecode", "layout": "LAYOUT", "layers": [["KC_MUTE", "KC_UP", "KC_MPLY", "KC_LEFT", "KC_DOWN", "KC_RIGHT", "KC_MPRV", "MO(1)", "KC_MNXT"], ["QK_BOOT", "KC_HOME", "KC_STOP", "KC_TRNS", "KC_END", "KC_TRNS", "LCTL(KC_END)", "KC_TRNS", "LCTL(KC_HOME)"]]}

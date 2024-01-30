@@ -1,1 +1,1 @@
-[{"name": "default", "path": "keyboards/kiwikey/wanderland/keymaps/default"}, {"name": "stanrc85", "path": "keyboards/kiwikey/wanderland/keymaps/stanrc85", "error": "Unknown"}, {"name": "via", "path": "keyboards/kiwikey/wanderland/keymaps/via"}]
+[{"name": "default", "path": "/home/runner/work/qmk-database/qmk-database/qmk_firmware/keyboards/kiwikey/wanderland/keymaps/default"}, {"name": "via", "path": "/home/runner/work/qmk-database/qmk-database/qmk_firmware/keyboards/kiwikey/wanderland/keymaps/via"}]

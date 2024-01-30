@@ -1,1 +1,1 @@
-[{"name": "default", "path": "keyboards/jd40/keymaps/default"}, {"name": "myoung34", "path": "keyboards/jd40/keymaps/myoung34"}, {"name": "vanagon", "path": "keyboards/jd40/keymaps/vanagon", "error": "Unknown"}]
+[{"name": "default", "path": "/home/runner/work/qmk-database/qmk-database/qmk_firmware/keyboards/jd40/keymaps/default"}, {"name": "vanagon", "path": "/home/runner/work/qmk-database/qmk-database/qmk_firmware/keyboards/jd40/keymaps/vanagon", "error": "Unknown"}]

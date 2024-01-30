@@ -1,1 +1,1 @@
-[{"name": "default", "path": "keyboards/cipulot/ec_23u/keymaps/default"}, {"name": "numpad_6x4", "path": "keyboards/cipulot/ec_23u/keymaps/numpad_6x4"}, {"name": "via", "path": "keyboards/cipulot/ec_23u/keymaps/via"}]
+[{"name": "default", "path": "/home/runner/work/qmk-database/qmk-database/qmk_firmware/keyboards/cipulot/ec_23u/keymaps/default"}, {"name": "via", "path": "/home/runner/work/qmk-database/qmk-database/qmk_firmware/keyboards/cipulot/ec_23u/keymaps/via"}]

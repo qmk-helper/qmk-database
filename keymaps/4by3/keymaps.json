@@ -1,1 +1,1 @@
-[{"name": "arrowpad", "path": "keyboards/4by3/keymaps/arrowpad"}, {"name": "default", "path": "keyboards/4by3/keymaps/default"}, {"name": "funcpad_horizontal", "path": "keyboards/4by3/keymaps/funcpad_horizontal"}, {"name": "funcpad_vertical", "path": "keyboards/4by3/keymaps/funcpad_vertical"}, {"name": "numpad_horizontal", "path": "keyboards/4by3/keymaps/numpad_horizontal"}, {"name": "numpad_vertical", "path": "keyboards/4by3/keymaps/numpad_vertical"}]
+[{"name": "default", "path": "/home/runner/work/qmk-database/qmk-database/qmk_firmware/keyboards/4by3/keymaps/default"}]

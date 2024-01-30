@@ -1,1 +1,1 @@
-[{"name": "default", "path": "keyboards/gl516/n51gl/keymaps/default"}, {"name": "salicylic", "path": "keyboards/gl516/n51gl/keymaps/salicylic", "error": "Unknown"}, {"name": "via", "path": "keyboards/gl516/n51gl/keymaps/via"}]
+[{"name": "default", "path": "/home/runner/work/qmk-database/qmk-database/qmk_firmware/keyboards/gl516/n51gl/keymaps/default"}, {"name": "via", "path": "/home/runner/work/qmk-database/qmk-database/qmk_firmware/keyboards/gl516/n51gl/keymaps/via"}]

@@ -1,1 +1,1 @@
-[{"name": "default", "path": "keyboards/keyspensory/kp60/keymaps/default", "error": "No C file"}, {"name": "via", "path": "keyboards/keyspensory/kp60/keymaps/via", "error": "No C file"}]
+[{"name": "default", "path": "/home/runner/work/qmk-database/qmk-database/qmk_firmware/keyboards/keyspensory/kp60/keymaps/default", "error": "No C file"}, {"name": "via", "path": "/home/runner/work/qmk-database/qmk-database/qmk_firmware/keyboards/keyspensory/kp60/keymaps/via", "error": "No C file"}]

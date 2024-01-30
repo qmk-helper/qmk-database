@@ -1,1 +1,0 @@
-{"keyboard": "ploopyco/mouse", "keymap": "drashna", "layout": "LAYOUT", "layers": [["C(KC_C)", "KC_BTN1", "KC_BTN3", "KC_BTN2", "MO(1)", "KC_BTN4", "KC_BTN5", "DPI_CONFIG"], ["RGB_HUI", "RGB_MOD", "RGB_TOG", "RGB_RMOD", "MO(1)", "KC_VOLU", "KC_VOLD", "QK_BOOT"]]}

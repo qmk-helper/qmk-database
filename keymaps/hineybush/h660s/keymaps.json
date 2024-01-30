@@ -1,1 +1,1 @@
-[{"name": "default", "path": "keyboards/hineybush/h660s/keymaps/default"}, {"name": "via", "path": "keyboards/hineybush/h660s/keymaps/via"}]
+[{"name": "default", "path": "/home/runner/work/qmk-database/qmk-database/qmk_firmware/keyboards/hineybush/h660s/keymaps/default"}, {"name": "via", "path": "/home/runner/work/qmk-database/qmk-database/qmk_firmware/keyboards/hineybush/h660s/keymaps/via"}, {"name": "default_66_ansi", "path": "layouts/default/66_ansi/default_66_ansi"}, {"name": "default_66_iso", "path": "layouts/default/66_iso/default_66_iso"}]

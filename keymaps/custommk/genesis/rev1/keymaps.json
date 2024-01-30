@@ -1,1 +1,1 @@
-[{"name": "default", "path": "keyboards/custommk/genesis/rev1/keymaps/default"}, {"name": "numpad", "path": "keyboards/custommk/genesis/rev1/keymaps/numpad"}, {"name": "via", "path": "keyboards/custommk/genesis/rev1/keymaps/via"}]
+[{"name": "default", "path": "/home/runner/work/qmk-database/qmk-database/qmk_firmware/keyboards/custommk/genesis/rev1/keymaps/default"}, {"name": "via", "path": "/home/runner/work/qmk-database/qmk-database/qmk_firmware/keyboards/custommk/genesis/rev1/keymaps/via"}]

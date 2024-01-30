@@ -1,1 +1,1 @@
-[{"name": "default", "path": "keyboards/arisu/keymaps/default"}, {"name": "fate", "path": "keyboards/arisu/keymaps/fate"}, {"name": "kresnak", "path": "keyboards/arisu/keymaps/kresnak"}, {"name": "stanrc85", "path": "keyboards/arisu/keymaps/stanrc85", "error": "Unknown"}, {"name": "via", "path": "keyboards/arisu/keymaps/via"}]
+[{"name": "default", "path": "/home/runner/work/qmk-database/qmk-database/qmk_firmware/keyboards/arisu/keymaps/default"}, {"name": "via", "path": "/home/runner/work/qmk-database/qmk-database/qmk_firmware/keyboards/arisu/keymaps/via"}]
