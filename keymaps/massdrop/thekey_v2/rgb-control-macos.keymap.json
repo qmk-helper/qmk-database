@@ -1,1 +1,0 @@
-{"keyboard": "massdrop/thekey_v2", "keymap": "rgb-control-macos", "layout": "LAYOUT", "layers": [["LAYER_SWITCH", "G(KC_C)", "G(KC_V)"], ["LAYER_SWITCH", "RGB_TOG", "RGB_MOD"], ["LAYER_SWITCH", "RGB_VAD", "RGB_VAI"], ["LAYER_SWITCH", "RGB_HUD", "RGB_HUI"], ["LAYER_SWITCH", "RGB_SAD", "RGB_SAI"]]}

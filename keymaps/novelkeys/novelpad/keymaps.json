@@ -1,1 +1,1 @@
-[{"name": "0xdec", "path": "keyboards/novelkeys/novelpad/keymaps/0xdec"}, {"name": "default", "path": "keyboards/novelkeys/novelpad/keymaps/default"}, {"name": "default_ortho_5x4", "path": "layouts/default/ortho_5x4/default_ortho_5x4"}]
+[{"name": "default", "path": "/home/runner/work/qmk-database/qmk-database/qmk_firmware/keyboards/novelkeys/novelpad/keymaps/default"}, {"name": "default_ortho_5x4", "path": "layouts/default/ortho_5x4/default_ortho_5x4"}]

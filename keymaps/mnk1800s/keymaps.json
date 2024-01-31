@@ -1,1 +1,1 @@
-[{"name": "default", "path": "keyboards/mnk1800s/keymaps/default"}, {"name": "via", "path": "keyboards/mnk1800s/keymaps/via"}]
+[{"name": "default", "path": "/home/runner/work/qmk-database/qmk-database/qmk_firmware/keyboards/mnk1800s/keymaps/default"}, {"name": "default_2u_bs", "path": "/home/runner/work/qmk-database/qmk-database/qmk_firmware/keyboards/mnk1800s/keymaps/default_2u_bs"}, {"name": "via", "path": "/home/runner/work/qmk-database/qmk-database/qmk_firmware/keyboards/mnk1800s/keymaps/via"}]

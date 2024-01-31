@@ -1,1 +1,1 @@
-[{"name": "default", "path": "keyboards/jd45/keymaps/default"}, {"name": "mjt6u", "path": "keyboards/jd45/keymaps/mjt6u", "error": "Unknown"}, {"name": "talljoe", "path": "keyboards/jd45/keymaps/talljoe", "no-cpp": true, "error": "Unknown Error"}]
+[{"name": "default", "path": "/home/runner/work/qmk-database/qmk-database/qmk_firmware/keyboards/jd45/keymaps/default"}, {"name": "mjt6u", "path": "/home/runner/work/qmk-database/qmk-database/qmk_firmware/keyboards/jd45/keymaps/mjt6u", "error": "Unknown"}]

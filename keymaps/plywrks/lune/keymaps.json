@@ -1,1 +1,1 @@
-[{"name": "default", "path": "keyboards/plywrks/lune/keymaps/default"}, {"name": "via", "path": "keyboards/plywrks/lune/keymaps/via"}]
+[{"name": "default", "path": "/home/runner/work/qmk-database/qmk-database/qmk_firmware/keyboards/plywrks/lune/keymaps/default"}, {"name": "via", "path": "/home/runner/work/qmk-database/qmk-database/qmk_firmware/keyboards/plywrks/lune/keymaps/via"}, {"name": "default_alice", "path": "layouts/default/alice/default_alice"}, {"name": "default_alice_split_bs", "path": "layouts/default/alice_split_bs/default_alice_split_bs"}]

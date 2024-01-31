@@ -1,1 +1,1 @@
-[{"name": "default", "path": "keyboards/fr4/unix60/keymaps/default"}]
+[{"name": "default", "path": "/home/runner/work/qmk-database/qmk-database/qmk_firmware/keyboards/fr4/unix60/keymaps/default"}, {"name": "default_hhkb", "path": "/home/runner/work/qmk-database/qmk-database/qmk_firmware/keyboards/fr4/unix60/keymaps/default_hhkb"}, {"name": "default_hhkb_iso", "path": "/home/runner/work/qmk-database/qmk-database/qmk_firmware/keyboards/fr4/unix60/keymaps/default_hhkb_iso"}, {"name": "default_60_hhkb", "path": "layouts/default/60_hhkb/default_60_hhkb"}]

@@ -1,1 +1,1 @@
-[{"name": "default", "path": "keyboards/ein_60/keymaps/default"}, {"name": "klackygears", "path": "keyboards/ein_60/keymaps/klackygears", "error": "Unknown"}, {"name": "ledtest", "path": "keyboards/ein_60/keymaps/ledtest"}]
+[{"name": "default", "path": "/home/runner/work/qmk-database/qmk-database/qmk_firmware/keyboards/ein_60/keymaps/default"}, {"name": "ledtest", "path": "/home/runner/work/qmk-database/qmk-database/qmk_firmware/keyboards/ein_60/keymaps/ledtest"}]

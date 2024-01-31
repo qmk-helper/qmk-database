@@ -1,1 +1,0 @@
-{"keyboard": "anavi/macropad8", "keymap": "kodi", "layout": "LAYOUT_ortho_2x4", "layers": [["KC_ESC", "KC_UP", "KC_ENTER", "KC_X", "KC_LEFT", "KC_DOWN", "KC_RIGHT", "MO(1)"], ["RGB_TOG", "RGB_MOD", "RGB_M_R", "RGB_M_SN", "BL_TOGG", "BL_STEP", "BL_BRTG", "KC_TRNS"]]}

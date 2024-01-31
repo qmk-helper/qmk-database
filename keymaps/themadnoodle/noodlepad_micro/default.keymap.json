@@ -1,0 +1,1 @@
+{"keyboard": "themadnoodle/noodlepad_micro", "keymap": "default", "layout": "LAYOUT", "layers": [["KC_MPRV", "KC_MNXT", "KC_MSTP", "KC_MPLY", "KC_MSEL", "LT(2,KC_CALC)", "KC_MAIL", "LT(1, KC_MYCM)"], ["RGB_MOD", "RGB_RMOD", "RGB_VAD", "RGB_TOG", "RGB_VAI", "RGB_M_P", "RGB_M_B", "KC_TRNS"], ["KC_TRNS", "KC_TRNS", "KC_TRNS", "KC_TRNS", "KC_TRNS", "KC_TRNS", "KC_TRNS", "KC_TRNS"]]}

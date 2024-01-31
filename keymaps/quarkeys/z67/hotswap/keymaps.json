@@ -1,1 +1,1 @@
-[{"name": "default", "path": "keyboards/quarkeys/z67/hotswap/keymaps/default"}, {"name": "via", "path": "keyboards/quarkeys/z67/hotswap/keymaps/via"}]
+[{"name": "default", "path": "/home/runner/work/qmk-database/qmk-database/qmk_firmware/keyboards/quarkeys/z67/hotswap/keymaps/default"}, {"name": "via", "path": "/home/runner/work/qmk-database/qmk-database/qmk_firmware/keyboards/quarkeys/z67/hotswap/keymaps/via"}, {"name": "default_65_ansi_blocker", "path": "layouts/default/65_ansi_blocker/default_65_ansi_blocker"}]

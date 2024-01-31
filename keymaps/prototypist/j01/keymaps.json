@@ -1,1 +1,1 @@
-[{"name": "default", "path": "keyboards/prototypist/j01/keymaps/default"}, {"name": "via", "path": "keyboards/prototypist/j01/keymaps/via"}, {"name": "zyber", "path": "keyboards/prototypist/j01/keymaps/zyber", "error": "Unknown"}]
+[{"name": "default", "path": "/home/runner/work/qmk-database/qmk-database/qmk_firmware/keyboards/prototypist/j01/keymaps/default"}, {"name": "via", "path": "/home/runner/work/qmk-database/qmk-database/qmk_firmware/keyboards/prototypist/j01/keymaps/via"}]
