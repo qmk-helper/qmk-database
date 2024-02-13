@@ -1300,6 +1300,10 @@
     "path": "keyboards/binepad/bn009/r2/info.json"
   },
   {
+    "name": "binepad/bnk9",
+    "path": "keyboards/binepad/bnk9/info.json"
+  },
+  {
     "name": "binepad/bnr1/v1",
     "path": "keyboards/binepad/bnr1/v1/info.json"
   },
@@ -2704,12 +2708,20 @@
     "path": "keyboards/dnworks/frltkl/info.json"
   },
   {
+    "name": "dnworks/numpad",
+    "path": "keyboards/dnworks/numpad/info.json"
+  },
+  {
     "name": "dnworks/sbl",
     "path": "keyboards/dnworks/sbl/info.json"
   },
   {
     "name": "do60",
     "path": "keyboards/do60/info.json"
+  },
+  {
+    "name": "doio/kb04",
+    "path": "keyboards/doio/kb04/info.json"
   },
   {
     "name": "doio/kb12",
@@ -4008,6 +4020,10 @@
     "path": "keyboards/gkeyboard/gpad8_2r/info.json"
   },
   {
+    "name": "gkeyboard/greatpad",
+    "path": "keyboards/gkeyboard/greatpad/info.json"
+  },
+  {
     "name": "gl516/a52gl",
     "path": "keyboards/gl516/a52gl/info.json"
   },
@@ -5082,6 +5098,10 @@
   {
     "name": "handwired/scottokeebs/scottocmd",
     "path": "keyboards/handwired/scottokeebs/scottocmd/info.json"
+  },
+  {
+    "name": "handwired/scottokeebs/scottodeck",
+    "path": "keyboards/handwired/scottokeebs/scottodeck/info.json"
   },
   {
     "name": "handwired/scottokeebs/scottoergo",
@@ -6820,6 +6840,10 @@
     "path": "keyboards/keycapsss/kimiko/rev1/info.json"
   },
   {
+    "name": "keycapsss/kimiko/rev2",
+    "path": "keyboards/keycapsss/kimiko/rev2/info.json"
+  },
+  {
     "name": "keycapsss/o4l_5x12",
     "path": "keyboards/keycapsss/o4l_5x12/info.json"
   },
@@ -7498,6 +7522,10 @@
   {
     "name": "kj_modify/rs40",
     "path": "keyboards/kj_modify/rs40/info.json"
+  },
+  {
+    "name": "kk/65",
+    "path": "keyboards/kk/65/info.json"
   },
   {
     "name": "kkatano/bakeneko60",
@@ -8560,6 +8588,18 @@
     "path": "keyboards/mechlovin/tmkl/info.json"
   },
   {
+    "name": "mechlovin/zed1800/oreum",
+    "path": "keyboards/mechlovin/zed1800/oreum/info.json"
+  },
+  {
+    "name": "mechlovin/zed1800/saber",
+    "path": "keyboards/mechlovin/zed1800/saber/info.json"
+  },
+  {
+    "name": "mechlovin/zed1800/zepsody",
+    "path": "keyboards/mechlovin/zed1800/zepsody/info.json"
+  },
+  {
     "name": "mechlovin/zed60",
     "path": "keyboards/mechlovin/zed60/info.json"
   },
@@ -8702,6 +8742,10 @@
   {
     "name": "meetlab/kalice",
     "path": "keyboards/meetlab/kalice/info.json"
+  },
+  {
+    "name": "meetlab/rena",
+    "path": "keyboards/meetlab/rena/info.json"
   },
   {
     "name": "mehkee96",
@@ -8986,6 +9030,10 @@
   {
     "name": "mntre",
     "path": "keyboards/mntre/info.json"
+  },
+  {
+    "name": "mntre_v3",
+    "path": "keyboards/mntre_v3/info.json"
   },
   {
     "name": "mode/m256wh",
@@ -9542,6 +9590,10 @@
   {
     "name": "noxary/valhalla",
     "path": "keyboards/noxary/valhalla/info.json"
+  },
+  {
+    "name": "noxary/valhalla_v2",
+    "path": "keyboards/noxary/valhalla_v2/info.json"
   },
   {
     "name": "noxary/vulcan",
@@ -11132,6 +11184,10 @@
     "path": "keyboards/sets3n/kk980/info.json"
   },
   {
+    "name": "sha",
+    "path": "keyboards/sha/info.json"
+  },
+  {
     "name": "shambles",
     "path": "keyboards/shambles/info.json"
   },
@@ -11656,6 +11712,10 @@
     "path": "keyboards/synthlabs/060/info.json"
   },
   {
+    "name": "synthlabs/065",
+    "path": "keyboards/synthlabs/065/info.json"
+  },
+  {
     "name": "synthlabs/solo",
     "path": "keyboards/synthlabs/solo/info.json"
   },
@@ -11866,6 +11926,10 @@
   {
     "name": "themadnoodle/udon13",
     "path": "keyboards/themadnoodle/udon13/info.json"
+  },
+  {
+    "name": "theone",
+    "path": "keyboards/theone/info.json"
   },
   {
     "name": "thepanduuh/degenpad",
@@ -12522,6 +12586,10 @@
   {
     "name": "wilba_tech/wt65_h1",
     "path": "keyboards/wilba_tech/wt65_h1/info.json"
+  },
+  {
+    "name": "wilba_tech/wt65_h2",
+    "path": "keyboards/wilba_tech/wt65_h2/info.json"
   },
   {
     "name": "wilba_tech/wt65_xt",
