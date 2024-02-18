@@ -324,6 +324,7 @@ binepad/bn003,keyboards/binepad/bn003/info.json,2,0,0
 binepad/bn006,keyboards/binepad/bn006/info.json,3,0,0
 binepad/bn009/r1,keyboards/binepad/bn009/r1/info.json,2,0,2
 binepad/bn009/r2,keyboards/binepad/bn009/r2/info.json,2,0,2
+binepad/bnk9,keyboards/binepad/bnk9/info.json,2,0,0
 binepad/bnr1/v1,keyboards/binepad/bnr1/v1/info.json,4,0,0
 binepad/bnr1/v2,keyboards/binepad/bnr1/v2/info.json,4,0,0
 binepad/pixie,keyboards/binepad/pixie/info.json,2,0,0
@@ -675,8 +676,10 @@ dm9records/tartan,keyboards/dm9records/tartan/info.json,6,0,0
 dmqdesign/spin,keyboards/dmqdesign/spin/info.json,2,0,0
 dnworks/9973,keyboards/dnworks/9973/info.json,4,0,0
 dnworks/frltkl,keyboards/dnworks/frltkl/info.json,4,0,0
+dnworks/numpad,keyboards/dnworks/numpad/info.json,4,0,0
 dnworks/sbl,keyboards/dnworks/sbl/info.json,9,0,0
 do60,keyboards/do60/info.json,6,0,1
+doio/kb04,keyboards/doio/kb04/info.json,2,0,0
 doio/kb12,keyboards/doio/kb12/info.json,2,0,0
 doio/kb16/rev1,keyboards/doio/kb16/rev1/info.json,2,0,2
 doio/kb16/rev2,keyboards/doio/kb16/rev2/info.json,2,0,2
@@ -1001,6 +1004,7 @@ giabalanai,keyboards/giabalanai/info.json,7,0,7
 gizmo_engineering/gk6,keyboards/gizmo_engineering/gk6/info.json,4,0,0
 gkeyboard/gkb_m16,keyboards/gkeyboard/gkb_m16/info.json,2,0,0
 gkeyboard/gpad8_2r,keyboards/gkeyboard/gpad8_2r/info.json,2,0,0
+gkeyboard/greatpad,keyboards/gkeyboard/greatpad/info.json,2,0,0
 gl516/a52gl,keyboards/gl516/a52gl/info.json,3,0,1
 gl516/j73gl,keyboards/gl516/j73gl/info.json,3,0,3
 gl516/n51gl,keyboards/gl516/n51gl/info.json,2,0,0
@@ -1270,6 +1274,7 @@ handwired/scottokeebs/scotto61,keyboards/handwired/scottokeebs/scotto61/info.jso
 handwired/scottokeebs/scotto9,keyboards/handwired/scottokeebs/scotto9/info.json,2,0,0
 handwired/scottokeebs/scottoalp,keyboards/handwired/scottokeebs/scottoalp/info.json,1,0,0
 handwired/scottokeebs/scottocmd,keyboards/handwired/scottokeebs/scottocmd/info.json,1,0,0
+handwired/scottokeebs/scottodeck,keyboards/handwired/scottokeebs/scottodeck/info.json,1,0,0
 handwired/scottokeebs/scottoergo,keyboards/handwired/scottokeebs/scottoergo/info.json,2,0,0
 handwired/scottokeebs/scottofly,keyboards/handwired/scottokeebs/scottofly/info.json,2,0,0
 handwired/scottokeebs/scottofrog,keyboards/handwired/scottokeebs/scottofrog/info.json,1,0,0
@@ -1703,7 +1708,8 @@ keybee/keybee65,keyboards/keybee/keybee65/info.json,3,0,0
 keyboardio/atreus,keyboards/keyboardio/atreus/info.json,6,0,0
 keyboardio/model01,keyboards/keyboardio/model01/info.json,2,0,1
 keycapsss/3w6_2040,keyboards/keycapsss/3w6_2040/info.json,3,0,0
-keycapsss/kimiko/rev1,keyboards/keycapsss/kimiko/rev1/info.json,2,0,0
+keycapsss/kimiko/rev1,keyboards/keycapsss/kimiko/rev1/info.json,1,0,0
+keycapsss/kimiko/rev2,keyboards/keycapsss/kimiko/rev2/info.json,2,0,0
 keycapsss/o4l_5x12,keyboards/keycapsss/o4l_5x12/info.json,3,0,0
 keycapsss/plaid_pad/rev1,keyboards/keycapsss/plaid_pad/rev1/info.json,4,0,0
 keycapsss/plaid_pad/rev2,keyboards/keycapsss/plaid_pad/rev2/info.json,4,0,0
@@ -1874,6 +1880,7 @@ kiwikey/borderland,keyboards/kiwikey/borderland/info.json,2,0,0
 kiwikey/kawii9,keyboards/kiwikey/kawii9/info.json,2,0,0
 kiwikey/wanderland,keyboards/kiwikey/wanderland/info.json,2,0,0
 kj_modify/rs40,keyboards/kj_modify/rs40/info.json,1,0,0
+kk/65,keyboards/kk/65/info.json,3,0,0
 kkatano/bakeneko60,keyboards/kkatano/bakeneko60/info.json,5,0,0
 kkatano/bakeneko65/rev2,keyboards/kkatano/bakeneko65/rev2/info.json,3,0,0
 kkatano/bakeneko65/rev3,keyboards/kkatano/bakeneko65/rev3/info.json,6,0,0
@@ -2139,6 +2146,9 @@ mechlovin/pisces,keyboards/mechlovin/pisces/info.json,2,0,0
 mechlovin/serratus,keyboards/mechlovin/serratus/info.json,10,0,0
 mechlovin/th1800,keyboards/mechlovin/th1800/info.json,2,0,0
 mechlovin/tmkl,keyboards/mechlovin/tmkl/info.json,2,0,0
+mechlovin/zed1800/oreum,keyboards/mechlovin/zed1800/oreum/info.json,2,0,0
+mechlovin/zed1800/saber,keyboards/mechlovin/zed1800/saber/info.json,2,0,0
+mechlovin/zed1800/zepsody,keyboards/mechlovin/zed1800/zepsody/info.json,2,0,0
 mechlovin/zed60,keyboards/mechlovin/zed60/info.json,2,0,0
 mechlovin/zed65/910,keyboards/mechlovin/zed65/910/info.json,2,0,0
 mechlovin/zed65/mono_led,keyboards/mechlovin/zed65/mono_led/info.json,2,0,0
@@ -2175,6 +2185,7 @@ meetlab/kafka60,keyboards/meetlab/kafka60/info.json,3,0,0
 meetlab/kafka68,keyboards/meetlab/kafka68/info.json,3,0,0
 meetlab/kafkasplit,keyboards/meetlab/kafkasplit/info.json,2,0,0
 meetlab/kalice,keyboards/meetlab/kalice/info.json,2,0,0
+meetlab/rena,keyboards/meetlab/rena/info.json,2,0,0
 mehkee96,keyboards/mehkee96/info.json,2,0,0
 meletrix/zoom65,keyboards/meletrix/zoom65/info.json,13,0,0
 meletrix/zoom65_lite,keyboards/meletrix/zoom65_lite/info.json,13,0,0
@@ -2246,6 +2257,7 @@ mnk1800s,keyboards/mnk1800s/info.json,3,0,0
 mnk50,keyboards/mnk50/info.json,2,0,0
 mnk75,keyboards/mnk75/info.json,2,0,0
 mntre,keyboards/mntre/info.json,1,0,0
+mntre_v3,keyboards/mntre_v3/info.json,1,0,0
 mode/m256wh,keyboards/mode/m256wh/info.json,4,0,0
 mode/m256ws,keyboards/mode/m256ws/info.json,10,0,0
 mode/m60h,keyboards/mode/m60h/info.json,3,0,0
@@ -2385,6 +2397,7 @@ noxary/268_2_rgb,keyboards/noxary/268_2_rgb/info.json,2,0,0
 noxary/280,keyboards/noxary/280/info.json,2,0,0
 noxary/378,keyboards/noxary/378/info.json,2,0,0
 noxary/valhalla,keyboards/noxary/valhalla/info.json,2,0,0
+noxary/valhalla_v2,keyboards/noxary/valhalla_v2/info.json,2,0,0
 noxary/vulcan,keyboards/noxary/vulcan/info.json,2,0,0
 noxary/x268,keyboards/noxary/x268/info.json,2,0,0
 np12,keyboards/np12/info.json,2,0,0
@@ -2782,6 +2795,7 @@ sentraq/s65_plus,keyboards/sentraq/s65_plus/info.json,2,0,0
 sentraq/s65_x,keyboards/sentraq/s65_x/info.json,5,0,0
 sergiopoverony/creator_pro,keyboards/sergiopoverony/creator_pro/info.json,2,0,0
 sets3n/kk980,keyboards/sets3n/kk980/info.json,2,0,0
+sha,keyboards/sha/info.json,1,0,0
 shambles,keyboards/shambles/info.json,1,0,0
 shapeshifter4060,keyboards/shapeshifter4060/info.json,1,0,0
 sharkoon/skiller_sgk50_s3,keyboards/sharkoon/skiller_sgk50_s3/info.json,4,0,0
@@ -2913,6 +2927,7 @@ synapse,keyboards/synapse/info.json,2,0,0
 synthandkeys/bento_box,keyboards/synthandkeys/bento_box/info.json,1,0,0
 synthandkeys/the_debit_card,keyboards/synthandkeys/the_debit_card/info.json,1,0,0
 synthlabs/060,keyboards/synthlabs/060/info.json,9,0,0
+synthlabs/065,keyboards/synthlabs/065/info.json,6,0,0
 synthlabs/solo,keyboards/synthlabs/solo/info.json,4,0,1
 system76/launch_1,keyboards/system76/launch_1/info.json,1,0,0
 tacworks/tac_k1,keyboards/tacworks/tac_k1/info.json,6,0,0
@@ -2966,6 +2981,7 @@ themadnoodle/ncc1701kb/v2,keyboards/themadnoodle/ncc1701kb/v2/info.json,1,0,0
 themadnoodle/noodlepad,keyboards/themadnoodle/noodlepad/info.json,1,0,0
 themadnoodle/noodlepad_micro,keyboards/themadnoodle/noodlepad_micro/info.json,2,0,0
 themadnoodle/udon13,keyboards/themadnoodle/udon13/info.json,2,0,0
+theone,keyboards/theone/info.json,2,0,0
 thepanduuh/degenpad,keyboards/thepanduuh/degenpad/info.json,2,0,0
 thevankeyboards/bananasplit,keyboards/thevankeyboards/bananasplit/info.json,11,0,0
 thevankeyboards/caravan,keyboards/thevankeyboards/caravan/info.json,1,0,0
@@ -3130,6 +3146,7 @@ wilba_tech/wt65_fx,keyboards/wilba_tech/wt65_fx/info.json,6,0,0
 wilba_tech/wt65_g,keyboards/wilba_tech/wt65_g/info.json,10,0,0
 wilba_tech/wt65_g2,keyboards/wilba_tech/wt65_g2/info.json,2,0,0
 wilba_tech/wt65_h1,keyboards/wilba_tech/wt65_h1/info.json,3,0,0
+wilba_tech/wt65_h2,keyboards/wilba_tech/wt65_h2/info.json,2,0,0
 wilba_tech/wt65_xt,keyboards/wilba_tech/wt65_xt/info.json,3,0,0
 wilba_tech/wt65_xtx,keyboards/wilba_tech/wt65_xtx/info.json,2,0,0
 wilba_tech/wt69_a,keyboards/wilba_tech/wt69_a/info.json,2,0,0
