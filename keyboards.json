@@ -852,6 +852,10 @@
     "path": "keyboards/artemis/paragon/soldered/info.json"
   },
   {
+    "name": "artifact/lvl/rev_hs01",
+    "path": "keyboards/artifact/lvl/rev_hs01/info.json"
+  },
+  {
     "name": "ash1800",
     "path": "keyboards/ash1800/info.json"
   },
@@ -1544,6 +1548,10 @@
     "path": "keyboards/budgy/info.json"
   },
   {
+    "name": "buildakb/mw60",
+    "path": "keyboards/buildakb/mw60/info.json"
+  },
+  {
     "name": "buildakb/potato65",
     "path": "keyboards/buildakb/potato65/info.json"
   },
@@ -1992,6 +2000,10 @@
     "path": "keyboards/chlx/merro60/info.json"
   },
   {
+    "name": "chlx/ppr_merro60",
+    "path": "keyboards/chlx/ppr_merro60/info.json"
+  },
+  {
     "name": "chlx/str_merro60",
     "path": "keyboards/chlx/str_merro60/info.json"
   },
@@ -2246,6 +2258,10 @@
   {
     "name": "coban/pad9a",
     "path": "keyboards/coban/pad9a/info.json"
+  },
+  {
+    "name": "compensator",
+    "path": "keyboards/compensator/info.json"
   },
   {
     "name": "compound",
@@ -5460,6 +5476,18 @@
     "path": "keyboards/handwired/wwa/kepler/info.json"
   },
   {
+    "name": "handwired/wwa/mercury",
+    "path": "keyboards/handwired/wwa/mercury/info.json"
+  },
+  {
+    "name": "handwired/wwa/soyuz",
+    "path": "keyboards/handwired/wwa/soyuz/info.json"
+  },
+  {
+    "name": "handwired/wwa/soyuzxl",
+    "path": "keyboards/handwired/wwa/soyuzxl/info.json"
+  },
+  {
     "name": "handwired/xealous/rev1",
     "path": "keyboards/handwired/xealous/rev1/info.json"
   },
@@ -5926,6 +5954,10 @@
   {
     "name": "ilumkb/volcano660",
     "path": "keyboards/ilumkb/volcano660/info.json"
+  },
+  {
+    "name": "inett_studio/sq80/hotswap_layout_i",
+    "path": "keyboards/inett_studio/sq80/hotswap_layout_i/info.json"
   },
   {
     "name": "inett_studio/sqx/hotswap",
@@ -9128,6 +9160,10 @@
     "path": "keyboards/mokey/xox70hot/info.json"
   },
   {
+    "name": "moky/moky88",
+    "path": "keyboards/moky/moky88/info.json"
+  },
+  {
     "name": "molecule",
     "path": "keyboards/molecule/info.json"
   },
@@ -10882,6 +10918,10 @@
   {
     "name": "roseslite",
     "path": "keyboards/roseslite/info.json"
+  },
+  {
+    "name": "rot13labs/rotc0n",
+    "path": "keyboards/rot13labs/rotc0n/info.json"
   },
   {
     "name": "rotor",
