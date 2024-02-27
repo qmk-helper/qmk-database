@@ -212,6 +212,7 @@ arisu,keyboards/arisu/info.json,2,0,0
 arrayperipherals/1x4p1,keyboards/arrayperipherals/1x4p1/info.json,2,0,0
 artemis/paragon/hotswap,keyboards/artemis/paragon/hotswap/info.json,2,0,0
 artemis/paragon/soldered,keyboards/artemis/paragon/soldered/info.json,2,0,0
+artifact/lvl/rev_hs01,keyboards/artifact/lvl/rev_hs01/info.json,3,0,0
 ash1800,keyboards/ash1800/info.json,1,0,0
 ash_xiix,keyboards/ash_xiix/info.json,1,0,0
 ask55,keyboards/ask55/info.json,1,0,0
@@ -385,6 +386,7 @@ bt66tech/bt66tech60,keyboards/bt66tech/bt66tech60/info.json,3,0,0
 bthlabs/geekpad,keyboards/bthlabs/geekpad/info.json,1,0,0
 bubble75/hotswap,keyboards/bubble75/hotswap/info.json,2,0,0
 budgy,keyboards/budgy/info.json,2,0,0
+buildakb/mw60,keyboards/buildakb/mw60/info.json,15,0,0
 buildakb/potato65,keyboards/buildakb/potato65/info.json,3,0,0
 buildakb/potato65hs,keyboards/buildakb/potato65hs/info.json,3,0,0
 buildakb/potato65s,keyboards/buildakb/potato65s/info.json,6,0,0
@@ -497,6 +499,7 @@ cheshire/curiosity,keyboards/cheshire/curiosity/info.json,4,0,0
 chickenman/ciel,keyboards/chickenman/ciel/info.json,5,0,0
 chickenman/ciel65,keyboards/chickenman/ciel65/info.json,2,0,0
 chlx/merro60,keyboards/chlx/merro60/info.json,11,0,0
+chlx/ppr_merro60,keyboards/chlx/ppr_merro60/info.json,23,0,0
 chlx/str_merro60,keyboards/chlx/str_merro60/info.json,6,0,0
 chocofly/v1,keyboards/chocofly/v1/info.json,1,0,0
 chocv,keyboards/chocv/info.json,2,0,0
@@ -561,6 +564,7 @@ coarse/ixora,keyboards/coarse/ixora/info.json,1,0,0
 coarse/vinta,keyboards/coarse/vinta/info.json,2,0,0
 coban/pad3a,keyboards/coban/pad3a/info.json,2,0,0
 coban/pad9a,keyboards/coban/pad9a/info.json,2,0,0
+compensator,keyboards/compensator/info.json,2,0,0
 compound,keyboards/compound/info.json,2,0,0
 contender,keyboards/contender/info.json,1,0,0
 contra,keyboards/contra/info.json,4,0,0
@@ -1364,6 +1368,9 @@ handwired/woodpad,keyboards/handwired/woodpad/info.json,2,0,0
 handwired/wulkan,keyboards/handwired/wulkan/info.json,2,0,0
 handwired/wwa/helios,keyboards/handwired/wwa/helios/info.json,2,0,0
 handwired/wwa/kepler,keyboards/handwired/wwa/kepler/info.json,2,0,0
+handwired/wwa/mercury,keyboards/handwired/wwa/mercury/info.json,2,0,0
+handwired/wwa/soyuz,keyboards/handwired/wwa/soyuz/info.json,2,0,0
+handwired/wwa/soyuzxl,keyboards/handwired/wwa/soyuzxl/info.json,2,0,0
 handwired/xealous/rev1,keyboards/handwired/xealous/rev1/info.json,1,0,0
 handwired/z150,keyboards/handwired/z150/info.json,2,0,0
 handwired/zergo,keyboards/handwired/zergo/info.json,1,0,0
@@ -1481,6 +1488,7 @@ ilumkb/primus75,keyboards/ilumkb/primus75/info.json,2,0,0
 ilumkb/simpler61,keyboards/ilumkb/simpler61/info.json,2,0,0
 ilumkb/simpler64,keyboards/ilumkb/simpler64/info.json,2,0,0
 ilumkb/volcano660,keyboards/ilumkb/volcano660/info.json,3,0,0
+inett_studio/sq80/hotswap_layout_i,keyboards/inett_studio/sq80/hotswap_layout_i/info.json,3,0,2
 inett_studio/sqx/hotswap,keyboards/inett_studio/sqx/hotswap/info.json,3,0,0
 inett_studio/sqx/universal,keyboards/inett_studio/sqx/universal/info.json,7,0,0
 ingrained,keyboards/ingrained/info.json,4,0,0
@@ -2281,6 +2289,7 @@ mokey/mokey63,keyboards/mokey/mokey63/info.json,2,0,0
 mokey/mokey64,keyboards/mokey/mokey64/info.json,2,0,0
 mokey/xox70,keyboards/mokey/xox70/info.json,4,0,0
 mokey/xox70hot,keyboards/mokey/xox70hot/info.json,2,0,0
+moky/moky88,keyboards/moky/moky88/info.json,3,0,0
 molecule,keyboards/molecule/info.json,1,0,0
 momoka_ergo,keyboards/momoka_ergo/info.json,2,0,0
 momokai/aurora,keyboards/momokai/aurora/info.json,2,0,0
@@ -2720,6 +2729,7 @@ rocketboard_16,keyboards/rocketboard_16/info.json,2,0,2
 rominronin/katana60/rev1,keyboards/rominronin/katana60/rev1/info.json,4,0,0
 rominronin/katana60/rev2,keyboards/rominronin/katana60/rev2/info.json,3,0,0
 roseslite,keyboards/roseslite/info.json,2,0,0
+rot13labs/rotc0n,keyboards/rot13labs/rotc0n/info.json,2,0,0
 rotor,keyboards/rotor/info.json,3,0,0
 rotr,keyboards/rotr/info.json,1,0,0
 rpiguy9907/southpaw66,keyboards/rpiguy9907/southpaw66/info.json,2,0,0
