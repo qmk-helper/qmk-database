@@ -1,1 +1,1 @@
-{"keyboard": "40percentclub/nano", "keymap": "default", "layout": "LAYOUT", "layers": [["KC_VOLU", "KC_MPLY", "KC_MPRV", "KC_PGUP", "KC_VOLD", "KC_MUTE", "KC_MNXT", "KC_PGDN"], ["KC_F", "KC_TRNS", "RGB_HUI", "KC_TRNS", "RGB_TOG", "RGB_MOD", "RGB_HUD", "KC_TRNS"]]}
+{"keyboard": "40percentclub/nano", "keymap": "default", "layout": "LAYOUT", "layers": [["KC_VOLU", "KC_MPLY", "KC_MPRV", "KC_PGUP", "KC_VOLD", "KC_MUTE", "KC_MNXT", "KC_PGDN"], ["KC_F", "KC_TRNS", "UG_HUEU", "KC_TRNS", "UG_TOGG", "UG_NEXT", "UG_HUED", "KC_TRNS"]]}

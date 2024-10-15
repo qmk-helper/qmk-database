@@ -1,1 +1,1 @@
-{"keyboard": "handwired/onekey/stm32f3_disco", "keymap": "rgb", "layout": "LAYOUT_ortho_1x1", "layers": [["RGB_MOD"]]}
+{"keyboard": "handwired/onekey/stm32f3_disco", "keymap": "rgb", "layout": "LAYOUT_ortho_1x1", "layers": [["UG_NEXT"]]}

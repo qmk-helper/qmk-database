@@ -1,1 +1,1 @@
-{"keyboard": "capsunlocked/cu7", "keymap": "default", "layout": "LAYOUT", "layers": [["MO(1)", "KC_1", "KC_2", "KC_3", "KC_4", "KC_5", "KC_6"], ["KC_TRNS", "RGB_MOD", "KC_UP", "QK_BOOT", "KC_LEFT", "KC_DOWN", "KC_RGHT"]]}
+{"keyboard": "capsunlocked/cu7", "keymap": "default", "layout": "LAYOUT", "layers": [["MO(1)", "KC_1", "KC_2", "KC_3", "KC_4", "KC_5", "KC_6"], ["KC_TRNS", "UG_NEXT", "KC_UP", "QK_BOOT", "KC_LEFT", "KC_DOWN", "KC_RGHT"]]}
