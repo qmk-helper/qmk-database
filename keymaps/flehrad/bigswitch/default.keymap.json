@@ -1,1 +1,1 @@
-{"keyboard": "flehrad/bigswitch", "keymap": "default", "layout": "LAYOUT", "layers": [["LALT(LGUI(0x66))"]]}
+{"keyboard": "flehrad/bigswitch", "keymap": "default", "layout": "LAYOUT", "layers": [["LALT(LGUI(KC_KB_POWER))"]]}

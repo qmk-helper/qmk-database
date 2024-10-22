@@ -1,1 +1,0 @@
-{"keyboard": "ploopyco/mouse", "keymap": "drag_scroll", "layout": "LAYOUT", "layers": [["C(KC_C)", "KC_BTN1", "KC_BTN3", "LT(1, KC_BTN2)", "C(KC_V)", "KC_BTN4", "KC_BTN5", "DPI_CONFIG"], ["KC_TRNS", "DRAG_SCROLL", "KC_TRNS", "KC_TRNS", "KC_TRNS", "KC_TRNS", "KC_TRNS", "QK_BOOT"]]}

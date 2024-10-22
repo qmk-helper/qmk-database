@@ -1,0 +1,1 @@
+{"keyboard": "syenakeyboards/elaruus", "keymap": "default", "layout": "LAYOUT_ortho_1x2", "layers": [["LT(1,KC_LEFT)", "LT(2,KC_RIGHT)"], ["KC_TRNS", "KC_UP"], ["KC_DOWN", "KC_TRNS"]]}
