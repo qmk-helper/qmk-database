@@ -1,1 +1,1 @@
-{"keyboard": "handwired/6macro", "keymap": "osu", "layout": "LAYOUT", "layers": [["KC_ESC", "KC_GRAVE", "LT(1, KC_SPC)", "KC_C", "KC_Z", "KC_X"], ["RGB_TOG", "RGB_MOD", "KC_TRNS", "RGB_HUI", "RGB_VAI", "MO(2)"], ["QK_BOOT", "RGB_RMOD", "KC_NO", "RGB_HUD", "RGB_VAD", "KC_TRNS"]]}
+{"keyboard": "handwired/6macro", "keymap": "osu", "layout": "LAYOUT", "layers": [["KC_ESC", "KC_GRAVE", "LT(1, KC_SPC)", "KC_C", "KC_Z", "KC_X"], ["UG_TOGG", "UG_NEXT", "KC_TRNS", "UG_HUEU", "UG_VALU", "MO(2)"], ["QK_BOOT", "UG_PREV", "KC_NO", "UG_HUED", "UG_VALD", "KC_TRNS"]]}

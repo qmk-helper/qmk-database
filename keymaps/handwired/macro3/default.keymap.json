@@ -1,0 +1,1 @@
+{"keyboard": "handwired/macro3", "keymap": "default", "layout": "LAYOUT_ortho_2x4", "layers": [["KC_MUTE", "KC_MPLY", "KC_MRWD", "LT(1,KC_MFFD)", "C(KC_Z)", "C(KC_X)", "C(KC_C)", "C(KC_V)"], ["KC_TRNS", "KC_TRNS", "KC_TRNS", "KC_TRNS", "QK_BOOT", "KC_TRNS", "KC_TRNS", "KC_TRNS"]]}
