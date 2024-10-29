@@ -879,6 +879,7 @@ era/sirind/brick65,,1,0,0
 era/sirind/klein_hs,,1,0,0
 era/sirind/klein_sd,,1,0,0
 era/sirind/tomak,,5,0,0
+era/sirind/tomak79h,,1,0,0
 ergodox_ez/base,keyboards/ergodox_ez/info.json,5,0,4
 ergodox_ez/glow,keyboards/ergodox_ez/info.json,6,0,5
 ergodox_ez/shine,keyboards/ergodox_ez/info.json,5,0,4
@@ -1722,6 +1723,7 @@ kc60,,12,0,1
 kc60se,,6,0,0
 keaboard/rev1,,1,0,0
 keebformom,,2,0,0
+keebfront/vanguard65,,1,0,1
 keebio/bamfk1,,1,0,0
 keebio/bamfk4,,1,0,0
 keebio/bdn9/rev1,keyboards/keebio/bdn9/info.json,2,0,0
@@ -1749,6 +1751,8 @@ keebio/iris/rev6,keyboards/keebio/iris/info.json,1,0,1
 keebio/iris/rev7,keyboards/keebio/iris/info.json,1,0,1
 keebio/iris/rev8,keyboards/keebio/iris/info.json,1,0,1
 keebio/iris_ce/rev1,keyboards/keebio/iris_ce/info.json,1,0,0
+keebio/iris_lm/g1,keyboards/keebio/iris_lm/info.json,1,0,0
+keebio/iris_lm/k1,keyboards/keebio/iris_lm/info.json,1,0,0
 keebio/irispad/rev8,keyboards/keebio/irispad/info.json,1,0,1
 keebio/kbo5000/rev1,,2,0,0
 keebio/laplace,,1,0,0
@@ -2135,6 +2139,7 @@ m10a,,1,0,0
 machine_industries/m4_a,,1,0,0
 machkeyboards/mach3,,1,0,0
 macrocat,,1,0,0
+madjax_macropad,,1,0,0
 magic_force/mf17,,2,0,0
 magic_force/mf34,,1,0,0
 majistic,,1,0,1
@@ -3179,6 +3184,7 @@ treasure/type9,,1,0,0
 treasure/type9s2,,1,0,0
 treasure/type9s3,,2,0,0
 trkeyboards/trk1,,1,0,0
+trnthsn/s6xty,,6,0,0
 trnthsn/tyson60s,,6,0,0
 tszaboo/ortho4exent,,1,0,0
 tunks/ergo33,,2,0,0
@@ -3382,6 +3388,7 @@ xbows/nature,,1,0,0
 xbows/numpad,,1,0,0
 xbows/ranger,,1,0,0
 xbows/woody,,1,0,0
+xdboards/recon,,1,0,0
 xelus/akis,,1,0,0
 xelus/dawn60/rev1,keyboards/xelus/dawn60/info.json,1,0,0
 xelus/dawn60/rev1_qmk,keyboards/xelus/dawn60/info.json,1,0,0
