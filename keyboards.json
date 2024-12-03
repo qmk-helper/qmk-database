@@ -2412,6 +2412,14 @@
     "path": null
   },
   {
+    "name": "concreteflowers/cor",
+    "path": null
+  },
+  {
+    "name": "concreteflowers/cor_tkl",
+    "path": null
+  },
+  {
     "name": "contender",
     "path": null
   },
@@ -2486,6 +2494,10 @@
   {
     "name": "converter/sun_usb/type5",
     "path": "keyboards/converter/sun_usb/info.json"
+  },
+  {
+    "name": "converter/thinkpad_t6x/rpi_pico",
+    "path": null
   },
   {
     "name": "converter/usb_usb/ble",
@@ -2606,6 +2618,22 @@
   {
     "name": "crkbd/rev1",
     "path": "keyboards/crkbd/info.json"
+  },
+  {
+    "name": "crkbd/rev4_0/mini",
+    "path": "keyboards/crkbd/rev4_0/info.json"
+  },
+  {
+    "name": "crkbd/rev4_0/standard",
+    "path": "keyboards/crkbd/rev4_0/info.json"
+  },
+  {
+    "name": "crkbd/rev4_1/mini",
+    "path": "keyboards/crkbd/rev4_1/info.json"
+  },
+  {
+    "name": "crkbd/rev4_1/standard",
+    "path": "keyboards/crkbd/rev4_1/info.json"
   },
   {
     "name": "crowboard",
@@ -3068,6 +3096,10 @@
     "path": null
   },
   {
+    "name": "druah/majestouch_redux",
+    "path": null
+  },
+  {
     "name": "dtisaac/cg108",
     "path": null
   },
@@ -3517,6 +3549,10 @@
   },
   {
     "name": "era/sirind/tomak",
+    "path": null
+  },
+  {
+    "name": "era/sirind/tomak79h",
     "path": null
   },
   {
@@ -5044,6 +5080,10 @@
     "path": null
   },
   {
+    "name": "handwired/onekey/at_start_f415",
+    "path": "keyboards/handwired/onekey/info.json"
+  },
+  {
     "name": "handwired/onekey/blackpill_f401",
     "path": "keyboards/handwired/onekey/info.json"
   },
@@ -5608,6 +5648,10 @@
     "path": null
   },
   {
+    "name": "handwired/tenstad",
+    "path": null
+  },
+  {
     "name": "handwired/terminus_mini",
     "path": null
   },
@@ -5808,6 +5852,10 @@
     "path": null
   },
   {
+    "name": "herevoland/buff75",
+    "path": null
+  },
+  {
     "name": "hfdkb/ac001",
     "path": null
   },
@@ -5893,6 +5941,10 @@
   },
   {
     "name": "hineybush/h88",
+    "path": null
+  },
+  {
+    "name": "hineybush/h88_g2",
     "path": null
   },
   {
@@ -6153,6 +6205,10 @@
   },
   {
     "name": "idobao/montex/v2",
+    "path": null
+  },
+  {
+    "name": "idyllic/pizzapad",
     "path": null
   },
   {
@@ -6892,6 +6948,10 @@
     "path": null
   },
   {
+    "name": "keebfront/vanguard65",
+    "path": null
+  },
+  {
     "name": "keebio/bamfk1",
     "path": null
   },
@@ -6998,6 +7058,14 @@
   {
     "name": "keebio/iris_ce/rev1",
     "path": "keyboards/keebio/iris_ce/info.json"
+  },
+  {
+    "name": "keebio/iris_lm/g1",
+    "path": "keyboards/keebio/iris_lm/info.json"
+  },
+  {
+    "name": "keebio/iris_lm/k1",
+    "path": "keyboards/keebio/iris_lm/info.json"
   },
   {
     "name": "keebio/irispad/rev8",
@@ -8400,6 +8468,10 @@
     "path": null
   },
   {
+    "name": "lily58/lite_rev3",
+    "path": null
+  },
+  {
     "name": "lily58/r2g",
     "path": null
   },
@@ -8544,6 +8616,10 @@
     "path": null
   },
   {
+    "name": "madjax_macropad",
+    "path": null
+  },
+  {
     "name": "magic_force/mf17",
     "path": null
   },
@@ -8653,14 +8729,6 @@
   },
   {
     "name": "marshkeys/flowerpad",
-    "path": null
-  },
-  {
-    "name": "massdrop/alt",
-    "path": null
-  },
-  {
-    "name": "massdrop/ctrl",
     "path": null
   },
   {
@@ -9644,6 +9712,10 @@
     "path": null
   },
   {
+    "name": "mountainmechdesigns/teton_78",
+    "path": null
+  },
+  {
     "name": "ms_sculpt",
     "path": null
   },
@@ -9825,6 +9897,10 @@
   },
   {
     "name": "newgame40",
+    "path": null
+  },
+  {
+    "name": "nibell/micropad4x4",
     "path": null
   },
   {
@@ -10209,6 +10285,10 @@
   },
   {
     "name": "onekeyco/dango40",
+    "path": null
+  },
+  {
+    "name": "onnenon/hotdog_pad",
     "path": null
   },
   {
@@ -11216,6 +11296,10 @@
     "path": null
   },
   {
+    "name": "reviung/reviung46",
+    "path": null
+  },
+  {
     "name": "reviung/reviung5",
     "path": null
   },
@@ -11396,6 +11480,10 @@
     "path": null
   },
   {
+    "name": "rpiguy9907/fistbnmp",
+    "path": null
+  },
+  {
     "name": "rpiguy9907/southpaw66",
     "path": null
   },
@@ -11448,20 +11536,16 @@
     "path": "keyboards/s_ol/info.json"
   },
   {
-    "name": "saevus/cor",
-    "path": null
-  },
-  {
-    "name": "saevus/cor_tkl",
-    "path": null
-  },
-  {
     "name": "sakura_workshop/fuji75/hotswap",
     "path": "keyboards/sakura_workshop/fuji75/info.json"
   },
   {
     "name": "sakura_workshop/fuji75/solder",
     "path": "keyboards/sakura_workshop/fuji75/info.json"
+  },
+  {
+    "name": "salane/ncr80alpsskfl",
+    "path": null
   },
   {
     "name": "salicylic_acid3/7skb/rev1",
@@ -11640,6 +11724,10 @@
     "path": null
   },
   {
+    "name": "sdrakbs/sdrakb00",
+    "path": null
+  },
+  {
     "name": "sekigon/grs_70ec",
     "path": null
   },
@@ -11757,6 +11845,10 @@
   },
   {
     "name": "shoc",
+    "path": null
+  },
+  {
+    "name": "shorty",
     "path": null
   },
   {
@@ -12088,6 +12180,10 @@
     "path": "keyboards/splitkb/aurora/sweep/info.json"
   },
   {
+    "name": "splitkb/halcyon/kyria/rev4",
+    "path": "keyboards/splitkb/halcyon/kyria/info.json"
+  },
+  {
     "name": "splitkb/kyria/rev1/base",
     "path": "keyboards/splitkb/kyria/rev1/info.json"
   },
@@ -12125,6 +12221,10 @@
   },
   {
     "name": "star75",
+    "path": null
+  },
+  {
+    "name": "steelseries/prime_plus",
     "path": null
   },
   {
@@ -12226,6 +12326,10 @@
   {
     "name": "subrezon/lancer",
     "path": "keyboards/subrezon/info.json"
+  },
+  {
+    "name": "suikagiken/suika27melo",
+    "path": null
   },
   {
     "name": "suikagiken/suika85ergo",
@@ -12345,6 +12449,18 @@
   },
   {
     "name": "takashicompany/heavy_left",
+    "path": null
+  },
+  {
+    "name": "takashicompany/jourkey",
+    "path": null
+  },
+  {
+    "name": "takashicompany/klec_01",
+    "path": null
+  },
+  {
+    "name": "takashicompany/klec_02",
     "path": null
   },
   {
@@ -12718,6 +12834,26 @@
   {
     "name": "trkeyboards/trk1",
     "path": null
+  },
+  {
+    "name": "trnthsn/e8ghty/stm32f072",
+    "path": "keyboards/trnthsn/e8ghty/info.json"
+  },
+  {
+    "name": "trnthsn/e8ghty/stm32f103",
+    "path": "keyboards/trnthsn/e8ghty/info.json"
+  },
+  {
+    "name": "trnthsn/s6xty",
+    "path": null
+  },
+  {
+    "name": "trnthsn/s6xty5neor2/stm32f072",
+    "path": "keyboards/trnthsn/s6xty5neor2/info.json"
+  },
+  {
+    "name": "trnthsn/s6xty5neor2/stm32f103",
+    "path": "keyboards/trnthsn/s6xty5neor2/info.json"
   },
   {
     "name": "trnthsn/tyson60s",
@@ -13284,6 +13420,10 @@
     "path": null
   },
   {
+    "name": "windstudio/wind_x/r1",
+    "path": null
+  },
+  {
     "name": "winkeyless/b87",
     "path": null
   },
@@ -13529,6 +13669,10 @@
   },
   {
     "name": "xbows/woody",
+    "path": null
+  },
+  {
+    "name": "xdboards/recon",
     "path": null
   },
   {
@@ -13948,6 +14092,10 @@
     "path": null
   },
   {
+    "name": "zeix/singa/kohaku",
+    "path": null
+  },
+  {
     "name": "zfrontier/big_switch",
     "path": null
   },
@@ -13989,6 +14137,10 @@
   },
   {
     "name": "zlant",
+    "path": null
+  },
+  {
+    "name": "zlant_xl",
     "path": null
   },
   {
@@ -14041,6 +14193,10 @@
   },
   {
     "name": "zykrah/fuyu",
+    "path": null
+  },
+  {
+    "name": "zykrah/fuyu_hs",
     "path": null
   },
   {
