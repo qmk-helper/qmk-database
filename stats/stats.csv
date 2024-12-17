@@ -339,6 +339,7 @@ binepad/bn003,,1,0,0
 binepad/bn006,,2,0,0
 binepad/bn009/r1,keyboards/binepad/bn009/info.json,1,0,1
 binepad/bn009/r2,keyboards/binepad/bn009/info.json,1,0,1
+binepad/bnk8,,2,0,1
 binepad/bnk9,,1,0,0
 binepad/bnr1/v1,keyboards/binepad/bnr1/info.json,3,0,0
 binepad/bnr1/v2,keyboards/binepad/bnr1/info.json,3,0,0
@@ -429,6 +430,8 @@ cannonkeys/brutalv2_1800,,1,0,0
 cannonkeys/brutalv2_60,,10,0,0
 cannonkeys/brutalv2_65,,9,0,0
 cannonkeys/caerdroia,,1,0,0
+cannonkeys/cerberus/hotswap,keyboards/cannonkeys/cerberus/info.json,2,0,0
+cannonkeys/cerberus/solderable,keyboards/cannonkeys/cerberus/info.json,3,0,0
 cannonkeys/chimera65,,1,0,0
 cannonkeys/chimera65_hs,,1,0,0
 cannonkeys/cloudline,,5,0,0
@@ -533,13 +536,16 @@ churrosoft/deck8/noleds,keyboards/churrosoft/deck8/info.json,1,0,0
 churrosoft/deck8/rgb,keyboards/churrosoft/deck8/info.json,1,0,0
 cipulot/60xt,,1,0,0
 cipulot/chroma,,17,0,0
+cipulot/ec1_at,,1,0,0
 cipulot/ec_23u,,1,0,0
 cipulot/ec_60,,4,0,2
 cipulot/ec_60x,,4,0,0
+cipulot/ec_65x,,5,0,0
 cipulot/ec_660c,,1,0,0
 cipulot/ec_980c,,1,0,1
 cipulot/ec_alveus/1_0_0,,1,0,0
 cipulot/ec_alveus/1_2_0,,2,0,0
+cipulot/ec_constellation,,2,0,0
 cipulot/ec_dolice,,1,0,0
 cipulot/ec_menhir,,1,0,0
 cipulot/ec_pro2,,2,0,0
@@ -547,6 +553,7 @@ cipulot/ec_prox/ansi_iso,,2,0,0
 cipulot/ec_prox/jis,,1,0,1
 cipulot/ec_theca,,3,0,0
 cipulot/ec_tkl,,4,0,2
+cipulot/ec_tkl_x,,7,0,2
 cipulot/ec_typeb,,1,0,0
 cipulot/ec_typek,,1,0,0
 cipulot/ec_vero,,2,0,0
@@ -602,6 +609,8 @@ coban/pad3a,,1,0,0
 coban/pad9a,,1,0,0
 compensator,,1,0,0
 compound,,1,0,0
+concreteflowers/cor,,1,0,0
+concreteflowers/cor_tkl,,6,0,0
 contender,,1,0,0
 contra,,3,0,0
 controllerworks/city42,,2,0,0
@@ -621,6 +630,7 @@ converter/periboard_512,,1,0,0
 converter/siemens_tastatur,,1,0,0
 converter/sun_usb/type3,keyboards/converter/sun_usb/info.json,1,0,0
 converter/sun_usb/type5,keyboards/converter/sun_usb/info.json,1,0,0
+converter/thinkpad_t6x/rpi_pico,,1,0,0
 converter/usb_usb/ble,keyboards/converter/usb_usb/info.json,4,0,0
 converter/usb_usb/hasu,keyboards/converter/usb_usb/info.json,4,0,0
 converter/usb_usb/leonardo,keyboards/converter/usb_usb/info.json,4,0,0
@@ -629,6 +639,8 @@ converter/xmk,,2,0,0
 converter/xt_usb,,1,0,0
 cool836a,,1,0,0
 copenhagen_click/click_pad_v1,,1,0,0
+cornia/v0_6,keyboards/cornia/info.json,3,0,0
+cornia/v1,keyboards/cornia/info.json,3,0,0
 coseyfannitutti/discipad,,1,0,0
 coseyfannitutti/discipline,,6,0,0
 coseyfannitutti/mullet,,1,0,0
@@ -651,6 +663,10 @@ crimsonkeyboards/resume1800,,2,0,0
 crin,,1,0,0
 crkbd/r2g,keyboards/crkbd/info.json,3,0,0
 crkbd/rev1,keyboards/crkbd/info.json,3,0,0
+crkbd/rev4_0/mini,keyboards/crkbd/rev4_0/info.json,3,0,0
+crkbd/rev4_0/standard,keyboards/crkbd/rev4_0/info.json,3,0,0
+crkbd/rev4_1/mini,keyboards/crkbd/rev4_1/info.json,3,0,0
+crkbd/rev4_1/standard,keyboards/crkbd/rev4_1/info.json,3,0,0
 crowboard,,1,0,0
 crypt_macro,,1,0,0
 custommk/cmk11,,1,0,0
@@ -766,6 +782,7 @@ drop/shift/v2,,1,0,0
 drop/thekey/v1,,3,0,1
 drop/thekey/v2,,5,0,1
 druah/dk_saver_redux,,3,0,0
+druah/majestouch_redux,,2,0,0
 dtisaac/cg108,,1,0,0
 dtisaac/dosa40rgb,,1,0,0
 dtisaac/dtisaac01,,3,0,0
@@ -879,10 +896,12 @@ era/sirind/brick65,,1,0,0
 era/sirind/klein_hs,,1,0,0
 era/sirind/klein_sd,,1,0,0
 era/sirind/tomak,,5,0,0
+era/sirind/tomak79h,,1,0,0
+era/sirind/tomak79s,,1,0,0
 ergodox_ez/base,keyboards/ergodox_ez/info.json,5,0,4
 ergodox_ez/glow,keyboards/ergodox_ez/info.json,6,0,5
 ergodox_ez/shine,keyboards/ergodox_ez/info.json,5,0,4
-ergodox_stm32,,1,0,0
+ergodox_stm32,,2,0,0
 ergoslab/rev1,,1,0,0
 ergotravel/rev1,,1,0,0
 ericrlau/numdiscipline/rev1,,1,0,0
@@ -1142,6 +1161,7 @@ handwired/boss566y/redragon_vara,,2,0,0
 handwired/brain,,1,0,0
 handwired/bstk100,,1,0,0
 handwired/cans12er,,1,0,0
+handwired/cans12erv2,,1,0,0
 handwired/carpolly,,1,0,0
 handwired/chiron,,1,0,0
 handwired/ck4x4,,1,0,0
@@ -1179,6 +1199,7 @@ handwired/dactyl_manuform/6x6/blackpill_f411,keyboards/handwired/dactyl_manuform
 handwired/dactyl_manuform/6x6/promicro,keyboards/handwired/dactyl_manuform/6x6/info.json,2,0,0
 handwired/dactyl_manuform/6x6_4,,1,0,0
 handwired/dactyl_manuform/6x7,,2,0,0
+handwired/dactyl_manuform_pi_pico,,1,0,0
 handwired/dactyl_maximus,,1,0,0
 handwired/dactyl_minidox,,2,0,1
 handwired/dactyl_promicro,,1,0,0
@@ -1260,6 +1281,7 @@ handwired/numpad20,,1,0,0
 handwired/obuwunkunubi/spaget,,1,0,0
 handwired/oem_ansi_fullsize,,2,0,0
 handwired/oem_iso_fullsize,,1,0,0
+handwired/onekey/at_start_f415,keyboards/handwired/onekey/info.json,22,0,5
 handwired/onekey/blackpill_f401,keyboards/handwired/onekey/info.json,22,0,5
 handwired/onekey/blackpill_f401_tinyuf2,keyboards/handwired/onekey/info.json,22,0,5
 handwired/onekey/blackpill_f411,keyboards/handwired/onekey/info.json,22,0,5
@@ -1401,6 +1423,7 @@ handwired/symmetry60,,2,0,0
 handwired/t111,,2,0,1
 handwired/technicpad,,1,0,1
 handwired/tennie,,3,0,0
+handwired/tenstad,,1,0,1
 handwired/terminus_mini,,1,0,0
 handwired/tkk,,1,0,0
 handwired/trackpoint,,1,0,0
@@ -1451,6 +1474,7 @@ helix/rev2/sc,keyboards/helix/rev2/info.json,3,0,1
 helix/rev2/under,keyboards/helix/rev2/info.json,3,0,1
 helix/rev3_4rows,,1,0,0
 helix/rev3_5rows,,1,0,0
+herevoland/buff75,,1,0,0
 hfdkb/ac001,,1,0,0
 hhkb/ansi/32u2,keyboards/hhkb/ansi/info.json,2,0,0
 hhkb/ansi/32u4,keyboards/hhkb/ansi/info.json,2,0,0
@@ -1473,6 +1497,7 @@ hineybush/h75_singa,,2,0,0
 hineybush/h87_g2,,5,0,0
 hineybush/h87a,,2,0,0
 hineybush/h88,,2,0,0
+hineybush/h88_g2,,11,0,0
 hineybush/hbcp,,3,0,0
 hineybush/hineyg80,,2,0,0
 hineybush/ibis,,3,0,0
@@ -1504,12 +1529,14 @@ hubble,,1,0,0
 huytbt/h50,,1,0,0
 ianklug/grooveboard,,1,0,0
 ibm/model_m/ashpil_usbc,,1,0,0
+ibm/model_m/ctrl_m,,1,0,0
 ibm/model_m/modelh,,2,0,0
 ibm/model_m/mschwingen/led_ffc,keyboards/ibm/model_m/mschwingen/info.json,1,0,0
 ibm/model_m/mschwingen/led_wired,keyboards/ibm/model_m/mschwingen/info.json,1,0,0
 ibm/model_m/mschwingen/led_ws2812,keyboards/ibm/model_m/mschwingen/info.json,1,0,0
 ibm/model_m/teensy2,,1,0,0
 ibm/model_m/teensypp,,1,0,0
+ibm/model_m/yacobo,,1,0,0
 ibm/model_m/yugo_m,,1,0,0
 ibm/model_m_122/ibm122m,,1,0,0
 ibm/model_m_122/m122_3270/blackpill,keyboards/ibm/model_m_122/m122_3270/info.json,1,0,0
@@ -1538,6 +1565,7 @@ idobao/id96,,2,0,0
 idobao/montex/v1,,1,0,0
 idobao/montex/v1rgb,,2,0,0
 idobao/montex/v2,,1,0,0
+idyllic/pizzapad,,2,0,0
 idyllic/tinny50_rgb,,1,0,0
 igloo,,1,0,0
 illuminati/is0,,1,0,0
@@ -1667,6 +1695,7 @@ kb_elmo/qez,,1,0,0
 kb_elmo/sesame,,3,0,0
 kb_elmo/twelvekey,,1,0,0
 kb_elmo/vertex,,1,0,0
+kbd0/curve0/60_ansi,,3,0,1
 kbdclack/kaishi65,,2,0,0
 kbdcraft/adam64,,1,0,0
 kbdfans/baguette66/rgb,,1,0,0
@@ -1722,6 +1751,7 @@ kc60,,12,0,1
 kc60se,,6,0,0
 keaboard/rev1,,1,0,0
 keebformom,,2,0,0
+keebfront/vanguard65,,1,0,1
 keebio/bamfk1,,1,0,0
 keebio/bamfk4,,1,0,0
 keebio/bdn9/rev1,keyboards/keebio/bdn9/info.json,2,0,0
@@ -1749,6 +1779,8 @@ keebio/iris/rev6,keyboards/keebio/iris/info.json,1,0,1
 keebio/iris/rev7,keyboards/keebio/iris/info.json,1,0,1
 keebio/iris/rev8,keyboards/keebio/iris/info.json,1,0,1
 keebio/iris_ce/rev1,keyboards/keebio/iris_ce/info.json,1,0,0
+keebio/iris_lm/g1,keyboards/keebio/iris_lm/info.json,1,0,0
+keebio/iris_lm/k1,keyboards/keebio/iris_lm/info.json,1,0,0
 keebio/irispad/rev8,keyboards/keebio/irispad/info.json,1,0,1
 keebio/kbo5000/rev1,,2,0,0
 keebio/laplace,,1,0,0
@@ -2032,6 +2064,7 @@ kprepublic/jj50/rev2,,2,0,0
 kradoindustries/kousa,,1,0,0
 kradoindustries/krado66,,1,0,0
 kradoindustries/promenade,,1,0,0
+kradoindustries/promenade_rp24s,,1,0,0
 kraken_jones/pteron56,,1,0,0
 ktec/daisy,,1,0,0
 ktec/ergodone,,2,0,1
@@ -2099,6 +2132,7 @@ lfkeyboards/smk65/revf,keyboards/lfkeyboards/smk65/info.json,4,0,0
 lgbtkl,,1,0,0
 lily58/glow_enc,,2,0,0
 lily58/light,,2,0,0
+lily58/lite_rev3,,2,0,0
 lily58/r2g,,2,0,0
 lily58/rev1,,2,0,0
 lime/rev1,,1,0,0
@@ -2119,6 +2153,7 @@ ll3macorn/bongopad,,1,0,0
 lm_keyboard/lm60n,,1,0,0
 loki65,,1,0,0
 longnald/corin,,1,0,0
+lostdotfish/rp2040_orbweaver,,1,0,0
 lucid/alexa,,3,0,0
 lucid/alexa_solder,,9,0,0
 lucid/kbd8x_hs,,2,0,0
@@ -2135,6 +2170,8 @@ m10a,,1,0,0
 machine_industries/m4_a,,1,0,0
 machkeyboards/mach3,,1,0,0
 macrocat,,1,0,0
+macroflow_original,,1,0,0
+madjax_macropad,,1,0,0
 magic_force/mf17,,2,0,0
 magic_force/mf34,,1,0,0
 majistic,,1,0,1
@@ -2154,6 +2191,7 @@ maple_computing/launchpad/rev1,,2,0,0
 maple_computing/lets_split_eh,,3,0,0
 maple_computing/minidox/rev1,,3,0,1
 maple_computing/the_ruler,,1,0,0
+marcopad,,3,0,0
 mariorion_v25/prod,,9,0,0
 mariorion_v25/proto,,9,0,0
 marksard/leftover30,,2,0,0
@@ -2163,8 +2201,6 @@ marksard/treadstone32/rev1,keyboards/marksard/treadstone32/info.json,1,0,1
 marksard/treadstone48/rev1,,2,0,2
 marksard/treadstone48/rev2,,1,0,1
 marshkeys/flowerpad,,1,0,0
-massdrop/alt,,3,0,0
-massdrop/ctrl,,2,0,0
 masterworks/classy_tkl/rev_a,,3,0,0
 matchstickworks/normiepad,keyboards/matchstickworks/info.json,2,0,0
 matchstickworks/southpad/rev1,keyboards/matchstickworks/info.json,1,0,0
@@ -2410,6 +2446,7 @@ moondrop/dash75/r1,keyboards/moondrop/dash75/info.json,1,0,1
 morizon,,1,0,0
 mothwing,,1,0,0
 mountainblocks/mb17,,1,0,0
+mountainmechdesigns/teton_78,,1,0,0
 ms_sculpt,,1,0,0
 mss_studio/m63_rgb,,1,0,1
 mss_studio/m64_rgb,,1,0,1
@@ -2456,6 +2493,7 @@ neson_design/810e,,1,0,0
 neson_design/n6,,3,0,0
 neson_design/nico,,1,0,0
 newgame40,,2,0,0
+nibell/micropad4x4,,2,0,0
 nibiria/stream15,,1,0,0
 nightingale_studios/hailey,,1,0,0
 nightly_boards/adellein,,1,0,0
@@ -2552,6 +2590,7 @@ omkbd/runner3680/5x7,keyboards/omkbd/runner3680/info.json,1,0,0
 omkbd/runner3680/5x8,keyboards/omkbd/runner3680/info.json,2,0,1
 omnikeyish,,2,0,0
 onekeyco/dango40,,1,0,0
+onnenon/hotdog_pad,,1,0,0
 opendeck/32/rev1,keyboards/opendeck/32/info.json,1,0,0
 orange75,,1,0,0
 org60,,2,0,0
@@ -2619,7 +2658,7 @@ phase_studio/titan65/hotswap,,1,0,0
 phase_studio/titan65/soldered,,1,0,0
 phdesign/phac,,1,0,0
 phentech/rpk_001,,1,0,0
-phoenix,,1,0,0
+phoenix,,2,0,0
 phrygian/ph100,,1,0,0
 piantoruv44,,1,0,0
 pica40/rev1,keyboards/pica40/info.json,1,0,0
@@ -2803,6 +2842,7 @@ reviung/reviung33,,2,0,1
 reviung/reviung34,,6,0,1
 reviung/reviung39,,2,0,0
 reviung/reviung41,,1,0,0
+reviung/reviung46,,1,0,0
 reviung/reviung5,,3,0,0
 reviung/reviung53,,1,0,0
 reviung/reviung61,,3,0,0
@@ -2848,6 +2888,7 @@ rot13labs/rotc0n,,2,0,0
 rot13labs/veilid_sao,,3,0,0
 rotor,,2,0,0
 rotr,,1,0,0
+rpiguy9907/fistbnmp,,1,0,1
 rpiguy9907/southpaw66,,1,0,0
 rubi,,1,0,0
 runes/skjoldr,,2,0,0
@@ -2861,10 +2902,9 @@ ryanbaekr/rb87,,1,0,0
 ryanskidmore/rskeys100,,2,0,0
 ryloo_studio/m0110,,3,0,0
 s_ol/0xc_pad,keyboards/s_ol/info.json,1,0,0
-saevus/cor,,1,0,0
-saevus/cor_tkl,,6,0,0
 sakura_workshop/fuji75/hotswap,keyboards/sakura_workshop/fuji75/info.json,1,0,0
 sakura_workshop/fuji75/solder,keyboards/sakura_workshop/fuji75/info.json,1,0,0
+salane/ncr80alpsskfl,,1,0,0
 salicylic_acid3/7skb/rev1,,1,0,0
 salicylic_acid3/7splus,,1,0,0
 salicylic_acid3/ajisai74,,2,0,1
@@ -2909,6 +2949,7 @@ sck/osa,,4,0,0
 scottokeebs/scotto34,,2,0,0
 scottokeebs/scotto69,,1,0,0
 scottokeebs/scottowing,,1,0,0
+sdrakbs/sdrakb00,,1,0,0
 sekigon/grs_70ec,,1,0,0
 sendyyeah/75pixels,,2,0,0
 sendyyeah/bevi,,1,0,0
@@ -2939,6 +2980,7 @@ sharkoon/skiller_sgk50_s4,,3,0,0
 shiro,,3,0,0
 shk9,,1,0,0
 shoc,,1,0,0
+shorty,,1,0,0
 shostudio/arc,,1,0,0
 sidderskb/majbritt/rev1,,1,0,0
 sidderskb/majbritt/rev2,,1,0,0
@@ -3021,6 +3063,7 @@ splitkb/aurora/helix/rev1,keyboards/splitkb/aurora/helix/info.json,2,0,1
 splitkb/aurora/lily58/rev1,keyboards/splitkb/aurora/lily58/info.json,2,0,1
 splitkb/aurora/sofle_v2/rev1,keyboards/splitkb/aurora/sofle_v2/info.json,2,0,1
 splitkb/aurora/sweep/rev1,keyboards/splitkb/aurora/sweep/info.json,3,0,1
+splitkb/halcyon/kyria/rev4,keyboards/splitkb/halcyon/kyria/info.json,1,0,0
 splitkb/kyria/rev1/base,keyboards/splitkb/kyria/rev1/info.json,2,0,0
 splitkb/kyria/rev1/proton_c,keyboards/splitkb/kyria/rev1/info.json,2,0,0
 splitkb/kyria/rev2/base,keyboards/splitkb/kyria/rev2/info.json,2,0,0
@@ -3031,6 +3074,7 @@ splitography,,3,0,0
 splitty/rev1,,1,0,0
 sporewoh/banime40,,2,0,0
 star75,,1,0,0
+steelseries/prime_plus,,1,0,0
 stello65/beta,,9,0,0
 stello65/hs_rev1,,1,0,0
 stello65/sl_rev1,,1,0,0
@@ -3056,11 +3100,14 @@ suavity/ehan,,2,0,0
 subatomic,,1,0,0
 subrezon/la_nc,keyboards/subrezon/info.json,1,0,0
 subrezon/lancer,keyboards/subrezon/info.json,1,0,1
+suikagiken/suika27melo,,2,0,2
 suikagiken/suika85ergo,,1,0,0
 supersplit,,1,0,0
 superuser/ext,,1,0,0
 superuser/frl,,1,0,0
 superuser/tkl,,1,0,0
+swagkeys/eave,,1,0,0
+swagkeys/integral,,3,0,0
 swiftrax/retropad,,1,0,0
 swiss,,2,0,0
 switchplate/southpaw_65,,3,0,0
@@ -3086,6 +3133,9 @@ takashicompany/endzone34,,1,0,0
 takashicompany/ergomirage,,1,0,0
 takashicompany/goat51,,1,0,0
 takashicompany/heavy_left,,1,0,1
+takashicompany/jourkey,,1,0,0
+takashicompany/klec_01,,1,0,0
+takashicompany/klec_02,,1,0,0
 takashicompany/minidivide,,1,0,0
 takashicompany/minidivide_max,,1,0,0
 takashicompany/minizone,,1,0,0
@@ -3179,6 +3229,11 @@ treasure/type9,,1,0,0
 treasure/type9s2,,1,0,0
 treasure/type9s3,,2,0,0
 trkeyboards/trk1,,1,0,0
+trnthsn/e8ghty/stm32f072,keyboards/trnthsn/e8ghty/info.json,5,0,0
+trnthsn/e8ghty/stm32f103,keyboards/trnthsn/e8ghty/info.json,5,0,0
+trnthsn/s6xty,,6,0,0
+trnthsn/s6xty5neor2/stm32f072,keyboards/trnthsn/s6xty5neor2/info.json,3,0,0
+trnthsn/s6xty5neor2/stm32f103,keyboards/trnthsn/s6xty5neor2/info.json,3,0,0
 trnthsn/tyson60s,,6,0,0
 tszaboo/ortho4exent,,1,0,0
 tunks/ergo33,,2,0,0
@@ -3243,6 +3298,7 @@ viktus/z150_bh,,2,0,0
 vinhcatba/uncertainty,,1,0,0
 vitamins_included/rev1,keyboards/vitamins_included/info.json,2,0,0
 vitamins_included/rev2,keyboards/vitamins_included/info.json,2,0,0
+vt40,,2,0,0
 waldo,,2,0,0
 walletburner/cajal,,2,0,0
 walletburner/neuron,,1,0,0
@@ -3320,6 +3376,7 @@ wilba_tech/wt8_a,,1,0,0
 wilba_tech/zeal60,,8,0,0
 wilba_tech/zeal65,,2,0,0
 willoucom/keypad,,1,0,1
+windstudio/wind_x/r1,,1,0,0
 winkeyless/b87,,9,0,0
 winkeyless/bface,,1,0,0
 winkeyless/bmini,,1,0,0
@@ -3382,6 +3439,7 @@ xbows/nature,,1,0,0
 xbows/numpad,,1,0,0
 xbows/ranger,,1,0,0
 xbows/woody,,1,0,0
+xdboards/recon,,1,0,0
 xelus/akis,,1,0,0
 xelus/dawn60/rev1,keyboards/xelus/dawn60/info.json,1,0,0
 xelus/dawn60/rev1_qmk,keyboards/xelus/dawn60/info.json,1,0,0
@@ -3410,7 +3468,7 @@ xelus/xs60/hotswap,keyboards/xelus/xs60/info.json,1,0,0
 xelus/xs60/soldered,keyboards/xelus/xs60/info.json,2,0,0
 xenon,,1,0,0
 xiaomi/mk02,,1,0,0
-xiudi/xd002,,5,0,2
+xiudi/xd002,,4,0,1
 xiudi/xd004/v1,,1,0,0
 xiudi/xd60/rev2,keyboards/xiudi/xd60/info.json,9,0,1
 xiudi/xd60/rev3,keyboards/xiudi/xd60/info.json,9,0,1
@@ -3486,6 +3544,7 @@ yynmt/kagamidget,,1,0,0
 zeix/acidandco/stellaron,,5,0,0
 zeix/eden,,14,0,0
 zeix/qwertyqop60hs,,6,0,0
+zeix/singa/kohaku,,9,0,0
 zfrontier/big_switch,,1,0,0
 zicodia/tklfrlnrlmlao,,2,0,0
 ziggurat,,2,0,0
@@ -3497,6 +3556,7 @@ zlabkeeb/15pad,,1,0,0
 zlabkeeb/6pad,,1,0,0
 zlabkeeb/vrynboard,,1,0,0
 zlant,,3,0,0
+zlant_xl,,1,0,0
 zoo/wampus,,3,0,0
 zos/65s,,3,0,0
 zsa/moonlander,,1,0,1
@@ -3510,4 +3570,5 @@ zvecr/zv48/f401,keyboards/zvecr/zv48/info.json,2,0,0
 zvecr/zv48/f411,keyboards/zvecr/zv48/info.json,2,0,0
 zwag/zwag75,,1,0,0
 zykrah/fuyu,,1,0,0
+zykrah/fuyu_hs,,1,0,0
 zykrah/slime88,,1,0,0

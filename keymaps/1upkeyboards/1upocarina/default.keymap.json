@@ -1,1 +1,1 @@
-{"keyboard": "1upkeyboards/1upocarina", "keymap": "default", "layout": "LAYOUT_1x5", "layers": [["KC_Z", "KC_X", "LT(1, KC_ESC)", "KC_C", "KC_V"], ["RGB_TOG", "RGB_MOD", "KC_TRNS", "RGB_VAD", "RGB_VAI"]]}
+{"keyboard": "1upkeyboards/1upocarina", "keymap": "default", "layout": "LAYOUT_1x5", "layers": [["KC_Z", "KC_X", "LT(1, KC_ESC)", "KC_C", "KC_V"], ["RM_TOGG", "RM_NEXT", "KC_TRNS", "RM_VALD", "RM_VALU"]]}
