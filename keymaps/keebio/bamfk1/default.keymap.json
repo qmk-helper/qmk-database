@@ -1,1 +1,1 @@
-{"keyboard": "keebio/bamfk1", "keymap": "default", "layout": "LAYOUT", "layers": [["RGB_MOD", "TL_LOWR", "KC_MUTE"], ["KC_B", "KC_TRNS", "KC_C"], ["KC_TRNS", "KC_TRNS", "KC_TRNS"], ["KC_TRNS", "KC_TRNS", "KC_TRNS"]]}
+{"keyboard": "keebio/bamfk1", "keymap": "default", "layout": "LAYOUT", "layers": [["RM_NEXT", "TL_LOWR", "KC_MUTE"], ["KC_B", "KC_TRNS", "KC_C"], ["KC_TRNS", "KC_TRNS", "KC_TRNS"], ["KC_TRNS", "KC_TRNS", "KC_TRNS"]]}
