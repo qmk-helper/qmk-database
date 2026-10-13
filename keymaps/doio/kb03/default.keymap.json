@@ -1,0 +1,1 @@
+{"keyboard": "doio/kb03", "keymap": "default", "layout": "LAYOUT", "layers": [["TO(_MOUSE)", "KC_1", "KC_2", "KC_3", "KC_ENT"], ["TO(_MEDIA)", "MS_BTN1", "MS_BTN3", "MS_BTN2", "KC_LCTL"], ["TO(_LIGHTS)", "KC_MRWD", "KC_MPLY", "KC_MFFD", "KC_MUTE"], ["TO(_BASE)", "RM_VALD", "RM_NEXT", "RM_VALU", "RM_TOGG"]]}
